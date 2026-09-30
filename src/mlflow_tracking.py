@@ -4,18 +4,14 @@ import joblib
 from pathlib import Path
 
 
-# ==========================================
 # PROJECT PATH
-# ==========================================
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 MODEL_PATH = BASE_DIR / "models" / "final_model.pkl"
 
 
-# ==========================================
 # CHECK MODEL
-# ==========================================
 
 print("Model path:", MODEL_PATH)
 
@@ -27,27 +23,23 @@ if not MODEL_PATH.exists():
 print("Model found successfully!")
 
 
-# ==========================================
-# LOAD MODEL
-# ==========================================
 
+# LOAD MODEL
 model = joblib.load(MODEL_PATH)
 
 print("Model loaded successfully!")
 
 
-# ==========================================
+
 # MLFLOW TRACKING SERVER
-# ==========================================
 
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
 mlflow.set_experiment("Video_Game_Sales_Prediction")
 
 
-# ==========================================
 # START RUN
-# ==========================================
+
 
 with mlflow.start_run():
 
@@ -121,11 +113,9 @@ with mlflow.start_run():
     # Run information
     run_id = mlflow.active_run().info.run_id
 
-    print("\n================================")
     print("MLflow Tracking Successful!")
-    print("================================")
+
     print("Experiment :", "Video_Game_Sales_Prediction")
     print("Run ID     :", run_id)
     print("R2 Score   :", r2)
     print("Model      :", "Gradient Boosting Regressor")
-    print("================================")
