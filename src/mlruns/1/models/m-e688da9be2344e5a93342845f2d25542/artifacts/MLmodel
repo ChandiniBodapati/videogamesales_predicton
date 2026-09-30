@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/HP 640 G5/Desktop/videogamesales_predicton/src/mlruns/1/models/m-e688da9be2344e5a93342845f2d25542/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.15.2
+model_id: m-e688da9be2344e5a93342845f2d25542
+model_size_bytes: 3663842
+model_uuid: m-e688da9be2344e5a93342845f2d25542
+prompts: null
+run_id: 053ee0e0e2e54c2694c4066b0dfd8f72
+utc_time_created: '2026-09-30 05:45:06.972342'

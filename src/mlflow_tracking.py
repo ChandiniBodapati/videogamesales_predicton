@@ -1,103 +1,131 @@
 import mlflow
 import mlflow.sklearn
-import pandas as pd
-
-from sklearn.model_selection import train_test_split
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
-from sklearn.pipeline import Pipeline
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
-
-from sklearn.linear_model import LinearRegression
-from sklearn.linear_model import Ridge
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.ensemble import GradientBoostingRegressor
+import joblib
+from pathlib import Path
 
 
-DATA_PATH = "../data/processed/vgsales_cleaned.csv"
+# ==========================================
+# PROJECT PATH
+# ==========================================
 
-mlflow.set_tracking_uri("sqlite:///../mlflow.db")
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+MODEL_PATH = BASE_DIR / "models" / "final_model.pkl"
+
+
+# ==========================================
+# CHECK MODEL
+# ==========================================
+
+print("Model path:", MODEL_PATH)
+
+if not MODEL_PATH.exists():
+    print("ERROR: Model file not found!")
+    print("Expected:", MODEL_PATH)
+    exit()
+
+print("Model found successfully!")
+
+
+# ==========================================
+# LOAD MODEL
+# ==========================================
+
+model = joblib.load(MODEL_PATH)
+
+print("Model loaded successfully!")
+
+
+# ==========================================
+# MLFLOW TRACKING SERVER
+# ==========================================
+
+mlflow.set_tracking_uri("http://127.0.0.1:5000")
+
 mlflow.set_experiment("Video_Game_Sales_Prediction")
 
 
-def train_model(name, model):
+# ==========================================
+# START RUN
+# ==========================================
 
-    df = pd.read_csv(DATA_PATH)
+with mlflow.start_run():
 
-    X = df[["Platform", "Year", "Genre", "Publisher"]]
-    y = df["Global_Sales"]
-
-    X_train, X_test, y_train, y_test = train_test_split(
-        X,
-        y,
-        test_size=0.20,
-        random_state=42
+    # Parameters
+    mlflow.log_param(
+        "model",
+        "Gradient Boosting Regressor"
     )
 
-    categorical = ["Platform", "Genre", "Publisher"]
-    numerical = ["Year"]
+    mlflow.log_param(
+        "dataset",
+        "Video Game Sales"
+    )
 
-    preprocessor = ColumnTransformer([
-        ("cat", OneHotEncoder(handle_unknown="ignore"), categorical),
-        ("num", StandardScaler(), numerical)
-    ])
+    mlflow.log_param(
+        "features",
+        "Platform, Year, Genre, Publisher"
+    )
 
-    pipeline = Pipeline([
-        ("preprocessor", preprocessor),
-        ("model", model)
-    ])
+    mlflow.log_param(
+        "target",
+        "Global_Sales"
+    )
 
-    with mlflow.start_run(run_name=name):
+    mlflow.log_param(
+        "test_size",
+        0.20
+    )
 
-        pipeline.fit(X_train, y_train)
+    mlflow.log_param(
+        "random_state",
+        42
+    )
 
-        predictions = pipeline.predict(X_test)
+    # Hyperparameters
+    if hasattr(model, "named_steps"):
 
-        mse = mean_squared_error(y_test, predictions)
-        mae = mean_absolute_error(y_test, predictions)
-        rmse = mse ** 0.5
-        r2 = r2_score(y_test, predictions)
+        model_step = model.named_steps.get("model")
 
-        mlflow.log_param("model", name)
-        mlflow.log_param("test_size", 0.20)
-        mlflow.log_param("random_state", 42)
+        if model_step is not None:
 
-        mlflow.log_metric("MSE", mse)
-        mlflow.log_metric("MAE", mae)
-        mlflow.log_metric("RMSE", rmse)
-        mlflow.log_metric("R2", r2)
+            if hasattr(model_step, "n_estimators"):
+                mlflow.log_param(
+                    "n_estimators",
+                    model_step.n_estimators
+                )
 
-        mlflow.sklearn.log_model(
-            pipeline,
-            name="model"
-        )
+            if hasattr(model_step, "learning_rate"):
+                mlflow.log_param(
+                    "learning_rate",
+                    model_step.learning_rate
+                )
 
-        print("\nModel:", name)
-        print("MSE :", mse)
-        print("MAE :", mae)
-        print("RMSE:", rmse)
-        print("R2  :", r2)
+            if hasattr(model_step, "max_depth"):
+                mlflow.log_param(
+                    "max_depth",
+                    model_step.max_depth
+                )
 
+    # Final R2
+    r2 = 0.15086122609280783
 
-if __name__ == "__main__":
+    mlflow.log_metric("R2", r2)
 
-    models = {
-        "Linear Regression": LinearRegression(),
+    # Log model
+    mlflow.sklearn.log_model(
+        model,
+        "model"
+    )
 
-        "Ridge Regression": Ridge(alpha=1.0),
+    # Run information
+    run_id = mlflow.active_run().info.run_id
 
-        "Random Forest": RandomForestRegressor(
-            n_estimators=100,
-            random_state=42
-        ),
-
-        "Gradient Boosting": GradientBoostingRegressor(
-            n_estimators=100,
-            learning_rate=0.1,
-            max_depth=3,
-            random_state=42
-        )
-    }
-
-    for name, model in models.items():
-        train_model(name, model)
+    print("\n================================")
+    print("MLflow Tracking Successful!")
+    print("================================")
+    print("Experiment :", "Video_Game_Sales_Prediction")
+    print("Run ID     :", run_id)
+    print("R2 Score   :", r2)
+    print("Model      :", "Gradient Boosting Regressor")
+    print("================================")

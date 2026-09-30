@@ -2,7 +2,13 @@ import pandas as pd
 import pandera as pa
 from pandera import Column, Check
 
-DATA_PATH = "../data/raw/vgsales.csv"
+from pathlib import Path
+import pandas as pd
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DATA_PATH = PROJECT_ROOT / "data" / "raw" / "vgsales.csv"
+
+df = pd.read_csv(DATA_PATH)
 
 
 def validate_data():
