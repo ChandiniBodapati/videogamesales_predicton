@@ -1,0 +1,6 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Predicted_Global_Sales
+8930,F1 2012,PC,2012.0,Racing,Codemasters,0.01,0.11,0.0,0.03,0.15,0.2756
+4791,"Transformers: The Game (XBox 360, PS2, PS3, Wii & PC Versions)",PS3,2007.0,Action,Activision,0.32,0.04,0.01,0.04,0.4,0.7692
+15495,Commandos 3: Destination Berlin,PC,2003.0,Strategy,Eidos Interactive,0.0,0.02,0.0,0.0,0.02,0.2408
+14770,The Sims 2: Bon Voyage,PC,2007.0,Simulation,Electronic Arts,0.01,0.01,0.0,0.0,0.03,0.6066
+5213,Guitar Hero: Smash Hits,PS3,2009.0,Misc,Activision,0.2,0.11,0.0,0.05,0.36,0.7415

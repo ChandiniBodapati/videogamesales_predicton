@@ -1,0 +1,4 @@
+category,metric,value,status,details
+Data Drift,Features with drift,3.0,DRIFT,"Year, Platform, Genre"
+Prediction Drift,Prediction distribution,0.1991,DRIFT,KS statistic = 0.1991
+Concept Drift,R2 Score degradation,-0.0603,DRIFT,R2 change on evolved data

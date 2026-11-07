@@ -1,0 +1,7 @@
+{
+    "status": "PASSED",
+    "metric": "r2",
+    "observed_value": 0.09862434138241372,
+    "threshold": 0.08,
+    "passed": true
+}

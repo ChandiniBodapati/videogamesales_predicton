@@ -1,0 +1,4 @@
+dataset,rows,mean_sales
+Original Training,13278,0.5287046241903901
+Post-Drift Batch,2000,0.6931949999999999
+Updated Combined,15278,0.5502375965440502

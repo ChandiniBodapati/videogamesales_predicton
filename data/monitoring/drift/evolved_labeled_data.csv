@@ -1,0 +1,3321 @@
+Platform,Year,Genre,Publisher,Global_Sales
+PS4,2012.0,Role-Playing,Nintendo,120.73
+XOne,2012.0,Shooter,Nintendo,55.8
+XOne,2016.0,Action,Nintendo,28.57
+PS4,2016.0,Action,Nintendo,29.45
+PC,2011.0,Action,Microsoft Game Studios,21.8
+XOne,2007.0,Action,Nintendo,20.42
+X360,2010.0,Action,Nintendo,15.42
+PS3,2014.0,Action,Activision,14.76
+PC,2017.0,Action,Activision,13.84
+XOne,2008.0,Action,Nintendo,12.32
+PS4,2003.0,Action,Nintendo,16.28
+XOne,2011.0,Role-Playing,Sony Computer Entertainment,11.59
+PS4,1997.0,Shooter,Nintendo,23.21
+XOne,2000.0,Role-Playing,Nintendo,10.62
+PS4,2010.0,Shooter,Nintendo,22.61
+XOne,2016.0,Role-Playing,Activision,10.38
+PS4,2002.0,Role-Playing,Nintendo,12.41
+PS4,2010.0,Action,Activision,13.88
+PS4,2011.0,Adventure,Microsoft Game Studios,12.36
+XOne,2014.0,Action,Electronic Arts,8.12
+PC,2002.0,Shooter,Nintendo,13.44
+PS4,2011.0,Role-Playing,Sega,12.11
+PS3,2015.0,Action,Nintendo,8.04
+PS3,2016.0,Shooter,Electronic Arts,10.05
+PS4,2019.0,Action,Activision,8.83
+XOne,2013.0,Action,Ubisoft,7.23
+XOne,2010.0,Action,Electronic Arts,7.03
+PS4,2017.0,Action,Electronic Arts,8.84
+XOne,2016.0,Action,Take-Two Interactive,6.63
+PS4,1992.0,Shooter,Nintendo,14.93
+PS3,2011.0,Shooter,Sony Computer Entertainment,10.96
+X360,2006.0,Shooter,Nintendo,10.7
+PC,2013.0,Shooter,Nintendo,7.77
+XOne,2010.0,Action,LucasArts,5.93
+XOne,2005.0,Action,Nintendo,5.53
+WiiU,2008.0,Role-Playing,Universal Interactive,5.47
+PS4,2019.0,Sports,Sony Computer Entertainment,8.23
+PS4,2012.0,Action,Square Enix,8.3
+XOne,1992.0,Action,Nintendo,5.47
+PS4,2006.0,Role-Playing,SquareSoft,6.78
+PS4,2015.0,Role-Playing,Ubisoft,7.73
+PS4,2013.0,Action,Nintendo,6.7
+XOne,2016.0,Action,Activision,5.19
+PS4,1999.0,Action,Nintendo,6.69
+PS4,2018.0,Shooter,Nintendo,9.98
+PS4,2014.0,Sports,Capcom,6.87
+PS4,2006.0,Shooter,Nintendo,11.12
+PS3,2015.0,Action,Capcom,4.72
+PS4,2016.0,Shooter,Activision,13.44
+XOne,2012.0,Role-Playing,Ubisoft,4.71
+PC,2016.0,Shooter,Ubisoft,7.25
+PS4,2007.0,Role-Playing,Activision,5.61
+PC,1989.0,Action,Nintendo,4.31
+XOne,1995.0,Action,Sega,4.35
+XOne,2018.0,Shooter,Activision,7.41
+PS4,2012.0,Shooter,Microsoft Game Studios,9.28
+PS4,2015.0,Adventure,Ubisoft,6.39
+WiiU,2019.0,Shooter,Ubisoft,5.93
+PC,2012.0,Action,Capcom,4.34
+X360,2018.0,Action,Electronic Arts,4.27
+X360,2016.0,Shooter,Ubisoft,6.51
+PS4,2015.0,Action,Nintendo,6.45
+PC,2012.0,Shooter,Take-Two Interactive,5.35
+XOne,2013.0,Action,Sony Computer Entertainment,4.15
+PC,2013.0,Action,Microsoft Game Studios,4.07
+PS4,2003.0,Shooter,Sony Computer Entertainment,9.84
+PS4,2018.0,Action,Ubisoft,5.1
+PC,2010.0,Shooter,Sony Computer Entertainment,6.23
+PC,2012.0,Shooter,Namco Bandai Games,6.71
+XOne,2015.0,Shooter,Sony Computer Entertainment,5.6
+PS4,2006.0,Shooter,Konami Digital Entertainment,9.87
+PS4,2010.0,Role-Playing,Nintendo,5.26
+WiiU,2018.0,Role-Playing,Warner Bros. Interactive Entertainment,3.98
+XOne,2013.0,Action,Sony Computer Entertainment,3.75
+XOne,2018.0,Action,Ubisoft,3.75
+XOne,2004.0,Shooter,Nintendo,6.57
+XOne,2006.0,Shooter,Activision,6.02
+XOne,2004.0,Shooter,Nintendo,4.94
+XOne,2022.0,Shooter,Ubisoft,5.56
+PC,1998.0,Role-Playing,Virgin Interactive,3.81
+X360,2011.0,Action,LucasArts,3.6
+X360,2010.0,Shooter,Take-Two Interactive,4.74
+XOne,2004.0,Action,THQ,3.68
+XOne,2014.0,Action,Ubisoft,3.76
+PC,2010.0,Shooter,Electronic Arts,4.8
+PC,2016.0,Shooter,Electronic Arts,5.76
+XOne,2018.0,Action,Ubisoft,3.69
+XOne,2007.0,Role-Playing,Namco Bandai Games,3.34
+PC,2017.0,Role-Playing,Sony Computer Entertainment,3.57
+XOne,2004.0,Shooter,Take-Two Interactive,5.67
+PC,2014.0,Adventure,Warner Bros. Interactive Entertainment,3.44
+PS4,2005.0,Action,Nintendo,5.37
+XOne,2012.0,Role-Playing,Nintendo,3.31
+XOne,2006.0,Action,Take-Two Interactive,3.26
+PS4,2005.0,Action,Electronic Arts,4.54
+PS3,2017.0,Action,Ubisoft,3.43
+XOne,2016.0,Action,Activision,3.32
+PS4,2006.0,Shooter,Activision,8.66
+PC,2015.0,Action,Sony Computer Entertainment,3.38
+PC,2002.0,Shooter,Electronic Arts,4.65
+PC,2011.0,Action,Square Enix,3.31
+PS4,2016.0,Action,Sony Computer Entertainment,3.99
+PS3,1999.0,Adventure,Enix Corporation,3.5
+XOne,2013.0,Shooter,Warner Bros. Interactive Entertainment,4.72
+XOne,2011.0,Sports,Disney Interactive Studios,3.16
+PS4,2019.0,Shooter,Microsoft Game Studios,6.7
+XOne,2005.0,Action,Atari,3.22
+PC,1998.0,Shooter,Nintendo,4.28
+XOne,2019.0,Shooter,Electronic Arts,4.2
+XOne,1989.0,Action,Nintendo,3.12
+PC,2008.0,Role-Playing,THQ,2.99
+XOne,2017.0,Shooter,Take-Two Interactive,4.62
+PS4,2004.0,Shooter,Electronic Arts,6.61
+WiiU,2017.0,Shooter,Nintendo,5.02
+PC,2014.0,Shooter,Capcom,4.47
+WiiU,2007.0,Action,Sony Computer Entertainment,2.81
+WiiU,2014.0,Adventure,Sony Computer Entertainment,2.8
+X360,2012.0,Action,505 Games,2.83
+PC,2015.0,Action,Ubisoft,2.8
+XOne,2018.0,Action,Activision,2.89
+PS4,1999.0,Shooter,Virgin Interactive,6.99
+XOne,2007.0,Adventure,THQ,2.81
+PC,2016.0,Role-Playing,Electronic Arts,2.76
+XOne,2017.0,Shooter,Nintendo,4.61
+PS3,2021.0,Adventure,Sony Computer Entertainment,2.96
+PS4,2013.0,Shooter,Sega,5.67
+PS4,2023.0,Action,Warner Bros. Interactive Entertainment,4.3
+XOne,2001.0,Shooter,Nintendo,4.64
+XOne,2015.0,Action,Square Enix,2.69
+PS4,2011.0,Action,Activision,4.2
+PS4,2008.0,Action,Microsoft Game Studios,3.64
+PC,2004.0,Action,Electronic Arts,2.57
+XOne,2013.0,Adventure,Sony Computer Entertainment,2.64
+PS4,2014.0,Adventure,Sony Computer Entertainment,3.5
+PS4,2003.0,Action,Sega,3.64
+XOne,2011.0,Shooter,Konami Digital Entertainment,4.45
+PS4,2007.0,Action,Acclaim Entertainment,3.68
+PC,2014.0,Action,Electronic Arts,2.71
+PC,2015.0,Action,Electronic Arts,2.4
+PS4,2009.0,Action,Sega,3.3
+XOne,2009.0,Action,Atari,2.46
+PS4,2013.0,Action,505 Games,3.14
+PS4,2008.0,Action,LucasArts,3.76
+PS3,2004.0,Action,Eidos Interactive,2.41
+XOne,2013.0,Sports,Ubisoft,2.45
+PS3,2004.0,Action,Nintendo,2.51
+PS4,2008.0,Action,Electronic Arts,3.63
+PS4,1988.0,Shooter,Nintendo,5.37
+XOne,2009.0,Action,Nintendo,2.25
+XOne,2006.0,Shooter,Sega,3.36
+WiiU,2015.0,Action,Electronic Arts,2.19
+PS4,2009.0,Shooter,Capcom,5.93
+PS3,2010.0,Shooter,Electronic Arts,3.28
+PS3,2011.0,Shooter,Activision,3.12
+XOne,2005.0,Shooter,Nintendo,2.7
+PS4,2011.0,Action,THQ,3.26
+XOne,2018.0,Action,Electronic Arts,2.35
+PS4,2013.0,Action,Nintendo,3.39
+PC,2007.0,Shooter,Nintendo,3.75
+XOne,2018.0,Action,Ubisoft,2.3
+X360,1991.0,Action,Nintendo,2.24
+XOne,2010.0,Shooter,Square Enix,3.63
+XOne,2019.0,Action,Take-Two Interactive,2.23
+PC,2012.0,Action,Mindscape,2.29
+XOne,2009.0,Shooter,THQ,3.52
+X360,2001.0,Action,Electronic Arts,2.22
+PS4,2018.0,Role-Playing,Namco Bandai Games,3.13
+WiiU,2019.0,Sports,Nintendo,2.05
+PC,2012.0,Adventure,Microsoft Game Studios,2.27
+PS3,2014.0,Action,Square Enix,2.11
+XOne,2012.0,Action,Ubisoft,2.17
+PC,2011.0,Shooter,Ubisoft,3.51
+PS4,2018.0,Shooter,Electronic Arts,4.31
+PC,2011.0,Shooter,Midway Games,3.22
+PS4,2015.0,Action,Electronic Arts,2.93
+PS4,2008.0,Action,Capcom,2.66
+XOne,2012.0,Action,Sony Computer Entertainment,1.84
+PS4,1990.0,Action,Nintendo,2.89
+PS4,2008.0,Action,Vivendi Games,2.79
+PC,2005.0,Sports,Disney Interactive Studios,1.97
+PS4,2012.0,Action,Activision,2.38
+PC,2014.0,Shooter,Electronic Arts,2.87
+PS4,2000.0,Sports,Sony Computer Entertainment,2.87
+PC,2007.0,Action,Nintendo,1.95
+PC,2014.0,Shooter,LucasArts,2.61
+XOne,2009.0,Shooter,LucasArts,3.26
+PC,2009.0,Action,Midway Games,1.88
+X360,2007.0,Shooter,Activision,3.02
+PC,1999.0,Role-Playing,Acclaim Entertainment,1.96
+PS4,2009.0,Shooter,Electronic Arts,4.09
+XOne,2007.0,Role-Playing,SquareSoft,1.92
+PC,2009.0,Adventure,Square Enix,1.88
+PS4,2006.0,Action,Sega,2.49
+PC,2016.0,Shooter,Activision,2.99
+PS4,2018.0,Shooter,Activision,4.31
+PC,2015.0,Shooter,Microsoft Game Studios,2.92
+PS4,2009.0,Shooter,Take-Two Interactive,4.46
+PS4,2016.0,Shooter,Capcom,3.37
+WiiU,2009.0,Role-Playing,Electronic Arts,1.85
+PS3,2006.0,Action,Activision,1.78
+PS3,2010.0,Shooter,Activision,2.43
+WiiU,2009.0,Action,Konami Digital Entertainment,1.8
+XOne,1998.0,Shooter,Nintendo,2.66
+PS4,2015.0,Role-Playing,505 Games,2.12
+PS4,2015.0,Role-Playing,Activision,2.57
+XOne,2019.0,Action,Activision,1.61
+PS4,2019.0,Shooter,Activision,3.8
+X360,2001.0,Action,989 Studios,1.61
+PS4,2004.0,Action,Electronic Arts,2.7
+PS4,2019.0,Action,Bethesda Softworks,2.17
+PS4,2015.0,Sports,Activision,2.44
+PS4,2005.0,Action,Ubisoft,2.23
+PS4,2012.0,Adventure,Mindscape,2.33
+XOne,2005.0,Action,THQ,1.55
+PS4,2015.0,Shooter,Nintendo,4.22
+XOne,2013.0,Shooter,Electronic Arts,3.13
+PS3,2005.0,Shooter,Sony Computer Entertainment,2.59
+XOne,2020.0,Shooter,Activision,2.33
+XOne,2008.0,Shooter,Electronic Arts,2.47
+PS4,2007.0,Sports,Electronic Arts,2.32
+PS4,2013.0,Shooter,THQ,3.27
+PS4,2005.0,Action,Electronic Arts,2.45
+WiiU,2011.0,Action,Electronic Arts,1.63
+XOne,2016.0,Shooter,Sony Computer Entertainment Europe,2.79
+PS4,2006.0,Shooter,Activision,3.91
+XOne,2020.0,Shooter,Warner Bros. Interactive Entertainment,2.68
+PC,2014.0,Shooter,Nintendo,2.79
+XOne,2017.0,Action,Electronic Arts,1.93
+XOne,2014.0,Role-Playing,Disney Interactive Studios,1.75
+PS3,2009.0,Shooter,Electronic Arts,2.66
+XOne,2012.0,Shooter,Microsoft Game Studios,2.87
+XOne,2008.0,Shooter,Sega,2.3
+PS4,2012.0,Role-Playing,Nintendo,2.62
+PS4,2005.0,Shooter,Konami Digital Entertainment,3.33
+WiiU,2018.0,Adventure,Ubisoft,1.56
+XOne,2002.0,Action,Video System,1.78
+XOne,1983.0,Shooter,Atari,2.33
+XOne,2015.0,Shooter,Warner Bros. Interactive Entertainment,2.59
+PS4,2012.0,Shooter,Nintendo,3.12
+PC,2014.0,Action,Take-Two Interactive,1.59
+PS4,2016.0,Shooter,Microsoft Game Studios,2.75
+PC,2020.0,Action,Nintendo,1.64
+XOne,2007.0,Sports,Ubisoft,1.69
+PS4,2014.0,Action,Activision,2.38
+PS4,2012.0,Action,Nintendo,2.19
+PC,1999.0,Shooter,Electronic Arts,2.45
+PS4,2001.0,Action,Electronic Arts,2.47
+PS4,2019.0,Action,Take-Two Interactive,2.19
+PC,2012.0,Shooter,Electronic Arts,2.34
+PS4,2003.0,Shooter,Crave Entertainment,3.17
+PS4,2014.0,Action,Square Enix,2.42
+PS4,1999.0,Shooter,Sega,2.79
+PS3,2016.0,Shooter,THQ,2.19
+PS4,2002.0,Role-Playing,Nintendo,2.19
+PS4,2013.0,Action,THQ,2.15
+PS4,2014.0,Action,Unknown,1.9
+PS4,2018.0,Adventure,Warner Bros. Interactive Entertainment,2.31
+PS4,2015.0,Shooter,Ubisoft,3.07
+PS4,2008.0,Action,Capcom,2.51
+PS4,1998.0,Role-Playing,Namco Bandai Games,2.36
+XOne,2002.0,Action,Namco Bandai Games,1.52
+PS3,2012.0,Role-Playing,Electronic Arts,1.62
+PS4,2018.0,Shooter,Disney Interactive Studios,3.21
+PS4,2013.0,Adventure,Activision,1.72
+X360,1994.0,Adventure,Capcom,1.46
+PS3,2011.0,Action,Nintendo,1.56
+XOne,2004.0,Role-Playing,Electronic Arts,1.35
+PS4,2016.0,Action,THQ,2.0
+XOne,2009.0,Shooter,Electronic Arts,2.24
+PS4,2014.0,Shooter,Electronic Arts,3.0
+PS4,2017.0,Action,Warner Bros. Interactive Entertainment,1.88
+PS4,2000.0,Action,Virgin Interactive,1.82
+XOne,2009.0,Action,Sony Computer Entertainment,1.39
+PS4,1999.0,Action,SquareSoft,1.97
+XOne,2002.0,Action,Acclaim Entertainment,1.53
+PS4,2013.0,Sports,Disney Interactive Studios,1.67
+PS4,2014.0,Shooter,Square Enix,2.99
+PC,2015.0,Role-Playing,Nintendo,1.36
+PS3,2018.0,Role-Playing,Electronic Arts,1.36
+PS4,2016.0,Shooter,Sega,3.48
+XOne,1992.0,Action,Konami Digital Entertainment,1.43
+PS4,2009.0,Role-Playing,Warner Bros. Interactive Entertainment,2.06
+PS4,2011.0,Shooter,Sony Computer Entertainment,3.66
+PC,2013.0,Shooter,Electronic Arts,2.41
+PS4,2014.0,Sports,Sony Computer Entertainment,2.26
+XOne,2009.0,Shooter,Nintendo,1.89
+XOne,2011.0,Shooter,Activision,2.44
+PS4,2018.0,Role-Playing,Take-Two Interactive,1.88
+PS4,2004.0,Shooter,Electronic Arts,2.94
+PS4,2009.0,Role-Playing,TDK Mediactive,2.04
+WiiU,2018.0,Action,Warner Bros. Interactive Entertainment,1.37
+XOne,2010.0,Action,Electronic Arts,1.48
+PS4,2016.0,Shooter,Warner Bros. Interactive Entertainment,3.5
+PS4,2014.0,Action,Warner Bros. Interactive Entertainment,1.86
+XOne,2003.0,Adventure,Codemasters,1.35
+PS4,2007.0,Action,Atari,2.17
+XOne,2009.0,Shooter,Capcom,2.0
+PC,2015.0,Action,Disney Interactive Studios,1.43
+XOne,1984.0,Adventure,Activision,1.35
+PS4,2012.0,Action,Electronic Arts,1.59
+PS4,2005.0,Action,Accolade,1.97
+PS4,2012.0,Action,Electronic Arts,1.8
+XOne,2012.0,Shooter,Electronic Arts,1.89
+PS3,2008.0,Adventure,Atari,1.5
+PS4,2013.0,Adventure,Activision,1.63
+XOne,2006.0,Action,Take-Two Interactive,1.36
+XOne,2012.0,Shooter,Take-Two Interactive,2.0
+PS4,2016.0,Action,Deep Silver,1.74
+PS4,2010.0,Shooter,Sony Computer Entertainment,2.59
+PS4,2013.0,Shooter,Atari,2.53
+XOne,2013.0,Action,Electronic Arts,1.23
+XOne,2009.0,Shooter,Eidos Interactive,1.81
+PC,2006.0,Role-Playing,Hasbro Interactive,1.25
+PS3,2018.0,Action,Warner Bros. Interactive Entertainment,1.34
+PC,2014.0,Action,Ubisoft,1.2
+WiiU,2006.0,Action,Atari,1.28
+PC,2009.0,Action,Ubisoft,1.34
+PS3,2005.0,Action,Virgin Interactive,1.19
+PC,2007.0,Shooter,Namco Bandai Games,1.78
+PC,1995.0,Action,Nintendo,1.26
+PC,2008.0,Shooter,Konami Digital Entertainment,1.86
+X360,2009.0,Role-Playing,Atari,1.24
+XOne,2021.0,Sports,Focus Home Interactive,1.29
+XOne,1993.0,Shooter,Konami Digital Entertainment,1.72
+XOne,2013.0,Action,Nintendo,1.25
+PS3,2018.0,Action,Warner Bros. Interactive Entertainment,1.27
+XOne,1999.0,Action,SquareSoft,1.2
+PC,2016.0,Adventure,Capcom,1.34
+PC,2005.0,Adventure,Sony Computer Entertainment,1.4
+WiiU,2003.0,Action,LucasArts,1.21
+PS4,2015.0,Action,Unknown,1.55
+PC,2012.0,Shooter,Nintendo,2.1
+PC,2016.0,Action,Namco Bandai Games,1.29
+X360,2016.0,Adventure,Take-Two Interactive,1.4
+X360,2012.0,Action,THQ,1.29
+XOne,2001.0,Action,Nintendo,1.06
+XOne,2011.0,Action,Eidos Interactive,1.29
+PS4,2019.0,Action,Electronic Arts,1.81
+WiiU,1989.0,Action,Atari,1.21
+PS4,2014.0,Role-Playing,LucasArts,1.93
+PC,2000.0,Action,Nintendo,1.16
+PC,2015.0,Shooter,THQ,1.88
+XOne,2016.0,Action,Mastertronic,1.24
+PS4,2014.0,Action,Electronic Arts,1.29
+PS4,2010.0,Action,Electronic Arts,1.74
+PS3,2004.0,Action,Zoo Digital Publishing,1.35
+XOne,2000.0,Action,Sony Computer Entertainment,1.03
+PS4,2014.0,Action,Activision,1.7
+PC,2011.0,Role-Playing,Electronic Arts,1.11
+PS4,2015.0,Shooter,Square Enix,2.48
+PS3,2012.0,Sports,Take-Two Interactive,1.17
+PS4,2004.0,Action,Sony Computer Entertainment,1.65
+PS4,2015.0,Shooter,LucasArts,2.86
+PS4,1987.0,Shooter,Activision,2.94
+XOne,2017.0,Action,Take-Two Interactive,1.21
+XOne,2014.0,Action,Sega,1.24
+PC,2012.0,Shooter,Activision,1.79
+XOne,2009.0,Role-Playing,Electronic Arts,1.28
+PS4,2004.0,Shooter,Atari,2.56
+PS4,2016.0,Action,LucasArts,1.86
+PS4,2011.0,Adventure,THQ,1.57
+X360,2010.0,Action,Ubisoft,1.2
+PS4,2021.0,Adventure,Microsoft Game Studios,1.54
+WiiU,2002.0,Role-Playing,SquareSoft,1.2
+PS4,1987.0,Role-Playing,Atari,1.41
+PS4,2020.0,Role-Playing,Warner Bros. Interactive Entertainment,1.51
+PS4,1993.0,Action,SquareSoft,1.69
+PS4,2011.0,Shooter,Electronic Arts,2.11
+PC,2018.0,Role-Playing,Square Enix,1.22
+XOne,2015.0,Shooter,LucasArts,1.69
+PS4,2017.0,Action,Activision,1.57
+XOne,2006.0,Action,Midway Games,1.13
+XOne,2014.0,Action,Electronic Arts,1.14
+X360,2005.0,Shooter,Midway Games,1.49
+WiiU,2016.0,Shooter,Take-Two Interactive,1.72
+XOne,2018.0,Role-Playing,Take-Two Interactive,1.22
+PC,1999.0,Role-Playing,Sega,1.01
+PC,2000.0,Shooter,Eidos Interactive,1.64
+XOne,2019.0,Action,Disney Interactive Studios,1.25
+PC,2011.0,Shooter,Activision,1.33
+PS4,2003.0,Action,D3Publisher,1.54
+PC,2016.0,Action,Activision,1.05
+WiiU,2000.0,Action,Midway Games,1.07
+PS4,2003.0,Action,Vivendi Games,1.39
+PC,2006.0,Action,Activision,1.09
+X360,2010.0,Shooter,Sony Computer Entertainment,1.67
+PS4,2012.0,Action,Sega,1.28
+XOne,2015.0,Action,Electronic Arts,0.98
+X360,2009.0,Action,Electronic Arts,0.96
+WiiU,2000.0,Shooter,Acclaim Entertainment,1.88
+PS4,2007.0,Shooter,Ubisoft,1.85
+PS4,2019.0,Action,Electronic Arts,1.61
+XOne,2011.0,Action,Nintendo,1.04
+PS4,1991.0,Adventure,Hudson Soft,1.24
+PS4,2013.0,Shooter,Electronic Arts,2.27
+PS4,2016.0,Shooter,Electronic Arts,2.36
+PS4,2019.0,Shooter,Ubisoft,2.1
+XOne,2013.0,Role-Playing,THQ,0.98
+XOne,2010.0,Role-Playing,Electronic Arts,1.13
+XOne,2013.0,Action,Electronic Arts,0.97
+PC,2013.0,Shooter,Konami Digital Entertainment,1.47
+XOne,2005.0,Action,Tecmo Koei,1.15
+PS4,2007.0,Shooter,Sony Computer Entertainment,2.17
+PS4,2015.0,Action,Namco Bandai Games,1.51
+PS4,2019.0,Action,Electronic Arts,1.58
+PS4,2007.0,Adventure,Vivendi Games,1.28
+PS4,2013.0,Role-Playing,Electronic Arts,1.57
+PS4,2014.0,Action,Warner Bros. Interactive Entertainment,1.45
+PS4,2014.0,Adventure,Ubisoft,1.35
+XOne,2008.0,Action,Namco Bandai Games,0.88
+XOne,2013.0,Shooter,Electronic Arts,1.82
+X360,2009.0,Role-Playing,Activision,1.15
+PC,2013.0,Action,Warner Bros. Interactive Entertainment,0.92
+XOne,2013.0,Shooter,THQ,1.64
+PS4,2002.0,Shooter,Electronic Arts,2.65
+XOne,2019.0,Action,Ubisoft,1.11
+PS4,2020.0,Action,Konami Digital Entertainment,1.7
+XOne,2017.0,Action,Electronic Arts,0.96
+PS4,2011.0,Shooter,Namco Bandai Games,1.92
+XOne,2023.0,Action,Square Enix,0.97
+PS4,2012.0,Action,Electronic Arts,1.38
+XOne,2011.0,Shooter,THQ,1.49
+PC,2007.0,Action,Nintendo,0.95
+PC,2006.0,Action,Electronic Arts,0.84
+XOne,2010.0,Shooter,Warner Bros. Interactive Entertainment,1.72
+XOne,2003.0,Role-Playing,Sony Computer Entertainment,1.09
+PS4,2019.0,Action,Square Enix,1.36
+PC,2004.0,Role-Playing,GT Interactive,1.11
+XOne,2004.0,Shooter,Midway Games,1.81
+PS4,2010.0,Action,Play It,1.41
+PS4,2017.0,Role-Playing,Ubisoft,1.28
+X360,2006.0,Shooter,Electronic Arts,1.51
+XOne,2008.0,Shooter,Konami Digital Entertainment,1.77
+XOne,2000.0,Shooter,Electronic Arts,1.47
+XOne,2015.0,Shooter,THQ,1.4
+XOne,2010.0,Adventure,THQ,1.04
+XOne,2013.0,Shooter,Sega,1.42
+PS4,2002.0,Role-Playing,SquareSoft,1.6
+XOne,2007.0,Shooter,Ubisoft,1.41
+XOne,2014.0,Role-Playing,Sega,1.04
+PS4,2008.0,Adventure,Sony Computer Entertainment,1.5
+PC,2015.0,Action,Electronic Arts,1.02
+PS4,2018.0,Action,Electronic Arts,1.38
+XOne,2012.0,Shooter,THQ,1.27
+XOne,1985.0,Action,Parker Bros.,0.97
+XOne,2005.0,Shooter,Unknown,1.59
+XOne,2021.0,Role-Playing,Activision,0.94
+WiiU,2010.0,Sports,Microsoft Game Studios,1.12
+XOne,2019.0,Action,Electronic Arts,0.96
+PC,2012.0,Shooter,THQ,1.58
+PC,2015.0,Action,Electronic Arts,0.92
+PS4,2018.0,Shooter,Sony Computer Entertainment,2.09
+PS4,2015.0,Action,Sega,1.48
+XOne,2016.0,Shooter,Microsoft Game Studios,1.56
+PS4,2020.0,Shooter,Sony Computer Entertainment,1.53
+PS4,2014.0,Shooter,Activision,1.92
+PS4,2015.0,Shooter,Activision,1.87
+XOne,2014.0,Action,Sony Computer Entertainment,0.92
+PS4,2014.0,Action,Sony Computer Entertainment,1.4
+PC,2013.0,Action,Atari,1.04
+XOne,2015.0,Adventure,Sony Computer Entertainment,0.85
+PC,2011.0,Sports,LucasArts,0.86
+PS4,2009.0,Action,Activision,1.23
+XOne,2015.0,Action,Bethesda Softworks,1.12
+PS4,2015.0,Action,Sony Computer Entertainment,1.09
+XOne,2014.0,Shooter,THQ,1.54
+PS4,2013.0,Action,Ubisoft,1.25
+X360,2021.0,Action,Sony Computer Entertainment,0.88
+PS4,2023.0,Action,Electronic Arts,1.38
+XOne,2016.0,Action,Warner Bros. Interactive Entertainment,0.9
+PS4,2019.0,Action,Nintendo,1.26
+XOne,2004.0,Action,Sony Computer Entertainment,0.94
+XOne,2012.0,Shooter,Take-Two Interactive,1.46
+PS4,2013.0,Shooter,Pinnacle,1.91
+PS4,2015.0,Action,Atari,1.28
+PS4,2014.0,Shooter,Ubisoft,1.78
+PS4,2019.0,Shooter,Electronic Arts,2.16
+WiiU,2010.0,Role-Playing,Tecmo Koei,0.77
+XOne,2015.0,Adventure,Activision,0.95
+PS4,1992.0,Action,Quelle,1.36
+WiiU,2003.0,Role-Playing,Sony Computer Entertainment,0.81
+PS4,2011.0,Shooter,Tecmo Koei,1.84
+XOne,2001.0,Shooter,Virgin Interactive,1.16
+PC,1995.0,Action,Konami Digital Entertainment,1.08
+X360,2021.0,Action,Activision,1.09
+PC,2021.0,Action,Nintendo,0.73
+XOne,2003.0,Adventure,Virgin Interactive,1.15
+WiiU,2016.0,Shooter,Konami Digital Entertainment,1.3
+PS4,2017.0,Action,Square Enix,1.18
+WiiU,2010.0,Shooter,Activision,1.39
+PC,2017.0,Action,Electronic Arts,0.79
+X360,2015.0,Action,Take-Two Interactive,0.94
+PS4,2016.0,Shooter,Capcom,1.77
+PS4,2021.0,Shooter,Take-Two Interactive,1.94
+XOne,2008.0,Role-Playing,Sega,0.91
+XOne,2020.0,Shooter,Electronic Arts,1.39
+XOne,2009.0,Shooter,THQ,1.53
+X360,2012.0,Role-Playing,Ubisoft,0.86
+XOne,2005.0,Action,Disney Interactive Studios,0.99
+PS4,2010.0,Shooter,Ubisoft,1.98
+XOne,2015.0,Shooter,Scholastic Inc.,1.42
+PS4,2005.0,Action,Sony Computer Entertainment,1.19
+PS4,2006.0,Action,Electronic Arts,0.99
+PS4,2007.0,Action,Sony Computer Entertainment,1.27
+PC,2012.0,Action,Capcom,0.81
+PC,2015.0,Shooter,Namco Bandai Games,1.3
+XOne,2020.0,Action,Electronic Arts,0.97
+PS4,2006.0,Shooter,Enix Corporation,2.02
+XOne,2004.0,Action,Namco Bandai Games,1.0
+PC,2015.0,Action,Konami Digital Entertainment,1.0
+PS3,2001.0,Action,3DO,0.88
+XOne,2008.0,Action,Ubisoft,0.78
+PC,2020.0,Adventure,Warner Bros. Interactive Entertainment,1.02
+XOne,2012.0,Action,Square Enix,0.85
+XOne,2012.0,Action,Electronic Arts,0.87
+PS3,2015.0,Action,Sega,0.82
+PS4,2012.0,Action,Electronic Arts,1.07
+PS4,2011.0,Shooter,Electronic Arts,1.64
+PS4,2014.0,Role-Playing,Ubisoft,1.09
+XOne,2008.0,Action,Banpresto,0.77
+XOne,2012.0,Shooter,Activision,1.41
+XOne,2013.0,Shooter,Konami Digital Entertainment,1.14
+XOne,2016.0,Role-Playing,LucasArts,0.71
+PS4,2004.0,Shooter,Electronic Arts,1.93
+PS3,2008.0,Action,Ubisoft,0.99
+PS4,2018.0,Shooter,Square Enix,2.03
+X360,2015.0,Role-Playing,Sega,0.9
+PS4,2018.0,Shooter,Deep Silver,1.56
+XOne,2013.0,Adventure,Electronic Arts,0.77
+XOne,2019.0,Role-Playing,Nintendo,0.73
+PC,1986.0,Action,Atari,0.64
+PS4,2012.0,Role-Playing,Nordic Games,1.21
+X360,2013.0,Shooter,Ubisoft,1.19
+XOne,2007.0,Shooter,THQ,1.26
+XOne,2010.0,Shooter,Nobilis,1.2
+XOne,2018.0,Role-Playing,Warner Bros. Interactive Entertainment,0.74
+PS4,2009.0,Shooter,Sony Computer Entertainment,1.53
+XOne,2008.0,Shooter,Capcom,1.38
+PS4,2002.0,Action,Acclaim Entertainment,1.09
+PS4,2005.0,Action,Atari,1.11
+XOne,2014.0,Sports,Namco Bandai Games,0.92
+XOne,2014.0,Shooter,Valve Software,1.29
+PS4,2019.0,Action,Konami Digital Entertainment,1.12
+PS4,1993.0,Role-Playing,SquareSoft,1.07
+PS4,2013.0,Role-Playing,Capcom,1.02
+PS4,2009.0,Shooter,Disney Interactive Studios,1.76
+XOne,2014.0,Action,Electronic Arts,0.78
+PS4,2011.0,Shooter,Rising Star Games,1.33
+PS3,2003.0,Action,GT Interactive,0.84
+PS4,2015.0,Action,Activision,1.05
+PS4,2014.0,Shooter,Sega,1.52
+PS3,2007.0,Sports,Sony Computer Entertainment,0.72
+PS4,2018.0,Action,Warner Bros. Interactive Entertainment,0.92
+XOne,2024.0,Role-Playing,Nintendo,0.89
+WiiU,2012.0,Sports,Electronic Arts,0.8
+X360,2011.0,Action,Rising Star Games,0.7
+PC,1994.0,Action,Nintendo,0.86
+PS4,2008.0,Shooter,Nintendo,1.36
+XOne,2004.0,Role-Playing,Atari,0.64
+WiiU,2013.0,Action,Electronic Arts,0.88
+X360,2009.0,Shooter,THQ,1.29
+PS4,2018.0,Shooter,Sony Computer Entertainment,1.51
+PS4,2013.0,Shooter,Ubisoft,1.33
+PS4,2008.0,Shooter,Ubisoft,2.09
+PS4,2021.0,Action,Square Enix,1.18
+XOne,2016.0,Action,Electronic Arts,0.64
+PS4,2007.0,Action,Electronic Arts,0.98
+PS4,2006.0,Sports,Electronic Arts,0.88
+PS4,2013.0,Sports,Square Enix,1.12
+XOne,2016.0,Role-Playing,Konami Digital Entertainment,0.76
+PS4,2013.0,Action,Take-Two Interactive,0.85
+XOne,2013.0,Shooter,Electronic Arts,1.06
+PS4,2021.0,Action,Nintendo,1.13
+WiiU,2002.0,Action,Acclaim Entertainment,0.92
+PS4,2020.0,Action,Konami Digital Entertainment,1.33
+XOne,2007.0,Role-Playing,Activision,0.66
+PS4,2002.0,Action,Hudson Soft,1.19
+PS4,2008.0,Shooter,Activision,1.46
+PS4,2013.0,Adventure,Activision,1.06
+PS4,2016.0,Shooter,Electronic Arts,1.71
+PS4,2000.0,Action,Electronic Arts,0.84
+XOne,2012.0,Sports,505 Games,0.68
+XOne,2016.0,Shooter,Sony Computer Entertainment,1.36
+PS4,2003.0,Shooter,Namco Bandai Games,1.46
+XOne,2016.0,Shooter,Ubisoft,1.1
+XOne,2013.0,Role-Playing,Nintendo,0.61
+PS4,2000.0,Shooter,Electronic Arts,1.57
+PS4,2007.0,Shooter,Nintendo,1.92
+PS4,2008.0,Shooter,Atari,1.67
+PS4,2021.0,Action,Disney Interactive Studios,1.22
+XOne,2012.0,Role-Playing,Activision,0.84
+WiiU,2008.0,Action,Electronic Arts,0.65
+WiiU,2019.0,Action,Nintendo,0.46
+WiiU,2000.0,Action,Konami Digital Entertainment,0.55
+XOne,2009.0,Action,THQ,0.87
+PS4,2009.0,Action,Electronic Arts,0.87
+PS4,2010.0,Shooter,Ubisoft,1.46
+PS4,2013.0,Action,Sony Computer Entertainment,1.17
+PS4,2017.0,Action,Warner Bros. Interactive Entertainment,1.11
+PS4,1999.0,Role-Playing,Electronic Arts,1.12
+XOne,2016.0,Adventure,Disney Interactive Studios,0.69
+PS4,2000.0,Shooter,Konami Digital Entertainment,1.22
+PS4,2006.0,Action,Sony Computer Entertainment,0.98
+PC,2012.0,Action,Electronic Arts,0.88
+PS4,2012.0,Action,Namco Bandai Games,1.05
+PS3,2021.0,Action,Mojang,0.79
+PS4,2017.0,Sports,Ubisoft,1.01
+XOne,2013.0,Shooter,Capcom,0.88
+PS4,2000.0,Action,Electronic Arts,1.0
+XOne,2007.0,Adventure,Electronic Arts,0.68
+PS4,2012.0,Action,Electronic Arts,0.64
+PS4,2018.0,Action,Ubisoft,0.66
+XOne,2015.0,Action,Ubisoft,0.61
+PS4,2016.0,Action,Sega,1.12
+PS4,1985.0,Role-Playing,Activision,1.01
+X360,2007.0,Action,Ubisoft,0.73
+PS4,2013.0,Shooter,Namco Bandai Games,1.46
+XOne,2019.0,Action,Bethesda Softworks,0.57
+XOne,2012.0,Sports,Electronic Arts,0.7
+PS4,2011.0,Shooter,Nintendo,1.53
+XOne,2013.0,Shooter,THQ,0.86
+PS4,2007.0,Action,Ubisoft,0.95
+PC,2015.0,Sports,Rondomedia,0.54
+PS4,2002.0,Shooter,Atari,1.66
+PS4,2011.0,Action,Electronic Arts,1.0
+PS4,2014.0,Role-Playing,Namco Bandai Games,1.26
+X360,2015.0,Action,Electronic Arts,0.69
+PC,2015.0,Action,Sega,0.79
+X360,2013.0,Shooter,Sony Computer Entertainment,1.1
+XOne,2005.0,Action,Activision,0.68
+XOne,2022.0,Shooter,Ubisoft,0.99
+XOne,2019.0,Action,Atari,0.69
+X360,2011.0,Action,Capcom,0.71
+XOne,1992.0,Action,Konami Digital Entertainment,0.6
+PS4,2014.0,Action,Activision,0.89
+XOne,2012.0,Adventure,Sega,0.62
+XOne,2016.0,Shooter,Ubisoft,1.16
+PS4,2005.0,Shooter,Sony Computer Entertainment,1.47
+PS4,2015.0,Action,Nintendo,1.07
+PS4,2022.0,Shooter,Square Enix,1.52
+PC,2014.0,Action,Sega,0.71
+PS4,2015.0,Action,Electronic Arts,0.79
+PC,2018.0,Shooter,Deep Silver,1.04
+XOne,1987.0,Shooter,Atari,0.92
+PC,2012.0,Role-Playing,Disney Interactive Studios,0.83
+PS4,2017.0,Role-Playing,Electronic Arts,0.98
+X360,2015.0,Role-Playing,THQ,0.81
+XOne,2001.0,Action,ASCII Entertainment,0.73
+PS4,2003.0,Action,Acclaim Entertainment,1.09
+PS4,2010.0,Action,Sony Computer Entertainment,0.85
+PS4,2018.0,Role-Playing,Rising Star Games,1.11
+PS4,2007.0,Sports,Microsoft Game Studios,0.83
+PC,2014.0,Sports,Tecmo Koei,0.58
+X360,2016.0,Action,Tecmo Koei,0.54
+XOne,2016.0,Role-Playing,Take-Two Interactive,0.89
+XOne,2010.0,Shooter,Majesco Entertainment,0.96
+XOne,2011.0,Role-Playing,Electronic Arts,0.63
+PC,2014.0,Shooter,Spike,1.25
+PC,2015.0,Action,Ubisoft,0.73
+PS4,2014.0,Action,Disney Interactive Studios,1.0
+WiiU,2011.0,Adventure,Activision,0.51
+PS4,2006.0,Action,Activision,0.8
+PC,2005.0,Action,Nintendo,0.61
+WiiU,2014.0,Action,Capcom,0.45
+PC,2016.0,Action,Disney Interactive Studios,0.76
+PS4,2011.0,Sports,Ubisoft,0.92
+XOne,2015.0,Action,Activision,0.72
+PS4,2004.0,Action,Konami Digital Entertainment,1.1
+PC,2014.0,Role-Playing,Activision,0.61
+PS4,1995.0,Shooter,SquareSoft,1.16
+XOne,2011.0,Action,THQ,0.65
+X360,2011.0,Action,Banpresto,0.74
+PS4,2006.0,Action,Electronic Arts,0.83
+PS4,2012.0,Action,Square Enix,0.87
+XOne,2016.0,Action,Activision,0.75
+XOne,2014.0,Action,Take-Two Interactive,0.68
+PS4,2017.0,Shooter,Activision,0.96
+PS4,2017.0,Role-Playing,Electronic Arts,0.83
+XOne,2013.0,Role-Playing,Electronic Arts,0.79
+XOne,2013.0,Action,Electronic Arts,0.68
+XOne,2015.0,Action,Ubisoft,0.56
+PS4,2014.0,Adventure,Koch Media,0.96
+XOne,2011.0,Role-Playing,Atari,0.64
+PS4,2013.0,Shooter,Electronic Arts,1.43
+PS4,2013.0,Action,Sega,0.77
+PC,2014.0,Action,Activision,0.55
+PS4,1989.0,Shooter,Parker Bros.,1.23
+XOne,2012.0,Shooter,Electronic Arts,1.07
+X360,2015.0,Action,Ubisoft,0.69
+XOne,2004.0,Adventure,3DO,0.51
+XOne,2019.0,Shooter,Disney Interactive Studios,0.92
+PS4,2002.0,Shooter,Electronic Arts,1.77
+PS4,2014.0,Action,Unknown,0.89
+PS4,2000.0,Role-Playing,Infogrames,0.97
+PC,2016.0,Shooter,Namco Bandai Games,0.8
+PC,2005.0,Action,Konami Digital Entertainment,0.55
+PS4,1992.0,Shooter,Namco Bandai Games,1.35
+PS4,2009.0,Shooter,Take-Two Interactive,1.3
+PS4,1999.0,Role-Playing,Nintendo,0.74
+XOne,2012.0,Action,Unknown,0.54
+XOne,2016.0,Role-Playing,Electronic Arts,0.58
+XOne,2010.0,Shooter,Ubisoft,0.84
+X360,2010.0,Action,Eidos Interactive,0.58
+PS4,1991.0,Action,Nintendo,0.94
+XOne,2010.0,Action,THQ,0.67
+XOne,2005.0,Action,Namco Bandai Games,0.71
+PS4,2007.0,Shooter,Capcom,1.31
+X360,2006.0,Shooter,Capcom,0.99
+PS4,2012.0,Action,Nintendo,0.63
+PC,2013.0,Adventure,Electronic Arts,0.52
+PC,2006.0,Action,Sony Computer Entertainment,0.6
+X360,2007.0,Shooter,Electronic Arts,1.0
+XOne,2002.0,Sports,3DO,0.5
+PS4,2008.0,Role-Playing,THQ,0.84
+PC,2012.0,Shooter,Take-Two Interactive,0.9
+PC,2011.0,Shooter,THQ,0.97
+XOne,2003.0,Action,Nintendo,0.58
+PC,2014.0,Action,THQ,0.73
+PS4,2007.0,Action,Sega,0.93
+XOne,2016.0,Action,Sony Computer Entertainment,0.86
+PS3,2012.0,Action,THQ,0.63
+PS4,2013.0,Action,Electronic Arts,0.79
+XOne,1982.0,Sports,Activision,0.6
+WiiU,2001.0,Role-Playing,Eidos Interactive,0.63
+PC,1999.0,Role-Playing,Sega,0.64
+PS3,2020.0,Shooter,Sony Computer Entertainment,1.19
+PS4,2016.0,Action,Capcom,0.73
+WiiU,2021.0,Action,Ubisoft,0.69
+PS4,2007.0,Shooter,Enterbrain,1.08
+XOne,2010.0,Shooter,Take-Two Interactive,0.82
+XOne,2010.0,Action,Activision,0.68
+PC,2007.0,Shooter,Sega,0.9
+X360,2001.0,Shooter,Sony Computer Entertainment,0.71
+PC,2007.0,Action,Acclaim Entertainment,0.6
+XOne,2014.0,Action,THQ,0.43
+XOne,2001.0,Action,Microprose,0.47
+XOne,2015.0,Shooter,Sony Computer Entertainment,1.08
+XOne,2011.0,Adventure,THQ,0.54
+PS4,2010.0,Shooter,System 3 Arcade Software,1.33
+XOne,2013.0,Shooter,Sega,0.84
+PS3,2018.0,Role-Playing,Ubisoft,0.54
+PC,2022.0,Action,Warner Bros. Interactive Entertainment,0.54
+PC,2018.0,Shooter,Mojang,0.97
+PS4,2014.0,Shooter,Namco Bandai Games,1.09
+XOne,2016.0,Shooter,Disney Interactive Studios,0.9
+PS4,2015.0,Action,Empire Interactive,0.9
+PS4,2010.0,Sports,Activision,0.88
+XOne,2014.0,Adventure,Namco Bandai Games,0.71
+PS4,2019.0,Action,Electronic Arts,0.75
+PS4,2007.0,Action,Midway Games,0.84
+XOne,1998.0,Action,Hudson Soft,0.5
+XOne,1998.0,Role-Playing,Tecmo Koei,0.76
+XOne,2000.0,Shooter,SquareSoft,0.79
+PS4,2016.0,Action,THQ,0.85
+XOne,2012.0,Role-Playing,Activision,0.51
+XOne,2013.0,Action,Ubisoft,0.77
+XOne,2004.0,Shooter,Square,0.89
+XOne,2018.0,Action,Sony Online Entertainment,0.47
+PS4,1999.0,Shooter,Capcom,1.17
+X360,2020.0,Shooter,Square Enix,0.91
+PS4,2015.0,Action,Take-Two Interactive,0.88
+XOne,2016.0,Action,Disney Interactive Studios,0.56
+PS4,2013.0,Sports,THQ,0.79
+XOne,2011.0,Shooter,Disney Interactive Studios,0.97
+PS4,2012.0,Sports,Nintendo,0.89
+PS3,2002.0,Shooter,Sony Computer Entertainment,0.8
+PS4,2014.0,Role-Playing,Ubisoft,0.78
+XOne,2006.0,Action,Midas Interactive Entertainment,0.58
+PS4,2014.0,Role-Playing,Electronic Arts,0.96
+PS4,2019.0,Action,Activision,0.86
+XOne,2015.0,Action,Nintendo,0.64
+XOne,2012.0,Action,Tecmo Koei,0.59
+XOne,2015.0,Action,Namco Bandai Games,0.63
+WiiU,2018.0,Sports,Take-Two Interactive,0.49
+PC,2014.0,Adventure,Activision,0.54
+WiiU,2015.0,Role-Playing,Ubisoft,0.48
+PS4,2011.0,Action,Rondomedia,0.66
+PC,2010.0,Role-Playing,Midway Games,0.59
+XOne,2010.0,Shooter,Capcom,0.85
+XOne,2017.0,Action,Activision,0.63
+WiiU,2007.0,Shooter,Infogrames,0.83
+XOne,2002.0,Shooter,Sony Computer Entertainment,0.8
+PS3,2015.0,Action,Sega,0.61
+PC,2013.0,Shooter,Eidos Interactive,0.88
+PS4,2015.0,Shooter,505 Games,1.42
+XOne,2016.0,Action,Nintendo,0.48
+XOne,2007.0,Action,LucasArts,0.59
+X360,2019.0,Shooter,Sega,0.79
+PC,2011.0,Shooter,Ubisoft,0.65
+PS4,2009.0,Adventure,Capcom,0.73
+PS4,2013.0,Role-Playing,Activision,0.61
+PS4,2010.0,Shooter,Namco Bandai Games,1.21
+XOne,2011.0,Shooter,Activision,0.62
+PS4,2018.0,Shooter,Disney Interactive Studios,1.37
+PC,2015.0,Shooter,Bethesda Softworks,0.88
+XOne,1987.0,Action,Atari,0.6
+PC,1988.0,Shooter,Atari,0.93
+PS4,2018.0,Shooter,Sony Computer Entertainment,1.26
+XOne,2012.0,Shooter,Atari,1.03
+PS4,2015.0,Role-Playing,Square Enix,0.81
+PS3,2016.0,Shooter,Sega,0.78
+PS4,2007.0,Action,Electronic Arts,0.72
+PS4,2014.0,Action,Scholastic Inc.,0.76
+PS4,2015.0,Action,Activision,0.79
+PC,2022.0,Action,Nintendo,0.53
+PS4,2015.0,Shooter,Atari,1.15
+XOne,2015.0,Action,Electronic Arts,0.56
+PC,2011.0,Action,Sega,0.57
+PC,2012.0,Action,City Interactive,0.45
+PS4,2008.0,Role-Playing,Midway Games,0.7
+PS4,2010.0,Role-Playing,Namco Bandai Games,0.78
+XOne,1999.0,Action,THQ,0.48
+PS4,2018.0,Action,Sega,0.71
+XOne,2011.0,Action,Ubisoft,0.8
+PS4,2013.0,Action,Namco Bandai Games,0.65
+XOne,2005.0,Action,Konami Digital Entertainment,0.38
+PS4,1995.0,Action,Konami Digital Entertainment,0.61
+XOne,2013.0,Action,Microsoft Game Studios,0.52
+PS4,2016.0,Adventure,Activision,0.85
+XOne,2006.0,Shooter,Atari,0.76
+PS4,2012.0,Role-Playing,System 3 Arcade Software,0.7
+WiiU,2014.0,Action,Electronic Arts,0.47
+XOne,2001.0,Action,Activision,0.56
+PS4,2009.0,Sports,Vivendi Games,0.64
+PS4,2000.0,Action,Pack In Soft,0.65
+PS4,2010.0,Shooter,Rising Star Games,0.89
+PS4,2016.0,Adventure,Unknown,0.54
+PS4,2019.0,Shooter,Sega,1.09
+PS3,2007.0,Action,Electronic Arts,0.6
+XOne,2015.0,Shooter,Activision,0.81
+PS4,2017.0,Action,Take-Two Interactive,0.7
+XOne,2018.0,Action,Nintendo,0.61
+PS4,2002.0,Action,989 Studios,0.57
+WiiU,1985.0,Role-Playing,Activision,0.62
+PS4,2011.0,Shooter,Xplosiv,0.84
+PC,1999.0,Action,Acclaim Entertainment,0.58
+PC,2002.0,Action,Electronic Arts,0.56
+PS4,2014.0,Shooter,Electronic Arts,0.99
+PS4,2014.0,Sports,Konami Digital Entertainment,0.56
+PS4,2005.0,Action,Sony Computer Entertainment,0.58
+PS3,2023.0,Action,Electronic Arts,0.58
+XOne,2016.0,Role-Playing,Square Enix,0.59
+XOne,2008.0,Role-Playing,Hudson Entertainment,0.38
+PC,2014.0,Sports,Electronic Arts,0.42
+PC,2010.0,Action,Tecmo Koei,0.45
+XOne,2017.0,Action,Electronic Arts,0.48
+XOne,2014.0,Action,Codemasters,0.38
+PC,2017.0,Action,Nordic Games,0.38
+PS4,2009.0,Role-Playing,Ubisoft,0.56
+PS3,2015.0,Action,Vivendi Games,0.52
+PS4,2008.0,Shooter,Nintendo,0.89
+PS4,2009.0,Sports,THQ,0.65
+PC,2009.0,Adventure,Infogrames,0.62
+PS4,2010.0,Shooter,Disney Interactive Studios,0.77
+PS4,2017.0,Sports,THQ,0.76
+PS4,2009.0,Action,THQ,0.78
+XOne,2017.0,Action,Activision,0.47
+PC,2014.0,Action,Vivendi Games,0.45
+PS4,2012.0,Adventure,Sega,0.87
+PS4,2009.0,Sports,Sony Computer Entertainment,0.75
+XOne,2002.0,Action,Virgin Interactive,0.62
+WiiU,2008.0,Action,Electronic Arts,0.55
+PS4,2007.0,Action,Atari,0.58
+WiiU,2018.0,Action,Ubisoft,0.56
+PS3,2007.0,Role-Playing,Nintendo,0.54
+PS4,2014.0,Action,Disney Interactive Studios,0.82
+PC,2001.0,Role-Playing,Atari,0.45
+XOne,2011.0,Shooter,Activision,0.71
+XOne,2016.0,Action,Take-Two Interactive,0.49
+XOne,2016.0,Action,Ubisoft Annecy,0.57
+PC,2020.0,Adventure,Ubisoft,0.4
+PC,2011.0,Shooter,Activision,0.85
+PC,1991.0,Action,Activision,0.55
+WiiU,2003.0,Action,989 Studios,0.37
+XOne,2008.0,Sports,Sega,0.62
+PC,2011.0,Role-Playing,Activision,0.72
+PS3,2003.0,Role-Playing,Activision,0.6
+PS4,2014.0,Shooter,Konami Digital Entertainment,1.4
+PS4,2000.0,Role-Playing,Atlus,0.71
+XOne,2017.0,Action,Namco Bandai Games,0.33
+PS3,2012.0,Shooter,THQ,0.64
+PS4,1994.0,Action,Atari,0.69
+PC,2003.0,Shooter,Eidos Interactive,0.59
+PS4,2005.0,Adventure,Electronic Arts,0.58
+PS4,2018.0,Adventure,Nintendo,0.59
+XOne,2014.0,Shooter,Electronic Arts,0.74
+PS4,2016.0,Shooter,505 Games,0.81
+PS3,2019.0,Role-Playing,Disney Interactive Studios,0.45
+PS4,2013.0,Adventure,Capcom,0.9
+X360,2007.0,Role-Playing,Vivendi Games,0.38
+PS4,2000.0,Action,Fox Interactive,0.83
+WiiU,2016.0,Action,Tecmo Koei,0.44
+XOne,2009.0,Role-Playing,Namco Bandai Games,0.54
+PS4,2005.0,Role-Playing,Namco Bandai Games,0.69
+PS4,2000.0,Shooter,Hudson Soft,1.05
+PS4,2017.0,Shooter,505 Games,1.06
+XOne,2011.0,Action,Ubisoft,0.37
+PC,2012.0,Action,Konami Digital Entertainment,0.6
+XOne,2006.0,Role-Playing,Sony Computer Entertainment,0.4
+XOne,2013.0,Action,Ubisoft,0.52
+XOne,2012.0,Shooter,Nintendo,0.74
+XOne,2008.0,Shooter,Sony Computer Entertainment,0.67
+XOne,2006.0,Role-Playing,Electronic Arts,0.51
+XOne,2013.0,Action,THQ,0.4
+PC,2020.0,Shooter,Activision,0.55
+WiiU,2010.0,Action,Sony Computer Entertainment,0.57
+PS4,2009.0,Action,Namco Bandai Games,0.74
+PS4,2011.0,Action,Rising Star Games,0.69
+PS4,2007.0,Action,BAM! Entertainment,0.72
+XOne,2007.0,Sports,Unknown,0.34
+PS4,2015.0,Sports,Take-Two Interactive,0.81
+X360,2013.0,Action,Unknown,0.44
+XOne,2014.0,Role-Playing,Electronic Arts,0.51
+XOne,2016.0,Shooter,Activision,0.66
+PC,2016.0,Shooter,Activision,0.8
+PS4,2004.0,Role-Playing,989 Studios,0.5
+PC,2017.0,Shooter,Activision,0.74
+PS4,2013.0,Action,Sega,0.57
+XOne,2012.0,Action,Ubisoft,0.36
+X360,2010.0,Shooter,THQ,0.64
+PC,2003.0,Sports,Sony Computer Entertainment,0.63
+PS3,2007.0,Shooter,Konami Digital Entertainment,0.74
+PS4,2010.0,Action,Electronic Arts,0.73
+PC,2013.0,Action,Knowledge Adventure,0.2
+XOne,2006.0,Sports,Capcom,0.47
+XOne,2016.0,Action,Nintendo,0.44
+PS4,2016.0,Shooter,Namco Bandai Games,0.68
+PS4,2010.0,Shooter,Mud Duck Productions,1.18
+XOne,2014.0,Action,Namco Bandai Games,0.44
+PS4,2014.0,Action,Atari,0.67
+PC,2006.0,Action,BAM! Entertainment,0.42
+PC,2007.0,Action,Ubisoft,0.27
+X360,2020.0,Shooter,Nippon Ichi Software,0.65
+PS4,2018.0,Role-Playing,Konami Digital Entertainment,0.73
+X360,2013.0,Action,Vivendi Games,0.25
+PS4,2011.0,Shooter,Ubisoft,0.97
+XOne,2005.0,Action,THQ,0.42
+PC,2012.0,Action,Square Enix,0.63
+PS4,2017.0,Role-Playing,PQube,0.69
+PS4,2019.0,Role-Playing,Electronic Arts,0.5
+PS4,2001.0,Role-Playing,Pioneer LDC,0.83
+XOne,2015.0,Action,Activision,0.39
+PC,2008.0,Shooter,Sony Computer Entertainment,0.85
+PS4,2015.0,Action,Electronic Arts,0.46
+PS4,2005.0,Adventure,Taito,0.68
+XOne,2018.0,Shooter,Activision,0.7
+PS4,2016.0,Sports,Rising Star Games,0.49
+PC,2005.0,Action,Electronic Arts,0.44
+X360,2007.0,Shooter,Metro 3D,0.74
+PC,2004.0,Role-Playing,Activision,0.41
+PS3,2012.0,Action,Take-Two Interactive,0.52
+XOne,2004.0,Shooter,Magical Company,0.68
+PC,2014.0,Shooter,Take-Two Interactive,0.67
+PS4,2014.0,Adventure,Take-Two Interactive,0.74
+PS4,2013.0,Action,Activision,0.55
+XOne,2002.0,Sports,Konami Digital Entertainment,0.42
+PS4,2005.0,Action,Ubisoft,0.7
+PS3,2009.0,Shooter,Electronic Arts,0.75
+XOne,2010.0,Shooter,Electronic Arts,0.89
+WiiU,2007.0,Action,Sony Computer Entertainment,0.54
+PS4,2022.0,Adventure,Sega,0.74
+XOne,2012.0,Sports,Activision,0.76
+PC,2010.0,Adventure,Warner Bros. Interactive Entertainment,0.5
+PS4,2002.0,Adventure,Imagineer,0.71
+XOne,2019.0,Shooter,Square Enix,0.81
+XOne,2007.0,Shooter,Midway Games,0.56
+WiiU,2009.0,Role-Playing,THQ,0.41
+PC,2018.0,Action,Electronic Arts,0.4
+PS4,2006.0,Role-Playing,989 Studios,0.75
+XOne,2004.0,Shooter,Nintendo,0.63
+XOne,2009.0,Shooter,Sony Computer Entertainment,0.71
+PS4,2006.0,Action,THQ,0.77
+XOne,2014.0,Action,Sega,0.54
+PS4,2010.0,Action,THQ,0.66
+PS4,2013.0,Action,Activision,0.48
+XOne,2012.0,Action,THQ,0.56
+PS4,2021.0,Action,Nintendo,0.73
+XOne,2005.0,Action,Electronic Arts,0.29
+PS4,2012.0,Shooter,Electronic Arts,0.83
+PC,2016.0,Action,Warner Bros. Interactive Entertainment,0.47
+PS4,2001.0,Role-Playing,Namco Bandai Games,0.69
+PS3,2006.0,Action,Konami Digital Entertainment,0.53
+PS4,2018.0,Shooter,Codemasters,0.91
+XOne,2004.0,Action,Electronic Arts,0.5
+PS4,1988.0,Shooter,Mattel Interactive,1.01
+PS4,2014.0,Shooter,Rising Star Games,0.85
+XOne,2011.0,Shooter,THQ,0.58
+PC,2014.0,Action,Electronic Arts,0.44
+X360,2017.0,Shooter,Ubisoft,0.63
+PS4,2017.0,Action,Konami Digital Entertainment,0.4
+PS4,2018.0,Shooter,THQ,0.81
+PC,2020.0,Action,Sony Computer Entertainment,0.45
+XOne,2014.0,Shooter,Nintendo,0.59
+PS4,2017.0,Action,Ubisoft,0.55
+PC,2013.0,Role-Playing,Capcom,0.49
+XOne,2009.0,Action,Ubisoft,0.33
+XOne,1999.0,Action,Takara,0.28
+PS4,2006.0,Action,Banpresto,0.54
+XOne,2019.0,Action,Sony Computer Entertainment America,0.52
+PS4,2016.0,Shooter,Avanquest,1.01
+PC,2012.0,Role-Playing,Electronic Arts,0.52
+PS4,2007.0,Role-Playing,Electronic Arts,0.39
+PC,2011.0,Action,Ubisoft,0.41
+PC,2019.0,Action,Namco Bandai Games,0.46
+PC,2013.0,Role-Playing,Sega,0.45
+PS4,2009.0,Action,Ghostlight,0.57
+PS4,2004.0,Action,Nintendo,0.53
+XOne,2001.0,Role-Playing,GT Interactive,0.44
+XOne,2020.0,Action,Nippon Ichi Software,0.47
+X360,2015.0,Action,Namco Bandai Games,0.51
+PS4,2005.0,Action,Sega,0.49
+PS3,2013.0,Shooter,Electronic Arts,0.64
+PS4,2020.0,Action,Microsoft Game Studios,0.38
+PS4,2002.0,Shooter,Namco Bandai Games,0.78
+PS4,2006.0,Action,Electronic Arts,0.46
+PC,2013.0,Action,Electronic Arts,0.33
+PS4,2011.0,Action,Nintendo,0.55
+PS4,2000.0,Role-Playing,Namco Bandai Games,0.53
+PC,2013.0,Action,Sega,0.2
+XOne,2014.0,Shooter,Take-Two Interactive,0.75
+PS4,2017.0,Action,Activision,0.56
+PS4,2016.0,Action,Sega,0.59
+XOne,2002.0,Action,Konami Digital Entertainment,0.3
+PS4,2015.0,Shooter,Activision,0.99
+PS4,2004.0,Shooter,Nintendo,0.94
+XOne,2017.0,Role-Playing,Tecmo Koei,0.46
+PS4,2011.0,Sports,Electronic Arts,0.67
+XOne,2014.0,Role-Playing,THQ,0.4
+PS4,2009.0,Shooter,Electronic Arts,0.62
+PS4,2014.0,Shooter,Vivendi Games,0.61
+PS4,2015.0,Shooter,Electronic Arts,0.8
+PS4,2007.0,Action,Microsoft Game Studios,0.5
+PS4,2011.0,Role-Playing,Take-Two Interactive,0.46
+PS4,2014.0,Role-Playing,Ubisoft,0.64
+X360,2010.0,Action,Midway Games,0.39
+PC,2000.0,Sports,Sega,0.32
+PS4,2005.0,Role-Playing,Sony Computer Entertainment,0.6
+XOne,2013.0,Action,Destineer,0.44
+XOne,2006.0,Sports,Acclaim Entertainment,0.45
+PC,2018.0,Action,Electronic Arts,0.61
+PS4,2005.0,Action,Nintendo,0.51
+PS4,2014.0,Action,Namco Bandai Games,0.58
+PS4,2005.0,Shooter,Konami Digital Entertainment,0.86
+PS4,2019.0,Action,Square Enix,0.61
+PS4,2008.0,Sports,Nintendo,0.54
+PS3,2009.0,Action,Namco Bandai Games,0.27
+X360,2012.0,Action,Game Factory,0.37
+PS4,2021.0,Shooter,Harmonix Music Systems,0.92
+XOne,2012.0,Action,Activision,0.24
+PS4,2010.0,Shooter,Electronic Arts,0.86
+XOne,2019.0,Action,Capcom,0.31
+XOne,1998.0,Adventure,Namco Bandai Games,0.47
+PS4,2011.0,Shooter,Square Enix,0.89
+PC,2018.0,Action,Electronic Arts,0.32
+WiiU,2007.0,Action,THQ,0.38
+XOne,2005.0,Action,Namco Bandai Games,0.22
+XOne,2012.0,Adventure,Kalypso Media,0.36
+XOne,2015.0,Shooter,Activision,0.61
+PS4,2019.0,Action,Warner Bros. Interactive Entertainment,0.58
+PS4,2008.0,Action,Jorudan,0.44
+XOne,2012.0,Role-Playing,"Destination Software, Inc",0.52
+PS4,2013.0,Action,Atari,0.39
+PC,2011.0,Shooter,THQ,0.53
+XOne,2011.0,Role-Playing,Zoo Digital Publishing,0.48
+XOne,2014.0,Action,Capcom,0.58
+PS4,2005.0,Shooter,Konami Digital Entertainment,0.9
+WiiU,2004.0,Action,Banpresto,0.41
+PS4,2017.0,Action,Namco Bandai Games,0.32
+PS4,2005.0,Adventure,Psygnosis,0.39
+PS4,2010.0,Shooter,THQ,0.88
+XOne,2012.0,Role-Playing,Nintendo,0.36
+WiiU,2016.0,Shooter,Namco Bandai Games,0.55
+PS4,2008.0,Action,Zoo Digital Publishing,0.5
+X360,2002.0,Shooter,Atlus,0.54
+PS4,2006.0,Shooter,Capcom,0.89
+XOne,2007.0,Action,Acclaim Entertainment,0.41
+PS4,2011.0,Action,Vivendi Games,0.68
+XOne,2024.0,Shooter,Koch Media,0.52
+XOne,2004.0,Shooter,Konami Digital Entertainment,0.62
+XOne,2007.0,Action,Kadokawa Shoten,0.51
+PS4,2007.0,Role-Playing,THQ,0.47
+PC,2010.0,Action,Zoo Digital Publishing,0.67
+WiiU,2005.0,Action,Namco Bandai Games,0.43
+XOne,2004.0,Action,Psygnosis,0.43
+XOne,2012.0,Role-Playing,Nintendo,0.44
+PC,2011.0,Action,THQ,0.58
+PS4,2008.0,Shooter,Vivendi Games,0.76
+PS3,2012.0,Action,Sega,0.23
+PS4,2010.0,Shooter,Disney Interactive Studios,0.97
+PC,2008.0,Role-Playing,Eidos Interactive,0.36
+PS4,1986.0,Action,ITT Family Games,0.57
+PS4,1988.0,Sports,Activision,0.35
+XOne,2012.0,Action,Microsoft Game Studios,0.44
+XOne,2016.0,Action,Namco Bandai Games,0.32
+PS3,2011.0,Shooter,Activision,0.53
+WiiU,2016.0,Shooter,Electronic Arts,0.63
+PS4,2019.0,Action,Ubisoft,0.78
+PS4,1987.0,Shooter,Coleco,0.99
+PS4,2018.0,Action,Electronic Arts,0.48
+XOne,2016.0,Shooter,PopCap Games,0.6
+XOne,2018.0,Shooter,Electronic Arts,0.59
+PS3,2016.0,Adventure,Sony Computer Entertainment,0.5
+PC,2017.0,Shooter,Namco Bandai Games,0.59
+PS4,2012.0,Shooter,THQ,0.85
+XOne,2008.0,Shooter,NovaLogic,0.63
+XOne,2011.0,Action,Oxygen Interactive,0.34
+XOne,2011.0,Action,Microsoft Game Studios,0.38
+PS4,2012.0,Adventure,Namco Bandai Games,0.36
+PS4,2012.0,Action,Sony Computer Entertainment,0.58
+XOne,2010.0,Role-Playing,Eidos Interactive,0.57
+PS4,2010.0,Action,Sony Computer Entertainment,0.58
+PC,2005.0,Role-Playing,Electronic Arts,0.53
+PS4,2014.0,Action,505 Games,0.49
+XOne,1995.0,Adventure,Namco Bandai Games,0.4
+XOne,2011.0,Shooter,Capcom,0.48
+PS3,2006.0,Action,Sony Computer Entertainment,0.36
+PS4,2016.0,Shooter,Warner Bros. Interactive Entertainment,0.75
+PS4,2011.0,Shooter,Nintendo,0.8
+PS4,2004.0,Action,Activision,0.36
+XOne,2013.0,Action,Activision,0.25
+PS4,2013.0,Shooter,Electronic Arts,0.47
+PC,2014.0,Shooter,Sony Computer Entertainment,0.62
+PS4,2013.0,Action,Ubisoft,0.73
+PS4,2006.0,Role-Playing,Sega,0.61
+XOne,2010.0,Action,Electronic Arts,0.19
+PC,2001.0,Action,Takara,0.52
+PS3,2021.0,Shooter,Warner Bros. Interactive Entertainment,0.67
+PC,1986.0,Action,Starpath Corp.,0.23
+XOne,2014.0,Action,505 Games,0.35
+PC,2015.0,Shooter,Sony Computer Entertainment,0.67
+XOne,2012.0,Action,Take-Two Interactive,0.43
+PS4,2012.0,Action,Sega,0.38
+XOne,2012.0,Shooter,THQ,0.61
+PC,2016.0,Shooter,Zoo Digital Publishing,0.37
+PS4,2014.0,Role-Playing,Take-Two Interactive,0.42
+XOne,2005.0,Shooter,Sony Computer Entertainment,0.71
+XOne,2019.0,Shooter,Square Enix,0.55
+XOne,2013.0,Action,Take-Two Interactive,0.32
+PS4,2012.0,Role-Playing,Atari,0.65
+XOne,2008.0,Action,Konami Digital Entertainment,0.47
+PS3,2003.0,Action,Electronic Arts,0.5
+PS4,2004.0,Role-Playing,Konami Digital Entertainment,0.58
+PS4,1992.0,Shooter,BPS,0.96
+PS4,2001.0,Shooter,Acclaim Entertainment,0.91
+PS4,2012.0,Action,Take-Two Interactive,0.47
+WiiU,2002.0,Action,Hudson Soft,0.38
+XOne,2015.0,Shooter,Activision,0.46
+PS4,2011.0,Shooter,Sony Computer Entertainment,0.59
+PS4,2006.0,Shooter,Sega,0.58
+WiiU,2016.0,Action,Codemasters,0.33
+PS4,2015.0,Action,Warner Bros. Interactive Entertainment,0.54
+PC,2002.0,Shooter,Sony Computer Entertainment,0.7
+PS4,2009.0,Shooter,Electronic Arts,0.69
+PS4,1999.0,Action,Konami Digital Entertainment,0.6
+XOne,2014.0,Action,Sega,0.47
+PS4,2020.0,Action,Sega,0.51
+XOne,2010.0,Action,Midway Games,0.42
+PS4,2009.0,Shooter,Take-Two Interactive,0.79
+PC,2005.0,Action,Ubisoft,0.49
+PC,2007.0,Shooter,THQ,0.62
+PC,2018.0,Role-Playing,Disney Interactive Studios,0.24
+PS4,2018.0,Adventure,Namco Bandai Games,0.48
+PC,2011.0,Sports,Konami Digital Entertainment,0.52
+WiiU,2004.0,Action,Ubisoft,0.34
+PS4,2008.0,Action,Activision,0.55
+PS4,2000.0,Action,Atlus,0.56
+PC,2022.0,Shooter,Electronic Arts,0.4
+PS4,2011.0,Action,LucasArts,0.59
+XOne,2015.0,Action,Rising Star Games,0.22
+PC,2014.0,Action,Marvelous Interactive,0.3
+PS4,2012.0,Action,Activision,0.58
+XOne,1995.0,Shooter,Namco Bandai Games,0.63
+XOne,2008.0,Shooter,Microsoft Game Studios,0.52
+PS4,2017.0,Shooter,Namco Bandai Games,0.68
+PS3,2000.0,Sports,Nintendo,0.34
+PS4,2002.0,Action,3DO,0.51
+PS4,2010.0,Action,Midway Games,0.54
+PC,2011.0,Action,Deep Silver,0.28
+PS4,2011.0,Shooter,Konami Digital Entertainment,0.72
+PC,2009.0,Shooter,Capcom,0.46
+PS4,2013.0,Action,Ubisoft,0.31
+XOne,2004.0,Adventure,Sony Computer Entertainment,0.26
+PS4,2009.0,Action,Sony Computer Entertainment,0.59
+XOne,2013.0,Action,Activision,0.39
+PC,2016.0,Shooter,Activision,0.33
+PC,2010.0,Sports,THQ,0.2
+WiiU,2005.0,Shooter,Midas Interactive Entertainment,0.45
+XOne,2009.0,Adventure,THQ,0.51
+PC,2013.0,Action,Electronic Arts,0.33
+XOne,2016.0,Shooter,Namco Bandai Games,0.71
+X360,2005.0,Role-Playing,Hudson Soft,0.39
+XOne,2007.0,Shooter,3DO,0.55
+PS3,2009.0,Action,Electronic Arts,0.22
+PS4,2014.0,Adventure,Activision,0.59
+XOne,2015.0,Action,Capcom,0.32
+PC,2023.0,Action,Namco Bandai Games,0.44
+PS4,2019.0,Role-Playing,Square Enix,0.34
+PS4,2014.0,Sports,Ubisoft,0.45
+WiiU,2013.0,Adventure,THQ,0.39
+XOne,2015.0,Role-Playing,Activision,0.33
+PS4,2008.0,Action,Electronic Arts,0.53
+PS4,2010.0,Sports,Capcom,0.47
+PS4,2011.0,Action,Marvelous Interactive,0.45
+XOne,2009.0,Shooter,THQ,0.66
+X360,2008.0,Action,Midway Games,0.45
+WiiU,2007.0,Role-Playing,Mud Duck Productions,0.27
+XOne,2015.0,Shooter,Ubisoft,0.59
+XOne,2012.0,Role-Playing,Take-Two Interactive,0.27
+PS4,2010.0,Action,Midas Interactive Entertainment,0.31
+PS3,2015.0,Action,Atlus,0.44
+PS4,2004.0,Action,Namco Bandai Games,0.24
+PS4,2014.0,Action,D3Publisher,0.6
+WiiU,2007.0,Shooter,Namco Bandai Games,0.48
+PS3,2016.0,Action,Sony Computer Entertainment,0.32
+PS4,2010.0,Shooter,Disney Interactive Studios,0.74
+XOne,2015.0,Action,Activision,0.4
+XOne,1999.0,Action,Acclaim Entertainment,0.26
+PS4,2000.0,Shooter,Electronic Arts,0.75
+PS4,2008.0,Action,THQ,0.44
+PS4,2004.0,Action,Sony Computer Entertainment,0.33
+XOne,2007.0,Action,TDK Mediactive,0.32
+XOne,2012.0,Action,Electronic Arts,0.48
+XOne,2019.0,Shooter,Square Enix,0.66
+PS4,2019.0,Action,Sega,0.57
+X360,2016.0,Action,Namco Bandai Games,0.22
+XOne,2013.0,Shooter,Ubisoft,0.53
+PS3,2009.0,Shooter,Ubisoft,0.66
+PS4,2003.0,Shooter,Sony Computer Entertainment,0.85
+XOne,2017.0,Action,Activision,0.42
+PC,2013.0,Sports,Electronic Arts,0.38
+PS4,1996.0,Action,Tecmo Koei,0.47
+PS4,2007.0,Action,Vivendi Games,0.36
+PS4,1999.0,Sports,Electronic Arts,0.25
+PS4,2013.0,Shooter,THQ,0.78
+XOne,2014.0,Shooter,Sony Computer Entertainment,0.45
+PS4,2012.0,Role-Playing,Rising Star Games,0.46
+PS4,2002.0,Action,Playmates,0.28
+XOne,2009.0,Role-Playing,Activision,0.39
+PS4,2011.0,Shooter,Atari,0.89
+PS4,2009.0,Action,Activision,0.41
+XOne,2007.0,Action,Namco Bandai Games,0.32
+PS4,2008.0,Action,Activision,0.48
+PS4,2014.0,Sports,Sega,0.67
+PS4,2003.0,Action,Electronic Arts,0.29
+PS4,2017.0,Action,Konami Digital Entertainment,0.46
+XOne,2012.0,Shooter,Midway Games,0.42
+PS4,2011.0,Shooter,Konami Digital Entertainment,0.57
+PS4,2003.0,Action,Atari,0.46
+WiiU,2007.0,Role-Playing,Sammy Corporation,0.46
+X360,1993.0,Shooter,Tecmo Koei,0.68
+PS4,2014.0,Role-Playing,Sony Computer Entertainment,0.52
+PS4,2011.0,Action,SCi,0.4
+XOne,2010.0,Action,Sony Computer Entertainment,0.58
+PC,2012.0,Shooter,Atari,0.47
+PC,2016.0,Action,Nintendo,0.27
+PS4,2011.0,Shooter,Activision,0.43
+PS4,2005.0,Action,Sony Computer Entertainment,0.55
+XOne,2000.0,Role-Playing,Laguna,0.43
+PS3,2019.0,Role-Playing,Electronic Arts,0.57
+PS3,2011.0,Role-Playing,Disney Interactive Studios,0.19
+PS4,2018.0,Adventure,Activision,0.57
+XOne,2021.0,Sports,Square Enix,0.34
+PS4,2023.0,Action,Konami Digital Entertainment,0.49
+XOne,2005.0,Action,THQ,0.17
+X360,2010.0,Role-Playing,Activision,0.48
+XOne,2015.0,Sports,Activision,0.41
+PS4,2012.0,Adventure,Activision,0.43
+XOne,2012.0,Role-Playing,Electronic Arts,0.39
+XOne,2018.0,Action,Electronic Arts,0.25
+PC,2007.0,Sports,Konami Digital Entertainment,0.27
+PS4,2010.0,Sports,Ubisoft,0.38
+PS3,2018.0,Shooter,Ubisoft,0.29
+PS4,2000.0,Role-Playing,Namco Bandai Games,0.5
+PS4,2006.0,Shooter,Nintendo,0.89
+PS4,1999.0,Sports,Nichibutsu,0.35
+PS4,2019.0,Action,Little Orbit,0.44
+PS4,2000.0,Role-Playing,Tomy Corporation,0.36
+XOne,2012.0,Action,Atari,0.35
+PS4,2003.0,Action,Tecmo Koei,0.36
+PS4,2018.0,Action,Majesco Entertainment,0.32
+PS4,2008.0,Shooter,Midway Games,0.68
+PS4,2011.0,Action,Sega,0.39
+PS3,2001.0,Adventure,THQ,0.52
+X360,2017.0,Shooter,Ubisoft,0.47
+PS4,2001.0,Role-Playing,Microprose,0.36
+PC,1999.0,Action,Namco Bandai Games,0.44
+PC,2010.0,Action,Sega,0.38
+WiiU,2020.0,Role-Playing,Nippon Ichi Software,0.39
+PS4,2023.0,Shooter,Capcom,0.81
+PS4,2011.0,Shooter,Square Enix,0.53
+XOne,2019.0,Role-Playing,Focus Home Interactive,0.31
+PS3,2005.0,Role-Playing,Electronic Arts,0.3
+PC,2003.0,Shooter,Acclaim Entertainment,0.4
+XOne,2008.0,Adventure,Electronic Arts,0.29
+PS4,2016.0,Shooter,Take-Two Interactive,0.85
+PC,2016.0,Shooter,Atlus,0.44
+PS3,2010.0,Action,Sega,0.19
+PS4,2013.0,Action,Take-Two Interactive,0.31
+XOne,2002.0,Action,Activision,0.49
+XOne,2005.0,Role-Playing,BAM! Entertainment,0.31
+XOne,2003.0,Shooter,Konami Digital Entertainment,0.47
+XOne,2009.0,Action,Majesco Entertainment,0.29
+PC,2019.0,Shooter,Warner Bros. Interactive Entertainment,0.37
+WiiU,2010.0,Action,Sega,0.46
+XOne,2004.0,Action,Sony Computer Entertainment,0.28
+PS4,2011.0,Sports,Activision,0.62
+PS4,2015.0,Action,Tecmo Koei,0.45
+PS4,2016.0,Action,Mentor Interactive,0.61
+PS4,2002.0,Shooter,Majesco Entertainment,0.68
+PS4,2012.0,Action,Ubisoft,0.54
+XOne,2012.0,Shooter,Take-Two Interactive,0.59
+PS4,2017.0,Adventure,Namco Bandai Games,0.49
+PS4,2007.0,Shooter,Sega,0.54
+PC,2016.0,Shooter,Mastiff,0.49
+PS4,2002.0,Action,Sony Computer Entertainment,0.56
+XOne,2016.0,Shooter,Ubisoft,0.38
+X360,1999.0,Action,Sega,0.31
+XOne,2015.0,Action,Namco Bandai Games,0.31
+PS4,2015.0,Role-Playing,Level 5,0.45
+PS4,2017.0,Action,Ubisoft,0.37
+XOne,2005.0,Shooter,THQ,0.5
+XOne,2009.0,Action,Electronic Arts,0.29
+PS4,2005.0,Role-Playing,Activision,0.25
+XOne,2010.0,Action,Majesco Entertainment,0.31
+XOne,2015.0,Action,Ubisoft,0.2
+PS4,2016.0,Role-Playing,Warner Bros. Interactive Entertainment,0.25
+XOne,2009.0,Shooter,Konami Digital Entertainment,0.41
+PS4,2012.0,Sports,PopCap Games,0.47
+PS4,2014.0,Action,Activision,0.5
+PC,2015.0,Shooter,Sega,0.56
+PS4,2008.0,Adventure,Electronic Arts,0.18
+XOne,2005.0,Shooter,NewKidCo,0.26
+XOne,2016.0,Shooter,Activision,0.62
+PS4,2007.0,Action,Ubisoft,0.28
+X360,2020.0,Role-Playing,Activision,0.37
+PS4,2018.0,Sports,Sony Computer Entertainment,0.38
+PS4,2010.0,Shooter,Nintendo,0.61
+X360,2011.0,Sports,Ubisoft,0.25
+PC,2018.0,Shooter,Game Factory,0.55
+XOne,2018.0,Shooter,Electronic Arts,0.43
+PS4,2014.0,Action,Bethesda Softworks,0.42
+PS4,2011.0,Shooter,Nintendo,0.65
+XOne,2012.0,Role-Playing,THQ,0.33
+PS4,2012.0,Shooter,Electronic Arts,0.56
+PS4,2012.0,Action,Vivendi Games,0.42
+PC,2016.0,Shooter,Vivendi Games,0.64
+PS4,2000.0,Role-Playing,Acclaim Entertainment,0.53
+PS4,1998.0,Sports,ArtDink,0.45
+PS4,2018.0,Action,THQ,0.4
+XOne,2018.0,Action,Electronic Arts,0.11
+XOne,2013.0,Action,THQ,0.17
+PS3,2014.0,Action,Electronic Arts,0.43
+PS4,2005.0,Adventure,Ubisoft,0.36
+PS4,2004.0,Action,GT Interactive,0.31
+XOne,2005.0,Shooter,Sony Computer Entertainment,0.36
+PS4,2009.0,Action,Sega,0.3
+XOne,2010.0,Action,Nintendo,0.18
+X360,2015.0,Adventure,Take-Two Interactive,0.29
+XOne,2002.0,Shooter,NEC Interchannel,0.29
+XOne,2009.0,Action,Capcom,0.23
+WiiU,2006.0,Action,Konami Digital Entertainment,0.22
+PS4,2017.0,Adventure,Ubisoft,0.43
+X360,2001.0,Adventure,Ubisoft,0.28
+XOne,2007.0,Action,Electronic Arts,0.28
+XOne,2013.0,Shooter,Capcom,0.51
+X360,2008.0,Action,Vivendi Games,0.29
+XOne,2010.0,Shooter,Spike,0.45
+XOne,2016.0,Action,Codemasters,0.35
+PS4,2018.0,Role-Playing,Ubisoft,0.43
+XOne,2008.0,Sports,Konami Digital Entertainment,0.28
+XOne,2010.0,Action,Electronic Arts,0.3
+PS4,2010.0,Shooter,Acclaim Entertainment,0.41
+PC,2016.0,Action,Ubisoft,0.2
+XOne,2012.0,Action,Hudson Soft,0.37
+PS4,2010.0,Action,Midway Games,0.39
+PS4,2016.0,Action,XS Games,0.47
+XOne,2014.0,Adventure,Electronic Arts,0.32
+PS4,2013.0,Action,MTV Games,0.38
+PS4,2009.0,Role-Playing,Namco Bandai Games,0.49
+XOne,2018.0,Action,D3Publisher,0.38
+PS4,2014.0,Shooter,Activision,0.75
+PS4,2000.0,Shooter,Electronic Arts,0.45
+XOne,2011.0,Sports,Rising Star Games,0.43
+PS4,1986.0,Action,Taito,0.38
+WiiU,2003.0,Action,Sega,0.35
+X360,2010.0,Shooter,Activision,0.49
+XOne,2014.0,Shooter,THQ,0.5
+WiiU,2001.0,Shooter,Acclaim Entertainment,0.38
+PS3,1986.0,Action,Atari,0.36
+PS4,2013.0,Action,Focus Home Interactive,0.7
+PC,2013.0,Role-Playing,Ubisoft,0.25
+PS4,2016.0,Shooter,Activision,0.57
+XOne,2016.0,Shooter,Deep Silver,0.42
+XOne,2021.0,Action,Activision,0.24
+PS4,2014.0,Action,Nintendo,0.58
+PS4,2019.0,Sports,Focus Home Interactive,0.28
+WiiU,2009.0,Shooter,Knowledge Adventure,0.32
+PS4,2014.0,Action,Atari,0.24
+PS4,2017.0,Sports,Activision,0.34
+PS4,2014.0,Shooter,Konami Digital Entertainment,0.31
+XOne,2015.0,Action,Electronic Arts,0.34
+PC,2008.0,Action,Konami Digital Entertainment,0.56
+PC,2015.0,Shooter,Disney Interactive Studios,0.33
+XOne,2010.0,Action,Namco Bandai Games,0.11
+PS4,2015.0,Shooter,Activision,0.61
+PS4,2015.0,Shooter,Sony Computer Entertainment,0.59
+XOne,2021.0,Action,Namco Bandai Games,0.41
+PC,2016.0,Sports,THQ,0.25
+PC,2011.0,Action,THQ,0.22
+XOne,2011.0,Action,Konami Digital Entertainment,0.26
+XOne,2012.0,Shooter,Konami Digital Entertainment,0.5
+XOne,2014.0,Shooter,Electronic Arts,0.42
+XOne,2009.0,Action,Electronic Arts,0.23
+XOne,2004.0,Shooter,American Softworks,0.35
+XOne,2018.0,Sports,Take-Two Interactive,0.15
+XOne,2018.0,Role-Playing,Activision,0.32
+X360,2018.0,Role-Playing,THQ,0.1
+XOne,1999.0,Action,Nintendo,0.24
+PS4,2010.0,Action,Sega,0.43
+PS4,2012.0,Shooter,Activision,0.61
+XOne,2012.0,Action,Nintendo,0.34
+XOne,2016.0,Role-Playing,Activision,0.27
+XOne,2003.0,Action,GT Interactive,0.4
+PC,2015.0,Action,Activision,0.37
+PS4,2008.0,Action,Electronic Arts,0.41
+XOne,2000.0,Action,Psygnosis,0.37
+PC,2017.0,Action,Konami Digital Entertainment,0.36
+XOne,2015.0,Shooter,THQ,0.33
+XOne,2012.0,Shooter,Namco Bandai Games,0.25
+PS4,2014.0,Action,Electronic Arts,0.39
+XOne,2013.0,Action,Nordcurrent,0.33
+PC,2005.0,Role-Playing,Midway Games,0.38
+X360,2009.0,Action,Eidos Interactive,0.18
+XOne,2008.0,Shooter,Konami Digital Entertainment,0.32
+PS4,2006.0,Shooter,Takara,0.69
+XOne,2002.0,Shooter,Namco Bandai Games,0.4
+PC,1986.0,Role-Playing,Bomb,0.08
+PS4,1980.0,Shooter,Parker Bros.,0.53
+PC,2014.0,Adventure,Electronic Arts,0.08
+PS4,2012.0,Role-Playing,Global Star,0.25
+PS4,2011.0,Action,Sony Computer Entertainment,0.52
+PS4,2002.0,Action,Acclaim Entertainment,0.52
+PS4,2012.0,Action,THQ,0.19
+PS3,2018.0,Action,Ubisoft,0.24
+XOne,2012.0,Shooter,Warner Bros. Interactive Entertainment,0.41
+PS4,2010.0,Action,Midway Games,0.54
+XOne,2024.0,Action,Activision,0.22
+PS4,2017.0,Action,Ubisoft,0.35
+PS4,2013.0,Shooter,Kalypso Media,0.56
+PS4,2012.0,Shooter,Electronic Arts,0.5
+XOne,2013.0,Adventure,Sega,0.34
+PS4,2015.0,Action,Electronic Arts,0.21
+PC,2010.0,Action,Sony Computer Entertainment,0.25
+PS4,2011.0,Adventure,Tecmo Koei,0.22
+PC,2011.0,Shooter,Zoo Digital Publishing,0.31
+PC,2013.0,Shooter,THQ,0.44
+PS4,2018.0,Shooter,Zoo Digital Publishing,0.41
+PS4,2011.0,Action,Ubisoft,0.32
+X360,2024.0,Role-Playing,Namco Bandai Games,0.2
+XOne,2021.0,Shooter,Milestone S.r.l.,0.33
+XOne,2008.0,Shooter,THQ,0.46
+PS4,2008.0,Shooter,Ubisoft,0.63
+PS4,1999.0,Action,BMG Interactive Entertainment,0.07
+XOne,2016.0,Action,Nordic Games,0.18
+PS3,2020.0,Role-Playing,Nippon Ichi Software,0.28
+PS4,2017.0,Shooter,Konami Digital Entertainment,0.49
+PC,2009.0,Action,Electronic Arts,0.3
+XOne,2009.0,Action,Activision,0.29
+PS4,2009.0,Sports,Ubisoft,0.29
+PS4,2002.0,Action,Electronic Arts,0.28
+PS4,2014.0,Action,GSP,0.32
+XOne,2016.0,Shooter,THQ,0.5
+XOne,2007.0,Role-Playing,THQ,0.19
+XOne,2003.0,Shooter,Activision Value,0.38
+PS4,2005.0,Role-Playing,Midway Games,0.39
+XOne,2004.0,Action,Virgin Interactive,0.42
+XOne,2017.0,Sports,Black Bean Games,0.23
+XOne,2001.0,Sports,SquareSoft,0.36
+XOne,2011.0,Shooter,Microsoft Game Studios,0.46
+PS4,2020.0,Shooter,Ubisoft,0.59
+XOne,2020.0,Action,Ubisoft,0.24
+PS4,2012.0,Action,Tecmo Koei,0.33
+PS4,2010.0,Action,THQ,0.36
+PS4,2017.0,Action,THQ,0.42
+XOne,2002.0,Adventure,Acclaim Entertainment,0.28
+XOne,2008.0,Action,Electronic Arts,0.28
+PS4,2015.0,Shooter,THQ,0.35
+PS3,2011.0,Action,Electronic Arts,0.16
+PC,2006.0,Action,Infogrames,0.47
+PS4,2011.0,Action,Atari,0.35
+XOne,2014.0,Action,Ubisoft,0.17
+PS4,2021.0,Shooter,Tecmo Koei,0.61
+WiiU,2013.0,Adventure,505 Games,0.28
+PS4,2013.0,Action,Activision,0.41
+PS4,2011.0,Adventure,Ubisoft,0.34
+XOne,2012.0,Shooter,City Interactive,0.35
+PS4,2010.0,Shooter,Capcom,0.44
+XOne,2008.0,Action,Atari,0.11
+XOne,2015.0,Action,Level 5,0.24
+PS4,2013.0,Role-Playing,Kalypso Media,0.36
+XOne,2013.0,Shooter,Black Bean Games,0.59
+PS3,2015.0,Action,Take-Two Interactive,0.26
+PC,2014.0,Role-Playing,Take-Two Interactive,0.02
+XOne,2011.0,Action,Crave Entertainment,0.24
+PS4,1999.0,Role-Playing,BPS,0.58
+PS4,2018.0,Action,Sega,0.39
+PS3,2010.0,Sports,Mindscape,0.17
+PC,2013.0,Action,Crave Entertainment,0.31
+XOne,2015.0,Action,Ignition Entertainment,0.18
+PS3,2009.0,Shooter,Play It,0.19
+PS4,1999.0,Action,SNK,0.29
+XOne,2008.0,Sports,Midway Games,0.26
+PS4,2016.0,Shooter,Disney Interactive Studios,0.27
+PS4,2004.0,Action,THQ,0.24
+XOne,2003.0,Action,Infogrames,0.25
+PS4,2015.0,Sports,Codemasters,0.32
+X360,2016.0,Shooter,Sony Computer Entertainment,0.39
+PS4,2020.0,Role-Playing,Sega,0.23
+PC,2010.0,Action,THQ,0.32
+PC,2004.0,Sports,Namco Bandai Games,0.13
+XOne,2004.0,Shooter,Midway Games,0.52
+X360,2001.0,Shooter,Ubisoft,0.15
+XOne,2010.0,Action,Namco Bandai Games,0.14
+PS4,2018.0,Action,Activision,0.35
+PS4,2014.0,Adventure,Namco Bandai Games,0.48
+PS4,2014.0,Adventure,Activision,0.34
+PS3,2020.0,Action,Warner Bros. Interactive Entertainment,0.31
+XOne,2003.0,Sports,Gremlin Interactive Ltd,0.25
+PS4,2000.0,Action,Banpresto,0.2
+PS4,2016.0,Action,Sega,0.32
+XOne,2017.0,Action,Activision,0.13
+PC,2011.0,Action,Sony Computer Entertainment,0.12
+PS4,2022.0,Action,Activision,0.36
+PC,2011.0,Action,Xplosiv,0.14
+XOne,2019.0,Action,Namco Bandai Games,0.28
+PC,2014.0,Shooter,THQ,0.19
+PS4,2011.0,Role-Playing,Electronic Arts,0.34
+XOne,2002.0,Shooter,Ubisoft,0.29
+PS4,2007.0,Action,Electronic Arts,0.5
+PS4,2015.0,Role-Playing,Activision,0.35
+PC,2015.0,Action,Namco Bandai Games,0.37
+XOne,2023.0,Role-Playing,GungHo,0.17
+PS4,2010.0,Shooter,Ubisoft,0.41
+PS3,2012.0,Action,THQ,0.15
+PS4,2010.0,Action,THQ,0.26
+XOne,2005.0,Role-Playing,Ubisoft,0.22
+WiiU,2003.0,Sports,Crave Entertainment,0.18
+XOne,2016.0,Shooter,Nippon Ichi Software,0.23
+PC,2021.0,Adventure,Rebellion Developments,0.11
+XOne,2014.0,Sports,Gust,0.02
+PC,2005.0,Action,Vivendi Games,0.13
+XOne,2000.0,Shooter,Namco Bandai Games,0.42
+XOne,2018.0,Action,Focus Home Interactive,0.08
+PS4,2012.0,Shooter,Eidos Interactive,0.36
+PC,2012.0,Action,Konami Digital Entertainment,0.42
+PS4,2016.0,Adventure,Spike,0.27
+WiiU,2010.0,Shooter,Ubisoft,0.37
+PS4,2009.0,Action,TDK Core,0.36
+PS4,2004.0,Action,Konami Digital Entertainment,0.41
+PS3,2015.0,Action,Tecmo Koei,0.09
+PS4,2015.0,Shooter,THQ,0.47
+PS4,2014.0,Sports,Square Enix,0.18
+PC,2018.0,Action,Capcom,0.48
+PS4,1999.0,Shooter,Epoch,0.24
+PS4,2013.0,Shooter,Activision,0.31
+XOne,2013.0,Action,MTV Games,0.14
+PS4,2005.0,Shooter,Nintendo,0.33
+PS4,2016.0,Action,Electronic Arts,0.44
+PS4,2014.0,Action,Zoo Digital Publishing,0.57
+PS4,2011.0,Action,Ubisoft,0.29
+PS4,2009.0,Sports,Bethesda Softworks,0.16
+PS4,2008.0,Action,Electronic Arts,0.11
+XOne,2016.0,Action,Namco Bandai Games,0.22
+XOne,2007.0,Shooter,Namco Bandai Games,0.27
+PS4,2013.0,Sports,PopCap Games,0.28
+PS4,2003.0,Shooter,Konami Digital Entertainment,0.5
+PS3,2011.0,Action,Namco Bandai Games,0.28
+XOne,2015.0,Shooter,Sony Computer Entertainment,0.37
+XOne,1999.0,Action,Capcom,0.21
+XOne,2015.0,Shooter,THQ,0.21
+PS4,2018.0,Action,THQ,0.38
+PC,2014.0,Action,Ubisoft,0.24
+X360,2017.0,Action,Electronic Arts,0.33
+X360,2000.0,Shooter,GT Interactive,0.43
+PS4,2002.0,Action,Compile,0.2
+PS4,2000.0,Action,GT Interactive,0.17
+PS4,2013.0,Shooter,Deep Silver,0.42
+PS4,2020.0,Role-Playing,Ubisoft,0.23
+PS4,2016.0,Action,Xseed Games,0.41
+XOne,2010.0,Shooter,Sega,0.4
+PS4,2006.0,Shooter,Sega,0.57
+X360,1999.0,Action,Sony Computer Entertainment,0.28
+PS4,2012.0,Adventure,Majesco Entertainment,0.31
+PS4,2017.0,Role-Playing,Namco Bandai Games,0.42
+PS3,2016.0,Action,Ubisoft,0.29
+PC,2016.0,Action,JoWood Productions,0.25
+PS4,2016.0,Action,Hudson Soft,0.46
+XOne,2018.0,Action,Tecmo Koei,0.25
+PS4,2016.0,Shooter,Disney Interactive Studios,0.45
+PS4,2010.0,Sports,Nintendo,0.24
+XOne,2013.0,Role-Playing,Activision,0.31
+PS4,2016.0,Action,Konami Digital Entertainment,0.43
+XOne,2019.0,Action,Marvelous Interactive,0.23
+PS4,2015.0,Action,Konami Digital Entertainment,0.47
+XOne,2006.0,Shooter,Eidos Interactive,0.13
+PC,2022.0,Action,Microsoft Game Studios,0.23
+PS4,2018.0,Sports,Namco Bandai Games,0.34
+PS4,2010.0,Role-Playing,Take-Two Interactive,0.21
+XOne,2012.0,Action,Electronic Arts,0.47
+PC,2013.0,Shooter,Rising Star Games,0.35
+XOne,2003.0,Shooter,Tecmo Koei,0.29
+PC,2004.0,Role-Playing,Electronic Arts,0.23
+XOne,2010.0,Shooter,Midway Games,0.12
+PS4,2012.0,Action,Jaleco,0.24
+XOne,1995.0,Shooter,Nintendo,0.44
+PS4,2007.0,Action,Eidos Interactive,0.25
+PC,2024.0,Shooter,Capcom,0.23
+PS4,2010.0,Action,Nippon Ichi Software,0.43
+PS4,2016.0,Shooter,PlayV,0.54
+XOne,2007.0,Role-Playing,Nintendo,0.28
+XOne,2014.0,Action,Brash Entertainment,0.18
+XOne,2012.0,Action,Unknown,0.21
+XOne,2004.0,Shooter,ASCII Entertainment,0.27
+X360,2017.0,Action,Electronic Arts,0.13
+PC,2012.0,Shooter,Disney Interactive Studios,0.26
+PS3,2022.0,Shooter,Activision,0.31
+XOne,2001.0,Action,Ubisoft,0.13
+XOne,2019.0,Role-Playing,Square Enix,0.07
+XOne,2017.0,Shooter,THQ,0.35
+XOne,2016.0,Shooter,Sony Computer Entertainment,0.35
+PS4,2002.0,Action,Crave Entertainment,0.49
+XOne,2008.0,Action,Zoo Digital Publishing,0.16
+PS4,2021.0,Action,Bethesda Softworks,0.36
+PS4,2017.0,Sports,Konami Digital Entertainment,0.35
+PS3,2014.0,Role-Playing,Activision,0.2
+PS4,2008.0,Role-Playing,Ubisoft,0.41
+XOne,2008.0,Action,Take-Two Interactive,0.31
+XOne,2012.0,Shooter,THQ,0.39
+PS4,2007.0,Role-Playing,Atari,0.31
+PS3,2015.0,Shooter,Zoo Games,0.28
+PS4,2013.0,Action,Sega,0.15
+PS3,2007.0,Role-Playing,Konami Digital Entertainment,0.15
+PC,2000.0,Action,Empire Interactive,0.17
+PS4,2007.0,Action,LEGO Media,0.2
+PS4,2010.0,Sports,Konami Digital Entertainment,0.34
+PS4,2010.0,Shooter,Namco Bandai Games,0.66
+PS4,2007.0,Action,Sega,0.18
+PS4,2020.0,Shooter,Konami Digital Entertainment,0.44
+WiiU,2011.0,Adventure,Konami Digital Entertainment,0.12
+PS4,2015.0,Action,LucasArts,0.28
+PC,2013.0,Role-Playing,Ubisoft,0.15
+PS4,2009.0,Action,BAM! Entertainment,0.33
+WiiU,2007.0,Action,3DO,0.15
+PS4,2012.0,Action,Disney Interactive Studios,0.41
+XOne,2011.0,Shooter,Midway Games,0.26
+XOne,2005.0,Action,Microsoft Game Studios,0.16
+PS4,2004.0,Action,SNK,0.15
+PC,2012.0,Shooter,Square Enix,0.3
+PS4,2003.0,Shooter,Adeline Software,0.61
+XOne,2013.0,Shooter,Electronic Arts,0.3
+XOne,2013.0,Role-Playing,Vivendi Games,0.44
+XOne,2015.0,Action,Namco Bandai Games,0.36
+PS4,2014.0,Action,Activision,0.28
+PS4,2008.0,Shooter,ChunSoft,0.34
+PS4,2011.0,Shooter,Midway Games,0.47
+PS4,2007.0,Action,Jaleco,0.19
+PS4,2010.0,Action,THQ,0.41
+X360,2014.0,Action,Take-Two Interactive,0.26
+XOne,2014.0,Action,Atari,0.25
+XOne,2020.0,Adventure,Deep Silver,0.29
+PS4,2014.0,Shooter,Microsoft Game Studios,0.57
+PS4,1999.0,Action,Capcom,0.33
+XOne,2015.0,Shooter,Warner Bros. Interactive Entertainment,0.29
+PS4,2012.0,Shooter,Take-Two Interactive,0.54
+PS4,2015.0,Action,Microsoft Game Studios,0.37
+XOne,2005.0,Action,Square Enix,0.19
+XOne,2014.0,Shooter,Namco Bandai Games,0.27
+WiiU,2015.0,Action,Namco Bandai Games,0.24
+PS4,2012.0,Shooter,Activision,0.52
+XOne,2007.0,Shooter,Interplay,0.21
+PS4,2011.0,Role-Playing,Sony Computer Entertainment,0.14
+PS4,2008.0,Adventure,Electronic Arts,0.2
+PC,2008.0,Role-Playing,Konami Digital Entertainment,0.12
+PS4,2006.0,Shooter,Midway Games,0.29
+XOne,2011.0,Action,Kadokawa Shoten,0.28
+XOne,2010.0,Shooter,Disney Interactive Studios,0.27
+PS4,2017.0,Role-Playing,Konami Digital Entertainment,0.3
+X360,2009.0,Sports,Capcom,0.1
+XOne,2018.0,Role-Playing,Disney Interactive Studios,0.17
+PC,2014.0,Action,Rising Star Games,0.28
+XOne,2004.0,Shooter,3DO,0.38
+X360,1998.0,Role-Playing,Gremlin Interactive Ltd,0.15
+PS4,2000.0,Shooter,SquareSoft,0.42
+XOne,2005.0,Shooter,Hasbro Interactive,0.52
+PC,2013.0,Shooter,505 Games,0.35
+PS4,2022.0,Shooter,Sega,0.35
+PS4,2006.0,Action,Midway Games,0.26
+WiiU,2012.0,Action,Activision,0.23
+XOne,2012.0,Role-Playing,505 Games,0.2
+XOne,2001.0,Sports,Nintendo,0.22
+XOne,2008.0,Role-Playing,DSI Games,0.08
+PC,2011.0,Action,Namco Bandai Games,0.12
+PS3,2019.0,Action,NCSoft,0.21
+XOne,2012.0,Action,Electronic Arts,0.2
+PS4,2013.0,Role-Playing,Electronic Arts,0.26
+PS4,1990.0,Shooter,Mattel Interactive,0.38
+XOne,2015.0,Adventure,Codemasters,0.22
+PC,2016.0,Action,Neko Entertainment,0.3
+XOne,2017.0,Shooter,Electronic Arts,0.27
+PS4,2016.0,Role-Playing,Ignition Entertainment,0.33
+PS4,2007.0,Action,Sega,0.2
+XOne,2006.0,Adventure,Majesco Entertainment,0.27
+PC,2016.0,Shooter,PlayV,0.35
+PS4,2010.0,Action,Nintendo,0.38
+XOne,2005.0,Action,Infogrames,0.28
+PC,2005.0,Role-Playing,Hudson Soft,0.27
+X360,2010.0,Shooter,Namco Bandai Games,0.3
+PS4,2004.0,Role-Playing,Namco Bandai Games,0.31
+X360,2004.0,Role-Playing,Gremlin Interactive Ltd,0.32
+XOne,2005.0,Action,Atari,0.14
+PC,2016.0,Role-Playing,Ubisoft,0.15
+PS4,2009.0,Sports,Activision,0.32
+XOne,2015.0,Action,Namco Bandai Games,0.25
+XOne,2018.0,Role-Playing,D3Publisher,0.13
+PS4,2012.0,Action,Activision,0.25
+XOne,2012.0,Action,Konami Digital Entertainment,0.2
+XOne,2006.0,Action,Activision,0.01
+XOne,2012.0,Role-Playing,Midway Games,0.19
+PS4,2014.0,Action,Ignition Entertainment,0.26
+XOne,2013.0,Action,Ubisoft,0.19
+PS4,2016.0,Shooter,Take-Two Interactive,0.55
+X360,2006.0,Action,BAM! Entertainment,0.09
+WiiU,2005.0,Role-Playing,Ubisoft,0.13
+PS4,2001.0,Sports,THQ,0.01
+PS4,2011.0,Action,Vivendi Games,0.21
+PS4,2017.0,Action,THQ,0.2
+XOne,2013.0,Adventure,Ubisoft,0.16
+PS3,2013.0,Action,Ubisoft,0.32
+XOne,2016.0,Action,Focus Home Interactive,0.3
+PS4,2012.0,Adventure,Unknown,0.31
+PS4,2012.0,Role-Playing,THQ,0.25
+PS4,2020.0,Shooter,Ubisoft,0.53
+PC,2019.0,Shooter,Warner Bros. Interactive Entertainment,0.26
+XOne,2003.0,Sports,Konami Digital Entertainment,0.13
+XOne,2009.0,Shooter,Nintendo,0.1
+PS4,2010.0,Shooter,Spike,0.38
+X360,2013.0,Role-Playing,Sega,0.29
+PS4,2002.0,Shooter,Electronic Arts,0.59
+PC,2014.0,Shooter,Konami Digital Entertainment,0.28
+PS3,2013.0,Action,THQ,0.13
+XOne,2013.0,Shooter,THQ,0.21
+PS3,2015.0,Shooter,Codemasters,0.39
+PS4,2006.0,Action,Sega,0.1
+XOne,2011.0,Action,AQ Interactive,0.27
+PS4,2021.0,Role-Playing,Telltale Games,0.35
+XOne,2013.0,Action,505 Games,0.25
+PS4,2020.0,Action,Namco Bandai Games,0.26
+PS4,2020.0,Action,THQ,0.31
+PS4,2016.0,Action,System 3,0.32
+PS4,2010.0,Role-Playing,Electronic Arts,0.2
+XOne,2014.0,Action,Warner Bros. Interactive Entertainment,0.39
+XOne,2014.0,Action,THQ,0.16
+PS4,2007.0,Role-Playing,THQ,0.33
+WiiU,2010.0,Action,Namco Bandai Games,0.01
+X360,2007.0,Action,Microsoft Game Studios,0.33
+PS4,2007.0,Role-Playing,Electronic Arts,0.41
+XOne,2017.0,Shooter,Konami Digital Entertainment,0.29
+XOne,2011.0,Role-Playing,Zoo Digital Publishing,0.26
+PC,2017.0,Role-Playing,Square Enix,0.26
+PS4,2024.0,Sports,Bethesda Softworks,0.17
+PC,2006.0,Action,Atari,0.25
+PS4,2010.0,Role-Playing,THQ,0.21
+PS4,2000.0,Shooter,GT Interactive,0.39
+PC,2012.0,Action,Eidos Interactive,0.31
+XOne,2013.0,Sports,Vivendi Games,0.3
+PC,2013.0,Action,Ubisoft,0.13
+PS4,2012.0,Role-Playing,THQ,0.21
+PS4,2010.0,Shooter,THQ,0.34
+PS4,2010.0,Shooter,Take-Two Interactive,0.38
+PS4,2018.0,Action,Activision,0.14
+PS4,2015.0,Sports,Majesco Entertainment,0.27
+XOne,2008.0,Shooter,Tomy Corporation,0.35
+XOne,2002.0,Action,Take-Two Interactive,0.19
+XOne,2008.0,Action,Capcom,0.3
+PS4,2013.0,Role-Playing,Electronic Arts,0.21
+PS4,2013.0,Action,Sega,0.21
+XOne,2014.0,Shooter,Namco Bandai Games,0.18
+PS4,2015.0,Shooter,GungHo,0.47
+PS3,2018.0,Action,EA Games,0.12
+PS4,2015.0,Shooter,Ignition Entertainment,0.39
+XOne,2016.0,Action,Sony Computer Entertainment,0.19
+PS3,2020.0,Sports,Marvelous Entertainment,0.09
+XOne,2003.0,Role-Playing,Take-Two Interactive,0.14
+XOne,2012.0,Action,JoWood Productions,0.34
+XOne,2012.0,Shooter,Sega,0.3
+PS4,2011.0,Shooter,Activision,0.24
+XOne,2011.0,Adventure,Vivendi Games,0.23
+PS3,2007.0,Action,Acclaim Entertainment,0.19
+WiiU,2015.0,Shooter,Activision,0.6
+XOne,2011.0,Sports,Empire Interactive,0.23
+PS4,2003.0,Action,Sony Computer Entertainment,0.24
+PC,2008.0,Shooter,Capcom,0.4
+XOne,2012.0,Action,Bethesda Softworks,0.02
+PS4,2015.0,Shooter,Banpresto,0.44
+PS4,2019.0,Action,Telltale Games,0.48
+PS4,2013.0,Adventure,Codemasters,0.26
+XOne,2013.0,Action,Unknown,0.03
+PS4,2017.0,Action,Ubisoft,0.24
+PS4,2008.0,Role-Playing,Electronic Arts,0.41
+PS4,2014.0,Role-Playing,Vivendi Games,0.3
+X360,2006.0,Shooter,Sega,0.16
+PS4,2000.0,Shooter,Atlus,0.3
+PS4,2017.0,Action,Namco Bandai Games,0.2
+XOne,2015.0,Shooter,Atari,0.3
+PS4,2008.0,Action,Ubisoft,0.38
+WiiU,2005.0,Action,Eidos Interactive,0.31
+X360,2016.0,Sports,Activision,0.25
+XOne,2020.0,Shooter,Namco Bandai Games,0.15
+XOne,2007.0,Action,Sony Computer Entertainment,0.07
+PS4,2006.0,Action,Acclaim Entertainment,0.31
+PS4,2008.0,Sports,THQ,0.11
+PS4,2011.0,Action,Crave Entertainment,0.26
+PS4,2015.0,Action,Ignition Entertainment,0.28
+PS4,2013.0,Action,Namco Bandai Games,0.11
+XOne,2006.0,Action,Microsoft Game Studios,0.09
+PS4,2013.0,Action,Ubisoft,0.22
+PS4,2013.0,Adventure,Namco Bandai Games,0.32
+XOne,2002.0,Action,Game Arts,0.3
+XOne,2013.0,Shooter,Nobilis,0.33
+PS4,2014.0,Shooter,Nintendo,0.35
+PS4,2007.0,Shooter,TDK Mediactive,0.25
+PS4,2001.0,Shooter,Acclaim Entertainment,0.25
+PS4,2009.0,Shooter,Ubisoft,0.3
+PC,2010.0,Shooter,Tecmo Koei,0.32
+X360,2016.0,Shooter,Warner Bros. Interactive Entertainment,0.31
+XOne,2007.0,Role-Playing,Nintendo,0.01
+XOne,2013.0,Shooter,THQ,0.2
+PC,2004.0,Role-Playing,Ubisoft,0.31
+XOne,2014.0,Action,505 Games,0.2
+PS4,2007.0,Shooter,Electronic Arts,0.26
+PS4,2016.0,Shooter,Marvelous Entertainment,0.53
+XOne,2014.0,Action,Majesco Entertainment,0.19
+XOne,2010.0,Role-Playing,Atari,0.23
+PS4,2003.0,Action,Sony Computer Entertainment,0.27
+PS4,2011.0,Action,Atlus,0.22
+PS4,1998.0,Role-Playing,Sony Computer Entertainment,0.2
+PS4,2009.0,Action,Konami Digital Entertainment,0.45
+XOne,2008.0,Action,Tomy Corporation,0.29
+XOne,2006.0,Action,Sony Computer Entertainment,0.27
+XOne,2011.0,Role-Playing,Sony Computer Entertainment,0.25
+PS4,2001.0,Shooter,Sony Computer Entertainment,0.25
+PS4,2004.0,Shooter,Codemasters,0.47
+PC,2003.0,Role-Playing,Sunsoft,0.11
+XOne,2016.0,Shooter,Codemasters,0.28
+PS4,2002.0,Sports,Acclaim Entertainment,0.09
+PS4,2009.0,Role-Playing,Disney Interactive Studios,0.05
+PC,2016.0,Action,Konami Digital Entertainment,0.22
+PC,2013.0,Adventure,Activision Value,0.11
+PS3,2013.0,Shooter,Take-Two Interactive,0.09
+XOne,2009.0,Action,Oxygen Interactive,0.24
+XOne,2021.0,Action,Paradox Interactive,0.4
+XOne,2007.0,Shooter,Sony Computer Entertainment,0.4
+PS4,2014.0,Action,505 Games,0.23
+XOne,2017.0,Shooter,Ubisoft,0.29
+XOne,2012.0,Action,Midway Games,0.28
+PS4,2013.0,Shooter,Take-Two Interactive,0.51
+PS3,2019.0,Action,Sony Computer Entertainment Europe,0.16
+PS4,2010.0,Role-Playing,Hip Interactive,0.23
+PS4,2013.0,Action,DreamCatcher Interactive,0.29
+PS4,2008.0,Action,THQ,0.31
+PS3,2017.0,Action,Electronic Arts,0.18
+X360,2002.0,Shooter,Virgin Interactive,0.26
+XOne,2019.0,Shooter,Electronic Arts,0.43
+WiiU,2015.0,Shooter,Warner Bros. Interactive Entertainment,0.39
+PS3,2004.0,Action,Acclaim Entertainment,0.24
+PC,1997.0,Role-Playing,Acclaim Entertainment,0.36
+PS3,2010.0,Shooter,Electronic Arts,0.25
+PS4,2018.0,Action,Ubisoft,0.4
+PC,2018.0,Role-Playing,Ubisoft,0.23
+XOne,2005.0,Shooter,Square Enix,0.57
+PC,2014.0,Shooter,Banpresto,0.13
+PS4,2010.0,Action,Sega,0.14
+PC,1999.0,Action,Sony Computer Entertainment,0.22
+WiiU,2009.0,Shooter,THQ,0.29
+PS4,2012.0,Action,505 Games,0.42
+WiiU,2021.0,Action,Capcom,0.11
+PS4,2015.0,Adventure,Activision,0.32
+PS4,2010.0,Shooter,Konami Digital Entertainment,0.38
+PS4,2009.0,Action,Sega,0.29
+PC,2012.0,Action,Konami Digital Entertainment,0.08
+XOne,2016.0,Shooter,Activision,0.39
+PS4,2011.0,Action,Take-Two Interactive,0.35
+XOne,2015.0,Action,Activision,0.24
+PS4,2004.0,Action,Kemco,0.27
+XOne,2015.0,Shooter,Sony Computer Entertainment,0.3
+PS3,2002.0,Shooter,THQ,0.25
+XOne,2012.0,Action,Acquire,0.24
+PC,2015.0,Action,SouthPeak Games,0.18
+XOne,2019.0,Shooter,Konami Digital Entertainment,0.15
+WiiU,2015.0,Shooter,Namco Bandai Games,0.14
+PS4,2010.0,Shooter,Sega,0.21
+PS4,2013.0,Action,Ubisoft,0.27
+PS4,2010.0,Shooter,Sony Computer Entertainment,0.29
+XOne,2012.0,Sports,Capcom,0.2
+XOne,2015.0,Shooter,Mindscape,0.33
+PC,2013.0,Action,THQ,0.12
+PS4,2017.0,Shooter,Konami Digital Entertainment,0.49
+PS4,2003.0,Action,Codemasters,0.2
+XOne,2005.0,Action,Spike,0.14
+WiiU,2007.0,Action,THQ,0.23
+PS4,2011.0,Sports,Capcom,0.05
+PS4,2016.0,Action,Tomy Corporation,0.16
+PS4,2013.0,Role-Playing,Banpresto,0.35
+XOne,2011.0,Shooter,Ubisoft,0.07
+PS4,2013.0,Shooter,Activision,0.45
+PS4,2010.0,Action,Activision,0.38
+XOne,2010.0,Shooter,Electronic Arts,0.18
+PS4,2012.0,Action,Sony Computer Entertainment,0.27
+PS4,2007.0,Shooter,Ubisoft,0.44
+PS4,2010.0,Action,Zoo Games,0.16
+X360,2010.0,Action,Funsta,0.27
+XOne,2012.0,Shooter,Sega,0.2
+PS4,1996.0,Action,Enix Corporation,0.19
+PS4,2010.0,Action,Infogrames,0.15
+XOne,2013.0,Adventure,Square Enix,0.21
+PS3,2013.0,Action,Namco Bandai Games,0.3
+PS4,2005.0,Action,3DO,0.24
+PS4,2010.0,Action,Electronic Arts,0.1
+PS4,2012.0,Action,THQ,0.12
+XOne,2017.0,Shooter,Sega,0.3
+X360,2009.0,Action,System 3 Arcade Software,0.36
+XOne,2012.0,Shooter,Zoo Digital Publishing,0.32
+PS4,2016.0,Shooter,Sega,0.34
+PC,2005.0,Action,NEC Interchannel,0.26
+PC,2010.0,Sports,Majesco Entertainment,0.16
+PS4,2016.0,Adventure,Data Design Interactive,0.19
+PS4,2018.0,Action,Level 5,0.12
+PS4,2014.0,Action,D3Publisher,0.36
+PC,2009.0,Action,Vivendi Games,0.01
+XOne,2012.0,Action,Take-Two Interactive,0.26
+XOne,2018.0,Shooter,Take-Two Interactive,0.2
+PC,2015.0,Shooter,Konami Digital Entertainment,0.23
+PS4,2014.0,Action,Sega,0.38
+PS4,2013.0,Action,Namco Bandai Games,0.12
+PS4,2012.0,Action,Electronic Arts,0.15
+PS3,2013.0,Adventure,Ubisoft,0.16
+XOne,2001.0,Sports,Sega,0.21
+PS4,1998.0,Action,Atlus,0.19
+PS4,2009.0,Shooter,Take-Two Interactive,0.21
+PC,2015.0,Shooter,Capcom,0.16
+PC,2002.0,Shooter,Human Entertainment,0.39
+XOne,2003.0,Shooter,Midas Interactive Entertainment,0.26
+PS4,2007.0,Role-Playing,MTO,0.24
+X360,2006.0,Action,Electronic Arts,0.14
+PC,2001.0,Action,Human Entertainment,0.1
+XOne,2014.0,Adventure,505 Games,0.34
+XOne,2011.0,Action,Electronic Arts,0.15
+X360,2013.0,Action,Crave Entertainment,0.13
+X360,2017.0,Shooter,Namco Bandai Games,0.37
+XOne,2014.0,Role-Playing,D3Publisher,0.1
+XOne,2020.0,Shooter,Square Enix,0.15
+PS4,2008.0,Role-Playing,Activision,0.22
+PC,2010.0,Shooter,Midway Games,0.25
+XOne,2014.0,Action,Majesco Entertainment,0.2
+PS4,2011.0,Shooter,Ghostlight,0.49
+PS4,2011.0,Role-Playing,Rising Star Games,0.27
+X360,2012.0,Role-Playing,THQ,0.01
+PS3,2019.0,Action,Milestone S.r.l.,0.2
+WiiU,2011.0,Action,Namco Bandai Games,0.17
+XOne,2022.0,Role-Playing,Bigben Interactive,0.17
+PC,2015.0,Action,THQ,0.19
+PC,2008.0,Action,Vivendi Games,0.17
+PS4,2015.0,Role-Playing,Rocket Company,0.2
+PS4,2023.0,Shooter,Atlus,0.39
+WiiU,2012.0,Action,Sony Computer Entertainment,0.12
+PS4,2015.0,Action,Ignition Entertainment,0.11
+XOne,2002.0,Action,Infogrames,0.47
+XOne,2015.0,Role-Playing,Konami Digital Entertainment,0.1
+XOne,2007.0,Shooter,Ubisoft,0.26
+PS4,2017.0,Action,Namco Bandai Games,0.08
+PC,2013.0,Action,Ubisoft,0.18
+PS4,2012.0,Action,Atari,0.12
+PC,2013.0,Action,Electronic Arts,0.13
+PS4,2003.0,Action,Ubisoft,0.33
+XOne,2002.0,Shooter,Taito,0.31
+PC,2012.0,Action,Game Factory,0.23
+PS4,2013.0,Action,Take-Two Interactive,0.03
+PS4,2014.0,Shooter,Activision,0.57
+PC,2012.0,Action,Zushi Games,0.05
+PS4,2015.0,Action,Marvelous Entertainment,0.37
+PS4,2016.0,Action,Sony Computer Entertainment,0.33
+XOne,2014.0,Action,Ubisoft,0.23
+X360,2008.0,Action,Telegames,0.08
+XOne,2015.0,Shooter,Game Factory,0.24
+PS4,2011.0,Action,Ubisoft,0.19
+WiiU,2011.0,Role-Playing,Konami Digital Entertainment,0.17
+XOne,2015.0,Shooter,Crave Entertainment,0.23
+XOne,2012.0,Action,Unknown,0.01
+XOne,2007.0,Action,Activision,0.28
+PS4,2007.0,Action,Eidos Interactive,0.23
+PS4,2006.0,Action,Sega,0.16
+XOne,2017.0,Shooter,Square Enix,0.19
+PS4,2009.0,Action,Microsoft Game Studios,0.24
+XOne,2017.0,Role-Playing,Ubisoft,0.08
+PS4,2013.0,Shooter,Hudson Soft,0.05
+PS4,2021.0,Shooter,Kalypso Media,0.3
+PS4,2019.0,Role-Playing,Konami Digital Entertainment,0.27
+XOne,2001.0,Shooter,Interplay,0.19
+PC,2015.0,Sports,Moss,0.06
+PS4,2006.0,Adventure,Electronic Arts,0.25
+PS4,2004.0,Action,Acclaim Entertainment,0.1
+PS4,2018.0,Action,Warner Bros. Interactive Entertainment,0.12
+PC,2020.0,Action,Kadokawa Games,0.09
+PS4,2008.0,Action,Sega,0.31
+PC,2016.0,Shooter,Electronic Arts,0.22
+PS4,2015.0,Action,Deep Silver,0.19
+PS4,2016.0,Shooter,Konami Digital Entertainment,0.54
+PC,2015.0,Role-Playing,Electronic Arts,0.21
+XOne,2007.0,Action,Midway Games,0.2
+PS4,2020.0,Shooter,Idea Factory International,0.29
+WiiU,2012.0,Action,D3Publisher,0.11
+PS4,2014.0,Role-Playing,Crave Entertainment,0.01
+PS4,1999.0,Shooter,JVC,0.43
+PS4,2015.0,Action,Ubisoft,0.25
+XOne,2004.0,Shooter,Electronic Arts,0.25
+PC,2007.0,Action,Electronic Arts,0.16
+PS4,2009.0,Shooter,THQ,0.37
+X360,2000.0,Shooter,Tecmo Koei,0.08
+XOne,2014.0,Action,Nippon Ichi Software,0.1
+WiiU,2008.0,Shooter,Atari,0.08
+PC,2014.0,Role-Playing,Electronic Arts,0.34
+X360,2010.0,Role-Playing,Sega,0.25
+XOne,2015.0,Shooter,Sony Computer Entertainment,0.01
+PS4,2006.0,Shooter,Ubisoft,0.2
+XOne,2012.0,Action,SouthPeak Games,0.15
+XOne,2004.0,Role-Playing,Gainax Network Systems,0.11
+XOne,2014.0,Role-Playing,Tecmo Koei,0.03
+PC,2010.0,Action,Atlus,0.35
+PS4,2011.0,Action,Ubisoft,0.26
+PC,2011.0,Action,Vivendi Games,0.21
+PS4,2016.0,Action,Sega,0.15
+X360,2010.0,Action,THQ,0.23
+PS4,2019.0,Action,Activision,0.18
+PS4,2012.0,Shooter,Ignition Entertainment,0.28
+PC,2010.0,Action,Namco Bandai Games,0.22
+PC,2010.0,Action,Rising Star Games,0.01
+PC,2016.0,Shooter,Nintendo,0.4
+WiiU,2016.0,Action,O-Games,0.18
+PS4,2016.0,Action,Sony Computer Entertainment,0.32
+PC,2013.0,Role-Playing,Deep Silver,0.05
+PS4,2009.0,Adventure,Midway Games,0.11
+XOne,2014.0,Shooter,Mastiff,0.08
+XOne,2009.0,Action,Rage Software,0.19
+PS4,2024.0,Action,Tecmo Koei,0.21
+XOne,2010.0,Adventure,Atari,0.11
+PC,2008.0,Shooter,Sega,0.11
+PS4,2011.0,Role-Playing,Disney Interactive Studios,0.08
+X360,2006.0,Shooter,Konami Digital Entertainment,0.19
+XOne,2011.0,Action,Konami Digital Entertainment,0.11
+PS4,2013.0,Action,THQ,0.14
+XOne,2010.0,Role-Playing,Konami Digital Entertainment,0.31
+PS4,2011.0,Role-Playing,THQ,0.19
+PS4,2015.0,Action,Capcom,0.34
+XOne,2013.0,Shooter,Activision,0.15
+PS4,2015.0,Action,Rondomedia,0.22
+PS4,2013.0,Adventure,Brash Entertainment,0.19
+PC,2018.0,Action,THQ,0.01
+PS4,2008.0,Shooter,Sega,0.42
+PC,2015.0,Action,D3Publisher,0.15
+PC,2008.0,Shooter,Activision,0.31
+PS4,2007.0,Shooter,THQ,0.21
+XOne,2015.0,Action,D3Publisher,0.14
+PS4,2000.0,Role-Playing,Atlus,0.13
+XOne,2003.0,Role-Playing,Ubisoft,0.28
+PS4,2002.0,Role-Playing,Sunsoft,0.23
+X360,2011.0,Action,Majesco Entertainment,0.2
+PS4,2017.0,Shooter,Unknown,0.43
+XOne,2014.0,Shooter,D3Publisher,0.35
+PS4,2006.0,Shooter,505 Games,0.41
+PS4,2009.0,Shooter,THQ,0.11
+XOne,2008.0,Shooter,Universal Interactive,0.14
+XOne,2016.0,Action,Deep Silver,0.06
+WiiU,2006.0,Action,Tecmo Koei,0.23
+PS4,2009.0,Action,Electronic Arts,0.2
+PS4,2016.0,Action,Rising Star Games,0.06
+PS4,2020.0,Action,Nippon Ichi Software,0.17
+PS4,2011.0,Action,Electronic Arts,0.06
+PS3,2008.0,Role-Playing,Global Star,0.15
+X360,2011.0,Shooter,Rising Star Games,0.06
+PS3,2006.0,Action,Codemasters,0.21
+PS4,2015.0,Role-Playing,505 Games,0.23
+XOne,2005.0,Sports,Midway Games,0.35
+PC,2014.0,Role-Playing,Zoo Digital Publishing,0.24
+PS4,2018.0,Role-Playing,Activision,0.14
+XOne,2004.0,Adventure,PopTop Software,0.24
+PS4,2002.0,Shooter,Sony Computer Entertainment,0.14
+PS4,2012.0,Adventure,Capcom,0.11
+PS3,2009.0,Sports,Aqua Plus,0.19
+PS4,1995.0,Action,Acclaim Entertainment,0.01
+WiiU,2019.0,Role-Playing,PQube,0.16
+PS4,2015.0,Role-Playing,HMH Interactive,0.12
+PS4,2013.0,Role-Playing,505 Games,0.2
+PS4,2020.0,Role-Playing,Warner Bros. Interactive Entertainment,0.1
+PS4,2008.0,Action,Take-Two Interactive,0.24
+XOne,2011.0,Action,Activision,0.16
+PS4,2006.0,Shooter,Empire Interactive,0.39
+XOne,2003.0,Shooter,Sega,0.22
+PS3,2015.0,Role-Playing,Ubisoft Annecy,0.08
+PS4,2005.0,Role-Playing,Activision,0.16
+PS4,2015.0,Shooter,Sony Computer Entertainment,0.19
+XOne,2017.0,Adventure,Kalypso Media,0.2
+PC,2006.0,Action,THQ,0.22
+XOne,2013.0,Adventure,Konami Digital Entertainment,0.4
+PS4,2016.0,Action,Activision,0.14
+XOne,2011.0,Shooter,Konami Digital Entertainment,0.15
+XOne,2016.0,Action,Spike,0.09
+PS4,2019.0,Shooter,Namco Bandai Games,0.25
+PS4,2008.0,Action,Acclaim Entertainment,0.22
+WiiU,2020.0,Action,Namco Bandai Games,0.14
+PS4,2012.0,Shooter,Zoo Digital Publishing,0.43
+PS4,2017.0,Shooter,Ubisoft,0.22
+PS4,2010.0,Action,Konami Digital Entertainment,0.27
+XOne,2012.0,Shooter,PQube,0.25
+XOne,2010.0,Action,Ubisoft,0.15
+PS4,2012.0,Action,Warner Bros. Interactive Entertainment,0.15
+XOne,2014.0,Action,Codemasters,0.39
+XOne,2019.0,Shooter,Ubisoft,0.14
+PS4,2018.0,Role-Playing,Atlus,0.23
+X360,2013.0,Shooter,Hudson Soft,0.12
+PS4,2017.0,Role-Playing,Activision,0.38
+PS4,2000.0,Shooter,Acclaim Entertainment,0.39
+WiiU,2017.0,Role-Playing,Midway Games,0.08
+PC,2008.0,Adventure,Sting,0.2
+PS4,2020.0,Action,Deep Silver,0.23
+PC,2006.0,Action,505 Games,0.1
+XOne,2011.0,Action,Konami Digital Entertainment,0.23
+PS4,2014.0,Shooter,D3Publisher,0.29
+PC,2010.0,Shooter,Ubisoft,0.23
+PC,2018.0,Action,Ubisoft Annecy,0.15
+PS4,2015.0,Role-Playing,Electronic Arts,0.23
+XOne,2004.0,Adventure,SNK,0.17
+PS4,2011.0,Action,Konami Digital Entertainment,0.19
+PS4,2017.0,Action,Atari,0.12
+WiiU,2005.0,Action,Eidos Interactive,0.32
+XOne,2013.0,Action,Namco Bandai Games,0.04
+XOne,2015.0,Role-Playing,Activision,0.19
+XOne,2012.0,Shooter,AQ Interactive,0.17
+XOne,2009.0,Action,Activision,0.33
+PS4,2011.0,Shooter,Activision,0.15
+WiiU,2014.0,Action,Namco Bandai Games,0.08
+XOne,2017.0,Action,Activision,0.05
+XOne,2012.0,Action,Konami Digital Entertainment,0.18
+XOne,2007.0,Shooter,Activision,0.09
+PS4,2011.0,Shooter,Activision,0.17
+PS4,2013.0,Role-Playing,Activision,0.01
+PS4,2016.0,Action,Compile Heart,0.22
+PS4,2007.0,Role-Playing,Nintendo,0.12
+XOne,2003.0,Action,Infogrames,0.01
+PS3,2003.0,Action,Konami Digital Entertainment,0.26
+PS4,2002.0,Role-Playing,Infogrames,0.06
+PS4,2012.0,Shooter,Activision,0.33
+XOne,2013.0,Action,Electronic Arts,0.08
+PS4,2010.0,Shooter,Ubisoft,0.42
+X360,2009.0,Shooter,Ubisoft,0.29
+PS4,2011.0,Sports,Take-Two Interactive,0.1
+PS4,2013.0,Shooter,Midway Games,0.22
+PS4,2014.0,Action,THQ,0.26
+X360,2017.0,Shooter,Namco Bandai Games,0.2
+PS4,2019.0,Action,D3Publisher,0.16
+XOne,2015.0,Action,505 Games,0.28
+PS4,2003.0,Shooter,Sega,0.18
+PS4,2013.0,Role-Playing,Black Bean Games,0.2
+PS3,1999.0,Action,Media Rings,0.25
+PS4,2012.0,Role-Playing,Ubisoft,0.26
+PS4,2018.0,Shooter,Konami Digital Entertainment,0.22
+XOne,2004.0,Role-Playing,Microsoft Game Studios,0.12
+PS3,2009.0,Action,Gotham Games,0.01
+PS4,2008.0,Action,Electronic Arts,0.07
+PS4,2017.0,Action,Square Enix,0.22
+WiiU,2013.0,Action,D3Publisher,0.14
+XOne,2020.0,Action,Deep Silver,0.16
+PS3,2013.0,Action,Alchemist,0.25
+PC,2006.0,Action,Sony Computer Entertainment,0.03
+XOne,2018.0,Action,Capcom,0.13
+PS4,2009.0,Sports,Codemasters,0.21
+PS4,2014.0,Role-Playing,Warner Bros. Interactive Entertainment,0.11
+PC,2009.0,Action,505 Games,0.29
+PC,2015.0,Sports,Activision,0.24
+WiiU,2022.0,Action,Konami Digital Entertainment,0.18
+XOne,2013.0,Action,Namco Bandai Games,0.33
+PS4,2008.0,Role-Playing,Banpresto,0.05
+XOne,2014.0,Action,Activision,0.15
+XOne,2011.0,Action,Nintendo,0.19
+XOne,2015.0,Action,Ubisoft,0.06
+PC,2007.0,Shooter,THQ,0.22
+XOne,2017.0,Shooter,Microsoft Game Studios,0.1
+PS4,2010.0,Action,Ubisoft,0.26
+XOne,2018.0,Action,Namco Bandai Games,0.25
+XOne,2016.0,Action,Kalypso Media,0.17
+X360,2012.0,Shooter,Evolved Games,0.03
+XOne,2007.0,Action,Acclaim Entertainment,0.04
+XOne,2013.0,Role-Playing,Electronic Arts,0.2
+XOne,2019.0,Shooter,Activision,0.2
+XOne,2008.0,Action,THQ,0.01
+PS4,2015.0,Shooter,Zoo Digital Publishing,0.36
+PS3,2008.0,Action,Take-Two Interactive,0.15
+X360,2009.0,Action,Vivendi Games,0.06
+XOne,2011.0,Action,Namco Bandai Games,0.24
+XOne,2011.0,Shooter,Sony Computer Entertainment,0.12
+PS4,2013.0,Shooter,Hudson Entertainment,0.23
+XOne,2012.0,Adventure,Majesco Entertainment,0.18
+XOne,2022.0,Action,Ubisoft,0.32
+PC,2008.0,Action,Konami Digital Entertainment,0.3
+PS4,2013.0,Shooter,Atari,0.25
+PC,2008.0,Action,THQ,0.19
+PS4,2014.0,Action,Destineer,0.27
+XOne,2000.0,Adventure,Electronic Arts,0.01
+XOne,2017.0,Role-Playing,Nintendo,0.2
+PS4,2013.0,Adventure,Idea Factory,0.12
+XOne,2005.0,Action,Namco Bandai Games,0.17
+PC,2016.0,Action,Koch Media,0.12
+XOne,2013.0,Action,Konami Digital Entertainment,0.19
+PS4,2005.0,Sports,Ubisoft,0.17
+XOne,2010.0,Action,Electronic Arts,0.01
+PS4,2007.0,Action,responDESIGN,0.2
+XOne,2012.0,Action,Atari,0.2
+XOne,2014.0,Role-Playing,THQ,0.18
+PS4,2018.0,Role-Playing,Capcom,0.18
+XOne,2005.0,Shooter,Time Warner Interactive,0.34
+PC,2015.0,Action,Sony Computer Entertainment,0.17
+PC,2019.0,Shooter,Namco Bandai Games,0.23
+PS4,2004.0,Action,Virgin Interactive,0.3
+PS4,2009.0,Action,Ignition Entertainment,0.23
+XOne,2006.0,Action,ChunSoft,0.05
+PS4,2010.0,Shooter,Konami Digital Entertainment,0.01
+XOne,2012.0,Action,Take-Two Interactive,0.09
+PS4,2005.0,Adventure,Sega,0.24
+PS4,2016.0,Shooter,Majesco Entertainment,0.21
+XOne,2015.0,Action,505 Games,0.22
+PS4,2006.0,Shooter,Titus,0.24
+PC,2017.0,Shooter,Electronic Arts,0.32
+PS4,2008.0,Action,Sega,0.15
+XOne,2012.0,Shooter,O-Games,0.24
+PS4,2005.0,Action,Culture Publishers,0.22
+PC,2008.0,Action,Konami Digital Entertainment,0.29
+PC,2012.0,Shooter,The Adventure Company,0.01
+PS4,2012.0,Shooter,Hudson Soft,0.2
+XOne,2009.0,Action,Empire Interactive,0.22
+PS4,2012.0,Action,Konami Digital Entertainment,0.32
+XOne,2014.0,Shooter,Benesse,0.23
+PS4,2009.0,Action,Sega,0.16
+XOne,2013.0,Sports,Sony Computer Entertainment,0.22
+PS4,2001.0,Shooter,Namco Bandai Games,0.32
+PS3,2007.0,Role-Playing,Ubisoft,0.1
+XOne,2012.0,Action,Banpresto,0.17
+XOne,1998.0,Role-Playing,Konami Digital Entertainment,0.26
+PS4,2015.0,Action,Sega,0.37
+PS4,2013.0,Action,RTL,0.26
+PS4,2022.0,Action,Tecmo Koei,0.18
+X360,2013.0,Action,Unknown,0.13
+PC,2011.0,Sports,Ubisoft,0.2
+PS4,2011.0,Shooter,Vivendi Games,0.24
+PC,2016.0,Shooter,Activision,0.2
+XOne,2015.0,Shooter,Hudson Soft,0.1
+PS4,2014.0,Shooter,Vivendi Games,0.35
+XOne,2016.0,Shooter,Electronic Arts,0.07
+PS4,2016.0,Role-Playing,Namco Bandai Games,0.15
+PS4,2014.0,Shooter,Sega,0.3
+XOne,2003.0,Shooter,Atari,0.39
+PS4,2006.0,Action,Midway Games,0.13
+PS3,2010.0,Adventure,Konami Digital Entertainment,0.07
+XOne,2015.0,Action,Tecmo Koei,0.08
+PC,2009.0,Action,Atari,0.31
+XOne,2013.0,Role-Playing,Tecmo Koei,0.01
+PS3,2015.0,Action,Activision,0.04
+PS4,2015.0,Action,Codemasters,0.44
+XOne,2008.0,Action,Capcom,0.2
+XOne,2015.0,Action,Midway Games,0.03
+X360,2009.0,Sports,Atari,0.14
+PS4,2009.0,Role-Playing,Capcom,0.17
+XOne,2023.0,Shooter,Warner Bros. Interactive Entertainment,0.29
+PC,2016.0,Adventure,THQ,0.32
+PS4,2022.0,Shooter,Little Orbit,0.29
+PS3,2005.0,Role-Playing,ASCII Entertainment,0.09
+PS4,2013.0,Action,Tecmo Koei,0.27
+PS4,2010.0,Shooter,Vivendi Games,0.2
+XOne,2017.0,Action,THQ,0.04
+XOne,2020.0,Action,Atlus,0.01
+PS4,2010.0,Shooter,Kemco,0.06
+PS4,2010.0,Action,Konami Digital Entertainment,0.1
+PS4,2016.0,Shooter,GSP,0.1
+PC,2015.0,Shooter,Activision,0.21
+PS3,2016.0,Action,Falcom Corporation,0.02
+XOne,2015.0,Action,Rondomedia,0.01
+PS4,2006.0,Shooter,Sega,0.14
+XOne,2009.0,Role-Playing,Nippon Amuse,0.09
+PS3,2014.0,Action,Sega,0.08
+PC,2017.0,Adventure,Square Enix,0.28
+PS4,2013.0,Role-Playing,Activision,0.09
+PS4,2015.0,Shooter,Warner Bros. Interactive Entertainment,0.34
+X360,2018.0,Action,Nordic Games,0.13
+PS3,2008.0,Shooter,Electronic Arts,0.16
+PS4,2002.0,Role-Playing,Sega,0.09
+PC,2004.0,Action,Sega,0.12
+PS4,2017.0,Adventure,Activision,0.08
+PS4,2002.0,Sports,Ubisoft,0.19
+PC,2018.0,Shooter,D3Publisher,0.15
+XOne,2019.0,Shooter,Deep Silver,0.09
+XOne,2023.0,Shooter,Tecmo Koei,0.28
+X360,2017.0,Role-Playing,Sega,0.17
+PC,2017.0,Role-Playing,Ubisoft,0.09
+PS4,2013.0,Action,Unknown,0.19
+XOne,2012.0,Action,Hudson Soft,0.12
+PC,2008.0,Action,LucasArts,0.04
+XOne,2012.0,Sports,Ubisoft,0.14
+WiiU,2014.0,Action,Midway Games,0.07
+XOne,2011.0,Role-Playing,Jaleco,0.04
+PS4,2012.0,Shooter,THQ,0.04
+PS4,2024.0,Action,Milestone S.r.l.,0.11
+PC,2004.0,Sports,Virgin Interactive,0.19
+WiiU,2012.0,Shooter,Sony Computer Entertainment,0.1
+PS4,2013.0,Action,Namco Bandai Games,0.42
+PS4,2016.0,Action,THQ,0.25
+PC,2015.0,Action,PopCap Games,0.26
+PS4,2013.0,Action,Seventh Chord,0.23
+PS4,2008.0,Action,Atari,0.35
+PS3,2010.0,Shooter,Acquire,0.12
+PC,2013.0,Action,Electronic Arts,0.01
+PS3,2011.0,Action,SouthPeak Games,0.09
+XOne,2012.0,Action,Take-Two Interactive,0.19
+PS4,2007.0,Action,Ubisoft,0.19
+X360,2008.0,Adventure,Capcom,0.16
+PS4,2008.0,Action,Eidos Interactive,0.29
+PS4,2016.0,Action,Konami Digital Entertainment,0.19
+PS3,2014.0,Shooter,Take-Two Interactive,0.26
+XOne,2015.0,Sports,Namco Bandai Games,0.04
+PS3,2024.0,Role-Playing,Namco Bandai Games,0.02
+PS4,2018.0,Role-Playing,Konami Digital Entertainment,0.33
+WiiU,2010.0,Sports,Empire Interactive,0.14
+XOne,2004.0,Shooter,SNK,0.12
+XOne,2011.0,Adventure,3DO,0.07
+X360,2005.0,Action,Konami Digital Entertainment,0.07
+PS4,2002.0,Role-Playing,Victor Interactive,0.09
+PC,2016.0,Role-Playing,Acquire,0.01
+XOne,2012.0,Sports,Midway Games,0.01
+PC,2005.0,Shooter,Marvelous Interactive,0.17
+PS3,2012.0,Role-Playing,Disney Interactive Studios,0.07
+XOne,2016.0,Action,Acquire,0.24
+PS4,2017.0,Shooter,Sony Computer Entertainment,0.29
+PS4,2015.0,Action,Majesco Entertainment,0.19
+WiiU,2020.0,Shooter,Namco Bandai Games,0.09
+WiiU,2017.0,Shooter,Ubisoft,0.16
+WiiU,2019.0,Action,Nippon Ichi Software,0.17
+PS4,2002.0,Action,NEC Interchannel,0.25
+PS4,2016.0,Action,Namco Bandai Games,0.16
+PC,1996.0,Shooter,Sony Computer Entertainment,0.27
+PC,2016.0,Shooter,Kalypso Media,0.18
+PS4,2016.0,Shooter,Activision,0.31
+XOne,2023.0,Action,Take-Two Interactive,0.08
+PS4,2016.0,Role-Playing,Konami Digital Entertainment,0.01
+XOne,2022.0,Shooter,Focus Home Interactive,0.2
+PS4,2005.0,Action,Metro 3D,0.23
+PS4,2011.0,Action,Sony Computer Entertainment,0.21
+PS4,2012.0,Shooter,Tecmo Koei,0.25
+X360,2015.0,Action,Majesco Entertainment,0.1
+PC,2013.0,Action,Global Star,0.05
+X360,2021.0,Action,Unknown,0.19
+XOne,2013.0,Action,Ubisoft,0.17
+XOne,2006.0,Action,Sega,0.07
+PS4,2019.0,Action,Namco Bandai Games,0.28
+XOne,2008.0,Role-Playing,Global Star,0.04
+PS4,2014.0,Shooter,Zoo Digital Publishing,0.12
+PC,2016.0,Action,DTP Entertainment,0.29
+PC,2015.0,Shooter,Flight-Plan,0.28
+PS3,2006.0,Shooter,Hudson Soft,0.12
+PS4,2003.0,Action,Acclaim Entertainment,0.18
+XOne,2000.0,Action,Atlus,0.15
+PS4,2009.0,Action,Namco Bandai Games,0.01
+PS4,2013.0,Shooter,Success,0.1
+PC,2000.0,Shooter,Psygnosis,0.16
+XOne,2016.0,Action,Electronic Arts,0.09
+PC,2010.0,Shooter,Namco Bandai Games,0.18
+PS4,2006.0,Adventure,Gathering of Developers,0.27
+WiiU,2014.0,Action,PlayV,0.1
+WiiU,2012.0,Shooter,Ubisoft,0.07
+XOne,2013.0,Shooter,DTP Entertainment,0.21
+PS3,2013.0,Shooter,Konami Digital Entertainment,0.13
+PS4,2014.0,Shooter,Activision,0.18
+PC,2018.0,Shooter,Konami Digital Entertainment,0.13
+PS3,2012.0,Action,Atari,0.34
+PC,2013.0,Action,Namco Bandai Games,0.01
+PC,2014.0,Role-Playing,RTL,0.08
+XOne,2013.0,Action,Konami Digital Entertainment,0.12
+PC,2003.0,Adventure,Capcom,0.04
+XOne,2007.0,Action,Nintendo,0.21
+PS4,2015.0,Shooter,505 Games,0.27
+PS4,2016.0,Shooter,Konami Digital Entertainment,0.16
+PC,2005.0,Action,Capcom,0.09
+XOne,2020.0,Role-Playing,Capcom,0.11
+XOne,2020.0,Action,Kalypso Media,0.11
+X360,2002.0,Shooter,3DO,0.16
+XOne,2013.0,Shooter,Majesco Entertainment,0.13
+PS4,2010.0,Role-Playing,Tecmo Koei,0.18
+XOne,2010.0,Shooter,Zoo Digital Publishing,0.23
+XOne,2011.0,Adventure,Banpresto,0.01
+PC,2000.0,Role-Playing,Pioneer LDC,0.01
+XOne,2009.0,Action,Ubisoft,0.01
+XOne,2013.0,Role-Playing,SouthPeak Games,0.21
+PC,2007.0,Adventure,Atari,0.15
+PC,2011.0,Action,Tecmo Koei,0.17
+PC,2011.0,Shooter,THQ,0.01
+PS4,2014.0,Action,Myelin Media,0.32
+PC,2012.0,Shooter,Idea Factory,0.09
+XOne,2011.0,Action,Namco Bandai Games,0.14
+PS4,2016.0,Shooter,Namco Bandai Games,0.27
+XOne,2023.0,Action,Nippon Ichi Software,0.02
+PC,2007.0,Shooter,Acclaim Entertainment,0.09
+XOne,2012.0,Action,Falcom Corporation,0.14
+PC,2012.0,Shooter,Oxygen Interactive,0.46
+PS4,2000.0,Shooter,Tecmo Koei,0.19
+PS4,2003.0,Shooter,Konami Digital Entertainment,0.34
+PS4,2011.0,Action,Success,0.26
+XOne,2021.0,Action,Namco Bandai Games,0.16
+XOne,2007.0,Action,Tecmo Koei,0.02
+PC,2003.0,Sports,Psygnosis,0.23
+PC,2019.0,Action,505 Games,0.01
+PS4,2011.0,Shooter,Atari,0.36
+PS4,2007.0,Action,Electronic Arts,0.17
+PS4,2012.0,Shooter,Konami Digital Entertainment,0.01
+XOne,2012.0,Action,BAM! Entertainment,0.09
+PS4,2003.0,Shooter,Majesco Entertainment,0.26
+XOne,2020.0,Action,Namco Bandai Games,0.1
+PC,2011.0,Action,Namco Bandai Games,0.19
+XOne,2016.0,Action,Capcom,0.03
+PS4,2012.0,Action,Metro 3D,0.02
+PS4,2009.0,Shooter,Atari,0.21
+XOne,2018.0,Adventure,Marvelous Entertainment,0.12
+XOne,2003.0,Shooter,Sony Computer Entertainment,0.14
+PS4,2005.0,Sports,Mindscape,0.26
+PS3,2012.0,Shooter,Xplosiv,0.07
+XOne,2014.0,Action,Zoo Games,0.15
+XOne,2021.0,Action,Ubisoft,0.13
+PS4,2014.0,Action,Rocket Company,0.01
+PS4,2003.0,Action,Acclaim Entertainment,0.01
+PS4,2017.0,Role-Playing,Sega,0.15
+PS4,2024.0,Shooter,Tecmo Koei,0.37
+XOne,2016.0,Shooter,Unknown,0.21
+XOne,2019.0,Shooter,Focus Home Interactive,0.01
+PS3,2014.0,Action,Tecmo Koei,0.01
+X360,2006.0,Shooter,Sony Computer Entertainment,0.24
+PS4,2008.0,Action,Konami Digital Entertainment,0.15
+PS4,2006.0,Action,BAM! Entertainment,0.27
+PC,2001.0,Action,Seta Corporation,0.03
+WiiU,2015.0,Action,Nordic Games,0.16
+PS3,2011.0,Shooter,Tecmo Koei,0.23
+PS4,2020.0,Action,Ubisoft,0.09
+PS4,2015.0,Action,Takara Tomy,0.11
+PS4,2014.0,Sports,Nintendo,0.16
+PC,2012.0,Adventure,Crave Entertainment,0.17
+XOne,2009.0,Shooter,Irem Software Engineering,0.15
+XOne,2010.0,Shooter,Empire Interactive,0.27
+XOne,2008.0,Role-Playing,IE Institute,0.07
+PS4,2008.0,Action,TDK Mediactive,0.01
+XOne,2013.0,Action,Take-Two Interactive,0.32
+PS4,2013.0,Action,Tivola,0.1
+XOne,2010.0,Action,Rising Star Games,0.06
+PC,2014.0,Adventure,Sony Computer Entertainment,0.11
+XOne,2012.0,Role-Playing,505 Games,0.13
+PS4,2019.0,Adventure,Nippon Ichi Software,0.11
+PC,2012.0,Shooter,Unknown,0.14
+PC,2000.0,Shooter,Nippon Telenet,0.15
+PS4,2011.0,Role-Playing,Tommo,0.18
+PS4,2010.0,Shooter,Sega,0.01
+XOne,2015.0,Shooter,D3Publisher,0.33
+PS4,2017.0,Action,Warner Bros. Interactive Entertainment,0.11
+PS4,2007.0,Shooter,Electronic Arts,0.22
+PS4,2010.0,Action,Deep Silver,0.01
+PS4,2013.0,Shooter,Sega,0.11
+XOne,2012.0,Action,Konami Digital Entertainment,0.04
+XOne,2015.0,Shooter,Crave Entertainment,0.3
+PS4,2017.0,Action,505 Games,0.07
+PC,2011.0,Action,Marvelous Interactive,0.19
+PS4,2002.0,Shooter,Sony Computer Entertainment,0.11
+PS4,2013.0,Action,SouthPeak Games,0.08
+PS4,2015.0,Adventure,Alchemist,0.11
+PC,2019.0,Action,Tecmo Koei,0.24
+WiiU,2016.0,Action,Crimson Cow,0.01
+XOne,2011.0,Action,Nintendo,0.01
+PS4,2022.0,Role-Playing,Sony Computer Entertainment,0.01
+PS4,2007.0,Shooter,Sega,0.05
+PS4,2009.0,Action,Ubisoft,0.05
+PC,2009.0,Action,Groove Games,0.01
+PS4,2005.0,Shooter,Virgin Interactive,0.1
+WiiU,2012.0,Sports,Square Enix,0.01
+XOne,2021.0,Action,Namco Bandai Games,0.01
+XOne,2020.0,Action,Sony Computer Entertainment,0.23
+PC,2017.0,Action,D3Publisher,0.15
+PS4,2006.0,Action,Tecmo Koei,0.15
+PC,2008.0,Shooter,Activision Value,0.03
+PS4,2012.0,Adventure,Microsoft Game Studios,0.01
+PC,2011.0,Adventure,Activision,0.01
+XOne,2016.0,Role-Playing,THQ,0.11
+PS4,2013.0,Action,Daito,0.21
+PC,2012.0,Adventure,Konami Digital Entertainment,0.2
+PS4,2008.0,Action,Acclaim Entertainment,0.21
+PS4,2018.0,Action,Activision,0.05
+PC,2003.0,Shooter,Shogakukan,0.15
+XOne,2020.0,Action,505 Games,0.08
+PS3,2016.0,Role-Playing,Midas Interactive Entertainment,0.09
+XOne,2015.0,Adventure,Tecmo Koei,0.31
+XOne,2012.0,Role-Playing,Conspiracy Entertainment,0.01
+PS4,2013.0,Role-Playing,Take-Two Interactive,0.11
+PS4,2007.0,Action,Konami Digital Entertainment,0.25
+WiiU,2013.0,Action,TDK Core,0.01
+PS4,2013.0,Role-Playing,Konami Digital Entertainment,0.07
+XOne,2020.0,Shooter,Nippon Ichi Software,0.08
+PS4,2016.0,Sports,Konami Digital Entertainment,0.12
+PS4,2019.0,Action,Sony Online Entertainment,0.01
+XOne,2009.0,Action,Ubisoft,0.17
+PC,2009.0,Action,Activision Value,0.18
+PC,2013.0,Shooter,Kadokawa Shoten,0.2
+PS3,2007.0,Role-Playing,Titus,0.02
+PS4,2007.0,Adventure,Ubisoft,0.15
+XOne,2013.0,Action,Namco Bandai Games,0.02
+PS4,2019.0,Shooter,Konami Digital Entertainment,0.14
+PC,2014.0,Action,Activision,0.33
+PS4,2009.0,Action,Namco Bandai Games,0.14
+XOne,2019.0,Action,Nordic Games,0.01
+PS4,2012.0,Shooter,Zoo Digital Publishing,0.23
+PC,2009.0,Shooter,Konami Digital Entertainment,0.01
+PC,2023.0,Action,Ubisoft,0.01
+PS3,2015.0,Shooter,Sony Computer Entertainment,0.05
+PS4,2011.0,Role-Playing,Electronic Arts,0.09
+WiiU,2016.0,Action,Telltale Games,0.2
+PS4,2021.0,Action,Namco Bandai Games,0.19
+PS4,2014.0,Shooter,Eidos Interactive,0.25
+PS4,2017.0,Role-Playing,Namco Bandai Games,0.02
+PS4,2016.0,Role-Playing,Marvelous Entertainment,0.08
+XOne,2011.0,Action,Atari,0.14
+PS4,2012.0,Shooter,505 Games,0.12
+PS4,2013.0,Sports,THQ,0.1
+XOne,2022.0,Action,Namco Bandai Games,0.15
+PC,1999.0,Action,Konami Digital Entertainment,0.08
+XOne,2017.0,Adventure,Namco Bandai Games,0.13
+XOne,2020.0,Action,Telltale Games,0.27
+PS4,2008.0,Shooter,Zoo Digital Publishing,0.17
+PC,2014.0,Role-Playing,Sony Computer Entertainment,0.23
+PS4,2017.0,Action,Square Enix,0.18
+PS4,2004.0,Shooter,Tecmo Koei,0.04
+PS4,1997.0,Shooter,Konami Digital Entertainment,0.05
+XOne,2007.0,Role-Playing,Electronic Arts,0.03
+PS4,2003.0,Sports,SNK,0.05
+XOne,2005.0,Role-Playing,Electronic Arts,0.1
+PS4,2005.0,Action,Electronic Arts,0.19
+XOne,2017.0,Role-Playing,Evolved Games,0.24
+XOne,2011.0,Sports,Namco Bandai Games,0.14
+PS4,2007.0,Shooter,Ubisoft,0.16
+XOne,2002.0,Shooter,Ocean,0.01
+XOne,2011.0,Action,Activision,0.12
+XOne,2007.0,Role-Playing,Electronic Arts,0.11
+PS4,2015.0,Action,Namco Bandai Games,0.15
+XOne,2018.0,Action,Sony Computer Entertainment,0.32
+PS4,2020.0,Sports,Level 5,0.25
+PS4,2010.0,Sports,Midway Games,0.21
+PS4,2014.0,Adventure,Unknown,0.04
+XOne,2012.0,Shooter,505 Games,0.09
+PS4,2010.0,Action,Nintendo,0.12
+XOne,2014.0,Shooter,Enterbrain,0.08
+PS4,2007.0,Action,Atari,0.18
+PC,2001.0,Role-Playing,Acclaim Entertainment,0.15
+PS4,2012.0,Shooter,Atari,0.08
+XOne,2002.0,Action,JVC,0.23
+PC,2018.0,Action,SouthPeak Games,0.12
+PS4,2009.0,Action,BAM! Entertainment,0.01
+PS4,2020.0,Role-Playing,Nordic Games,0.11
+XOne,2019.0,Shooter,Kadokawa Shoten,0.16
+WiiU,2005.0,Action,Ubisoft,0.2
+WiiU,2018.0,Action,Electronic Arts,0.07
+PS4,2013.0,Action,Atari,0.21
+PC,2014.0,Action,Konami Digital Entertainment,0.12
+PS4,2012.0,Sports,Tivola,0.01
+PS4,2020.0,Shooter,Capcom,0.01
+XOne,2020.0,Action,Sega,0.21
+XOne,2008.0,Role-Playing,Sony Computer Entertainment,0.22
+XOne,2017.0,Action,Avanquest,0.13
+PC,2017.0,Action,PQube,0.25
+PS4,2015.0,Shooter,DreamCatcher Interactive,0.27
+XOne,2017.0,Action,Playlogic Game Factory,0.17
+PS4,2004.0,Shooter,Konami Digital Entertainment,0.06
+PS4,2014.0,Role-Playing,Zushi Games,0.29
+PS4,2018.0,Sports,WayForward Technologies,0.18
+WiiU,2015.0,Action,Midway Games,0.06
+XOne,2009.0,Shooter,Namco Bandai Games,0.05
+PS4,2008.0,Action,Namco Bandai Games,0.14
+XOne,2013.0,Shooter,PQube,0.01
+WiiU,2016.0,Action,Namco Bandai Games,0.17
+X360,2014.0,Shooter,Unknown,0.03
+XOne,1999.0,Action,Epoch,0.14
+PS4,2008.0,Sports,Takara Tomy,0.07
+XOne,2023.0,Role-Playing,Aqua Plus,0.07
+PC,2003.0,Action,SNK Playmore,0.02
+PS3,2017.0,Role-Playing,ASCII Media Works,0.08
+PC,2015.0,Action,Rising Star Games,0.29
+XOne,2010.0,Shooter,Ubisoft,0.26
+PS4,2000.0,Action,Coconuts Japan,0.16
+XOne,2012.0,Action,Playlogic Game Factory,0.1
+PS4,2005.0,Shooter,Sega,0.23
+PS4,2012.0,Shooter,Destineer,0.27
+XOne,2015.0,Shooter,JoWood Productions,0.03
+XOne,2006.0,Shooter,Evolved Games,0.11
+PS3,2010.0,Action,Konami Digital Entertainment,0.01
+PC,2014.0,Action,Nobilis,0.21
+PS3,2009.0,Shooter,JoWood Productions,0.34
+PC,2007.0,Shooter,Gotham Games,0.14
+PC,2005.0,Action,505 Games,0.01
+PS4,2009.0,Action,Crave Entertainment,0.19
+XOne,2015.0,Shooter,Hudson Soft,0.04
+PS4,2022.0,Shooter,Activision,0.1
+PS4,2010.0,Role-Playing,Microsoft Game Studios,0.18
+PS4,2023.0,Action,Warner Bros. Interactive Entertainment,0.14
+PC,2013.0,Shooter,PopCap Games,0.09
+PC,2011.0,Shooter,SNK Playmore,0.06
+X360,2011.0,Action,Electronic Arts,0.11
+WiiU,2021.0,Action,Capcom,0.06
+PS3,2013.0,Action,Zoo Games,0.01
+PS4,2003.0,Role-Playing,TechnoSoft,0.09
+PS3,2020.0,Action,Namco Bandai Games,0.13
+PC,2006.0,Shooter,Jaleco,0.1
+PS3,2012.0,Shooter,Microsoft Game Studios,0.01
+PS4,2006.0,Action,Sega,0.22
+PS4,2021.0,Role-Playing,Focus Home Interactive,0.01
+X360,2009.0,Shooter,Konami Digital Entertainment,0.09
+PS4,2021.0,Action,Electronic Arts,0.06
+PS4,2005.0,Role-Playing,Titus,0.13
+XOne,2006.0,Shooter,Imagineer,0.18
+PS4,2016.0,Action,Tecmo Koei,0.24
+PS4,2016.0,Shooter,Namco Bandai Games,0.08
+WiiU,2009.0,Shooter,THQ,0.2
+PS3,1999.0,Action,Misawa,0.12
+X360,2009.0,Adventure,Global Star,0.01
+PS4,2018.0,Shooter,Level 5,0.32
+PS4,2010.0,Shooter,Zoo Digital Publishing,0.01
+XOne,2004.0,Action,DreamCatcher Interactive,0.14
+XOne,2012.0,Action,Codemasters,0.14
+PS4,2015.0,Action,505 Games,0.14
+PC,2006.0,Shooter,Konami Digital Entertainment,0.09
+WiiU,2020.0,Shooter,Genki,0.21
+XOne,2016.0,Role-Playing,Nintendo,0.01
+PS4,2012.0,Action,Activision,0.11
+PS4,2012.0,Shooter,Vivendi Games,0.08
+PS4,2013.0,Role-Playing,Aqua Plus,0.05
+PS4,1999.0,Role-Playing,Gainax Network Systems,0.16
+XOne,2009.0,Role-Playing,Ubisoft,0.21
+XOne,2014.0,Role-Playing,PQube,0.07
+XOne,2012.0,Action,Konami Digital Entertainment,0.18
+PC,1999.0,Shooter,U.S. Gold,0.14
+PS4,2017.0,Adventure,Storm City Games,0.03
+PS4,2012.0,Shooter,Idea Factory,0.14
+PS4,2011.0,Action,THQ,0.09
+PS4,2019.0,Adventure,System 3,0.05
+XOne,2006.0,Action,Activision,0.14
+PC,2009.0,Action,Empire Interactive,0.12
+PS3,2012.0,Action,Navarre Corp,0.01
+XOne,2006.0,Shooter,Codemasters,0.01
+XOne,2020.0,Action,Namco Bandai Games,0.14
+PS4,2000.0,Shooter,MediaQuest,0.07
+XOne,2019.0,Sports,Kalypso Media,0.13
+PS4,2010.0,Shooter,THQ,0.22
+PS3,2012.0,Shooter,Ubisoft,0.01
+XOne,2006.0,Role-Playing,Atari,0.01
+PS4,2008.0,Role-Playing,Microsoft Game Studios,0.28
+PS4,2018.0,Action,Microsoft Game Studios,0.16
+PS4,2008.0,Action,Global Star,0.09
+X360,2004.0,Shooter,Tecmo Koei,0.04
+PS4,2016.0,Role-Playing,Aqua Plus,0.08
+PS4,2012.0,Shooter,Namco Bandai Games,0.03
+PS4,2013.0,Action,Majesco Entertainment,0.21
+PC,2013.0,Shooter,SouthPeak Games,0.05
+XOne,2002.0,Shooter,Max Five,0.25
+XOne,2013.0,Shooter,THQ,0.08
+PS4,2008.0,Role-Playing,Namco Bandai Games,0.01
+PS4,2016.0,Role-Playing,Namco Bandai Games,0.08
+PS3,2013.0,Shooter,THQ,0.01
+PS4,2001.0,Shooter,Acclaim Entertainment,0.14
+PS4,2004.0,Shooter,Take-Two Interactive,0.17
+XOne,2018.0,Shooter,Deep Silver,0.2
+PS4,2012.0,Shooter,ChunSoft,0.01
+PS4,2012.0,Shooter,505 Games,0.27
+PC,2010.0,Shooter,Ubisoft,0.21
+XOne,2003.0,Shooter,Atari,0.26
+PS4,2010.0,Action,Idea Factory,0.12
+PS4,2018.0,Shooter,Namco Bandai Games,0.28
+PC,2014.0,Shooter,Activision,0.01
+PS4,2005.0,Action,Ubisoft,0.19
+PS4,2015.0,Action,Take-Two Interactive,0.05
+XOne,2013.0,Action,Nintendo,0.01
+XOne,2015.0,Adventure,Ubisoft,0.01
+WiiU,2016.0,Role-Playing,Capcom,0.1
+PS4,2009.0,Shooter,Activision,0.07
+PS4,2010.0,Action,LucasArts,0.17
+XOne,2020.0,Shooter,Warner Bros. Interactive Entertainment,0.01
+XOne,2009.0,Shooter,DreamCatcher Interactive,0.01
+PS4,2004.0,Adventure,GT Interactive,0.26
+XOne,2016.0,Action,Phenomedia,0.19
+PS4,2014.0,Action,THQ,0.01
+PC,2000.0,Shooter,Riverhillsoft,0.11
+PC,2012.0,Action,Crave Entertainment,0.19
+XOne,2009.0,Shooter,Natsume,0.14
+WiiU,2015.0,Role-Playing,Prototype,0.1
+WiiU,2020.0,Action,Aksys Games,0.2
+PS4,2015.0,Action,Storm City Games,0.04
+PS4,2022.0,Shooter,Tecmo Koei,0.14
+XOne,2018.0,Role-Playing,Tecmo Koei,0.09
+PS4,1999.0,Shooter,Media Works,0.12
+PS4,2016.0,Action,Tommo,0.07
+PS4,2009.0,Shooter,Codemasters,0.14
+WiiU,2014.0,Shooter,Atlus,0.11
+XOne,2002.0,Role-Playing,Virgin Interactive,0.01
+PC,2016.0,Shooter,Namco Bandai Games,0.2
+PS4,2010.0,Action,Disney Interactive Studios,0.01
+PS4,2021.0,Role-Playing,MLB.com,0.08
+PS3,2019.0,Shooter,Crave Entertainment,0.08
+PS4,2007.0,Action,Zoo Digital Publishing,0.14
+PS4,2017.0,Shooter,Aqua Plus,0.01
+PS4,2016.0,Sports,D3Publisher,0.19
+XOne,2019.0,Shooter,Konami Digital Entertainment,0.04
+PS4,2007.0,Action,Crave Entertainment,0.23
+PS4,2010.0,Shooter,Global Star,0.1
+PS4,2018.0,Action,Reef Entertainment,0.1
+PS4,2015.0,Shooter,Namco Bandai Games,0.32
+PS4,2011.0,Shooter,LucasArts,0.11
+XOne,2008.0,Action,Marvelous Interactive,0.21
+PS4,2014.0,Action,Electronic Arts,0.11
+PS4,2020.0,Sports,Nippon Ichi Software,0.15
+XOne,2014.0,Action,Konami Digital Entertainment,0.1
+PC,2020.0,Role-Playing,Aqua Plus,0.17
+PS4,2007.0,Shooter,Ignition Entertainment,0.08
+PS4,2016.0,Shooter,Deep Silver,0.05
+PS4,2016.0,Action,Take-Two Interactive,0.04
+WiiU,2019.0,Action,Idea Factory,0.1
+PS4,2007.0,Action,Atari,0.08
+PS4,2019.0,Shooter,Namco Bandai Games,0.19
+XOne,2018.0,Adventure,Ubisoft,0.22
+PS4,2007.0,Role-Playing,Ubisoft,0.01
+PS4,2015.0,Action,Namco Bandai Games,0.03
+PS4,2016.0,Action,Alawar Entertainment,0.01
+XOne,2017.0,Action,Prototype,0.29
+XOne,2009.0,Adventure,Eidos Interactive,0.12
+XOne,2013.0,Action,Konami Digital Entertainment,0.14
+PC,2015.0,Action,Sega,0.01
+PS4,2013.0,Shooter,Black Bean Games,0.14
+X360,2011.0,Shooter,Genki,0.17
+PC,2018.0,Action,Take-Two Interactive,0.06
+PC,2017.0,Shooter,Spike,0.23
+PC,2014.0,Action,PopCap Games,0.32
+PS4,2001.0,Action,Konami Digital Entertainment,0.01
+PS4,2002.0,Action,Societa,0.01
+XOne,2017.0,Action,Alchemist,0.01
+PS4,2019.0,Adventure,GameMill Entertainment,0.26
+XOne,2019.0,Shooter,Take-Two Interactive,0.21
+PS4,2007.0,Role-Playing,Take-Two Interactive,0.1
+PS4,2001.0,Action,Ubisoft,0.11
+X360,2003.0,Shooter,Infogrames,0.03
+XOne,2018.0,Adventure,Tecmo Koei,0.18
+XOne,2011.0,Action,Disney Interactive Studios,0.05
+PS4,2016.0,Adventure,Capcom,0.09
+XOne,1999.0,Shooter,Namco Bandai Games,0.18
+PS3,2016.0,Shooter,Ubisoft,0.1
+XOne,2020.0,Action,Compile Heart,0.07
+XOne,2016.0,Shooter,Deep Silver,0.12
+XOne,2011.0,Shooter,Nintendo,0.19
+PS4,2015.0,Adventure,D3Publisher,0.28
+XOne,2014.0,Sports,Flight-Plan,0.15
+WiiU,2014.0,Action,Rising Star Games,0.17
+XOne,2014.0,Sports,Unknown,0.07
+PS4,2018.0,Role-Playing,ASCII Media Works,0.03
+XOne,2009.0,Shooter,Atari,0.17
+XOne,2013.0,Action,Namco Bandai Games,0.11
+WiiU,2008.0,Action,Ubisoft,0.01
+PC,2018.0,Action,PQube,0.06
+PS4,2017.0,Action,System 3 Arcade Software,0.1
+PS4,2010.0,Adventure,Empire Interactive,0.05
+XOne,2021.0,Action,FuRyu,0.24
+PS4,2006.0,Shooter,Konami Digital Entertainment,0.21
+XOne,2010.0,Shooter,Global Star,0.26
+PC,2014.0,Shooter,Focus Home Interactive,0.14
+XOne,2007.0,Action,Namco Bandai Games,0.1
+PS4,2020.0,Shooter,505 Games,0.03
+PC,2013.0,Shooter,ArtDink,0.11
+PC,2019.0,Shooter,Experience Inc.,0.12
+PS4,2007.0,Action,Atari,0.01
+XOne,2012.0,Shooter,Unknown,0.05
+XOne,2019.0,Action,Insomniac Games,0.06
+PC,2010.0,Shooter,Namco Bandai Games,0.16
+PS4,2012.0,Action,Hip Interactive,0.16
+PS4,2015.0,Action,Black Bean Games,0.04
+XOne,2022.0,Role-Playing,D3Publisher,0.14
+PS4,2013.0,Action,THQ,0.09
+XOne,2010.0,Sports,Electronic Arts,0.01
+PC,2000.0,Role-Playing,SNK,0.04
+PS4,2009.0,Action,Flashpoint Games,0.22
+XOne,2022.0,Action,Namco Bandai Games,0.01
+WiiU,2020.0,Action,Capcom,0.1
+XOne,2014.0,Sports,Iceberg Interactive,0.25
+XOne,2011.0,Shooter,Ignition Entertainment,0.03
+XOne,2019.0,Action,Tecmo Koei,0.09
+PS4,2022.0,Shooter,Tecmo Koei,0.01
+PS4,2016.0,Action,Little Orbit,0.27
+XOne,2005.0,Shooter,Namco Bandai Games,0.11
+PS4,2013.0,Shooter,Focus Home Interactive,0.15
+PS4,2020.0,Action,FuRyu,0.23
+PS4,2008.0,Role-Playing,Take-Two Interactive,0.17
+PC,2007.0,Action,Microsoft Game Studios,0.01
+PS4,2006.0,Shooter,Universal Interactive,0.06
+PC,2015.0,Shooter,Sony Computer Entertainment,0.16
+PS4,2015.0,Adventure,O-Games,0.05
+XOne,2011.0,Shooter,Idea Factory,0.01
+PS4,2013.0,Sports,Sega,0.09
+PS4,2011.0,Action,Namco Bandai Games,0.01
+XOne,2011.0,Role-Playing,MC2 Entertainment,0.25
+XOne,2009.0,Action,Banpresto,0.11
+PS4,2016.0,Shooter,Cave,0.05
+XOne,2014.0,Action,Game Factory,0.02
+XOne,2013.0,Adventure,Tradewest,0.01
+PS4,2015.0,Adventure,Sega,0.01
+XOne,2019.0,Action,Namco Bandai Games,0.19
+PS4,2019.0,Shooter,Kalypso Media,0.36
+XOne,2007.0,Shooter,Interplay,0.19
+PS4,2006.0,Action,Ignition Entertainment,0.1
+XOne,2021.0,Shooter,DTP Entertainment,0.07
+PS4,2019.0,Shooter,Telltale Games,0.04
+XOne,2019.0,Shooter,Namco Bandai Games,0.32
+XOne,2013.0,Action,Kando Games,0.06
+X360,2016.0,Sports,D3Publisher,0.29
+XOne,2011.0,Action,Crave Entertainment,0.22
+PC,2007.0,Shooter,Midway Games,0.01
+PS4,2011.0,Action,Game Factory,0.02
+PS4,2006.0,Action,Eidos Interactive,0.02
+PS4,2015.0,Action,Mamba Games,0.08
+XOne,2010.0,Action,Crave Entertainment,0.07
+XOne,2021.0,Shooter,Capcom,0.39
+PC,2019.0,Shooter,Fields,0.01
+XOne,2013.0,Shooter,Genki,0.12
+XOne,2004.0,Shooter,Konami Digital Entertainment,0.16
+PS4,2017.0,Action,Unknown,0.1
+PS4,2010.0,Action,THQ,0.1
+PC,2006.0,Shooter,Sony Computer Entertainment,0.01
+PS4,2010.0,Shooter,Sony Computer Entertainment,0.13
+PS4,2018.0,Shooter,Hudson Soft,0.16
+X360,2012.0,Action,Hip Interactive,0.11
+WiiU,2016.0,Role-Playing,Avanquest,0.14
+XOne,2024.0,Action,Activision,0.22
+PS4,2016.0,Shooter,Konami Digital Entertainment,0.22
+PC,2010.0,Action,Activision,0.09
+PS4,2018.0,Shooter,Telltale Games,0.01
+XOne,2019.0,Action,Comfort,0.02
+PS4,2007.0,Shooter,Conspiracy Entertainment,0.08
+X360,2011.0,Action,Banpresto,0.11
+X360,2012.0,Shooter,Arc System Works,0.04
+XOne,2010.0,Action,Nippon Ichi Software,0.01
+PS4,2003.0,Shooter,Berkeley,0.01
+XOne,2019.0,Action,Namco Bandai Games,0.01
+PS4,1999.0,Action,BMG Interactive Entertainment,0.07
+PS3,2014.0,Shooter,Ubisoft,0.01
+PS4,2011.0,Action,Aspyr,0.01
+PS4,2012.0,Action,Ubisoft,0.05
+PC,2016.0,Role-Playing,Konami Digital Entertainment,0.01
+XOne,2023.0,Role-Playing,Namco Bandai Games,0.12
+PC,2017.0,Role-Playing,Unknown,0.15
+PS4,2012.0,Action,Electronic Arts,0.04
+PC,2009.0,Shooter,Rondomedia,0.05
+PS4,2013.0,Role-Playing,GSP,0.14
+PS4,2010.0,Action,Nintendo,0.02
+XOne,2007.0,Shooter,Sega,0.01
+PS4,2020.0,Action,Level 5,0.22
+XOne,2010.0,Sports,Zushi Games,0.17
+PS4,2012.0,Shooter,Ubisoft,0.16
+PS4,2006.0,Shooter,Konami Digital Entertainment,0.21
+PC,2007.0,Shooter,505 Games,0.01
+PS4,2014.0,Action,Tecmo Koei,0.22
+XOne,2015.0,Action,505 Games,0.12
+PC,2008.0,Shooter,Swing! Entertainment,0.2
+PS4,2012.0,Shooter,Zoo Digital Publishing,0.15
+PC,2009.0,Shooter,Atari,0.1
+PS4,2000.0,Action,Sega,0.07
+PS4,2016.0,Shooter,Arc System Works,0.14
+PS4,2015.0,Action,Zushi Games,0.06
+PC,2011.0,Action,Codemasters,0.17
+XOne,2012.0,Sports,Oxygen Interactive,0.01
+XOne,2019.0,Shooter,Namco Bandai Games,0.04
+WiiU,2006.0,Shooter,Midway Games,0.3
+PS4,2015.0,Adventure,Cave,0.02
+PS3,2008.0,Action,Empire Interactive,0.06
+PC,2006.0,Sports,Kemco,0.01
+X360,2013.0,Shooter,Destineer,0.14
+X360,2008.0,Shooter,Vivendi Games,0.03
+WiiU,2016.0,Action,Electronic Arts,0.06
+PS4,1999.0,Action,Sega,0.18
+PC,2009.0,Action,Rising Star Games,0.01
+PC,2016.0,Action,Atari,0.16
+XOne,2017.0,Action,Alchemist,0.16
+PS4,2014.0,Shooter,Idea Factory,0.24
+WiiU,2016.0,Shooter,SouthPeak Games,0.12
+PS4,2014.0,Action,Konami Digital Entertainment,0.42
+XOne,2015.0,Shooter,Konami Digital Entertainment,0.21
+XOne,2017.0,Sports,ChunSoft,0.11
+PS4,2015.0,Shooter,SNK Playmore,0.01
+PC,2008.0,Role-Playing,Midway Games,0.07
+PS4,2018.0,Shooter,TGL,0.25
+XOne,2014.0,Action,Pinnacle,0.25
+PC,2013.0,Action,From Software,0.23
+PS4,2016.0,Sports,Unknown,0.17
+PC,2007.0,Shooter,Namco Bandai Games,0.01
+PS4,2008.0,Role-Playing,Sony Computer Entertainment,0.14
+PC,2016.0,Adventure,Gust,0.01
+WiiU,2016.0,Action,Atari,0.01
+PS4,2018.0,Action,Marvelous Interactive,0.11
+XOne,2014.0,Shooter,Zoo Digital Publishing,0.15
+XOne,2010.0,Action,Broccoli,0.17
+XOne,2016.0,Shooter,Ubisoft,0.14
+PC,2008.0,Role-Playing,Zoo Digital Publishing,0.13
+XOne,2010.0,Shooter,Atari,0.01
+XOne,2005.0,Action,Capcom,0.07
+PS4,2013.0,Shooter,Activision,0.01
+PS4,2017.0,Action,Rising Star Games,0.01
+PS3,2017.0,Role-Playing,Storm City Games,0.15
+PS4,2013.0,Action,Mad Catz,0.01
+XOne,2015.0,Role-Playing,Square Enix,0.17
+PS4,2014.0,Shooter,Unknown,0.22
+PC,2006.0,Action,Microids,0.02
+XOne,2007.0,Shooter,BAM! Entertainment,0.15
+XOne,2003.0,Action,Virgin Interactive,0.01
+PS4,2009.0,Shooter,Zoo Digital Publishing,0.01
+XOne,2018.0,Role-Playing,Unknown,0.09
+WiiU,2003.0,Role-Playing,Titus,0.03
+XOne,2010.0,Action,Sony Computer Entertainment,0.04
+XOne,2009.0,Shooter,ValuSoft,0.29
+PC,2019.0,Role-Playing,Focus Home Interactive,0.01
+PS4,2014.0,Role-Playing,SNK Playmore,0.13
+XOne,2007.0,Action,Electronic Arts,0.01
+PS4,2002.0,Action,Namco Bandai Games,0.18
+PS4,2013.0,Sports,Konami Digital Entertainment,0.12
+PC,2014.0,Action,D3Publisher,0.12
+PS3,2016.0,Action,Namco Bandai Games,0.01
+X360,2016.0,Role-Playing,D3Publisher,0.01
+PS3,2018.0,Action,Tecmo Koei,0.17
+XOne,2019.0,Role-Playing,7G//AMES,0.26
+PS4,2022.0,Action,Kadokawa Games,0.14
+XOne,2017.0,Shooter,Capcom,0.01
+WiiU,2020.0,Adventure,CyberFront,0.11
+PC,2010.0,Adventure,Unknown,0.32
+XOne,2022.0,Sports,Rocket Company,0.09
+XOne,2010.0,Role-Playing,Majesco Entertainment,0.23
+PC,2011.0,Action,Paradox Interactive,0.01
+X360,2009.0,Adventure,Nobilis,0.08
+PC,2014.0,Sports,Alchemist,0.14
+XOne,2009.0,Shooter,Take-Two Interactive,0.14
+PS4,2008.0,Action,Capcom,0.02
+XOne,2007.0,Action,Acclaim Entertainment,0.01
+PS4,2016.0,Shooter,Rising Star Games,0.22
+X360,2009.0,Shooter,Namco Bandai Games,0.21
+XOne,2014.0,Action,Tecmo Koei,0.23
+XOne,2015.0,Action,Sony Computer Entertainment,0.26
+PS4,2005.0,Shooter,Konami Digital Entertainment,0.12
+XOne,2017.0,Action,Namco Bandai Games,0.05
+XOne,2011.0,Adventure,LucasArts,0.22
+PS4,2011.0,Action,Ignition Entertainment,0.16
+PS3,2011.0,Action,Electronic Arts,0.01
+PS4,2021.0,Action,Idea Factory,0.01
+XOne,2008.0,Role-Playing,Sega,0.13
+PS4,2016.0,Role-Playing,Russel,0.07
+XOne,2012.0,Action,Capcom,0.08
+PC,2000.0,Action,Sony Computer Entertainment,0.19
+PS3,2014.0,Action,Capcom,0.16
+PS4,2006.0,Action,Konami Digital Entertainment,0.23
+WiiU,2010.0,Shooter,Ignition Entertainment,0.01
+PC,2009.0,Action,Atari,0.11
+PS4,2017.0,Shooter,Compile Heart,0.2
+PS4,2001.0,Action,Virgin Interactive,0.01
+PS4,2024.0,Shooter,TGL,0.05
+PS3,2018.0,Action,Little Orbit,0.01
+PS4,2013.0,Action,Game Factory,0.1
+XOne,2012.0,Action,Microsoft Game Studios,0.24
+PC,2014.0,Action,Metro 3D,0.28
+PS3,2014.0,Action,Nippon Ichi Software,0.01
+XOne,2011.0,Adventure,Unknown,0.13
+PC,2017.0,Action,Prototype,0.14
+PS4,2017.0,Action,Majesco Entertainment,0.14
+PS3,2017.0,Action,Capcom,0.12
+PS4,2024.0,Role-Playing,Idea Factory,0.12
+PS4,2002.0,Sports,Time Warner Interactive,0.26
+WiiU,2011.0,Role-Playing,BAM! Entertainment,0.19
+PS4,2011.0,Shooter,Marvelous Interactive,0.01
+PS4,2021.0,Role-Playing,Idea Factory,0.17
+XOne,2020.0,Action,Nippon Ichi Software,0.17
+PS4,2011.0,Role-Playing,Broccoli,0.13
+PS4,1999.0,Role-Playing,GT Interactive,0.21
+XOne,2005.0,Action,Banpresto,0.1
+PC,2009.0,Shooter,Success,0.12
+PC,2006.0,Action,Acclaim Entertainment,0.08
+PS4,2012.0,Action,Zoo Digital Publishing,0.01
+XOne,2009.0,Role-Playing,Metro 3D,0.06
+PC,2015.0,Action,Konami Digital Entertainment,0.01
+PS4,2012.0,Shooter,Marvelous Interactive,0.01
+PS4,2009.0,Adventure,DreamCatcher Interactive,0.22
+PS4,2014.0,Shooter,Acquire,0.15
+XOne,2008.0,Action,Microsoft Game Studios,0.07
+PS4,2011.0,Shooter,BAM! Entertainment,0.03
+PC,2020.0,Role-Playing,Astragon,0.1
+WiiU,2012.0,Action,Konami Digital Entertainment,0.17
+PS4,2024.0,Action,Compile Heart,0.01
+XOne,2013.0,Shooter,Atari,0.08
+PS4,1998.0,Sports,Micro Cabin,0.17
+PS4,2012.0,Action,Nintendo,0.01
+PC,2018.0,Action,Mastertronic,0.06
+XOne,2006.0,Adventure,Sony Computer Entertainment,0.03
+X360,2013.0,Action,System 3 Arcade Software,0.06
+XOne,2018.0,Action,CyberFront,0.02
+PS4,2020.0,Shooter,Namco Bandai Games,0.11
+XOne,2011.0,Action,Prototype,0.26
+PS4,2014.0,Action,Quinrose,0.04
+PS3,2014.0,Shooter,Sweets,0.11
+XOne,2015.0,Shooter,DreamCatcher Interactive,0.28
+PS4,2004.0,Shooter,ArtDink,0.04
+XOne,2007.0,Action,Atlus,0.25
+XOne,2020.0,Shooter,Milestone S.r.l.,0.08
+PC,2022.0,Shooter,Introversion Software,0.26
+PS4,2012.0,Role-Playing,Konami Digital Entertainment,0.15
+PS4,2002.0,Role-Playing,JVC,0.11
+PS4,2008.0,Shooter,THQ,0.09
+PS4,2016.0,Role-Playing,Paon,0.01
+XOne,2015.0,Role-Playing,Tecmo Koei,0.08
+PS4,2011.0,Action,THQ,0.17
+XOne,2015.0,Adventure,ASCII Media Works,0.07
+XOne,2015.0,Role-Playing,Interchannel,0.04
+PS4,2012.0,Action,Ignition Entertainment,0.05
+X360,2011.0,Action,Game Factory,0.17
+XOne,2010.0,Shooter,Namco Bandai Games,0.21
+PS4,2016.0,Action,Sony Computer Entertainment,0.01
+XOne,2020.0,Shooter,Ubisoft,0.01
+PS4,2014.0,Shooter,Eidos Interactive,0.14
+PS3,2004.0,Action,Virgin Interactive,0.22
+XOne,2014.0,Action,Unknown,0.18
+XOne,2006.0,Role-Playing,Konami Digital Entertainment,0.01
+X360,2001.0,Action,Compile,0.04
+PC,2012.0,Shooter,Paradox Interactive,0.01
+PC,2017.0,Action,Unknown,0.04
+PS4,2015.0,Shooter,Deep Silver,0.25
+PS4,2021.0,Shooter,Kadokawa Games,0.01
+XOne,2012.0,Action,Microids,0.01
+XOne,2014.0,Shooter,Unknown,0.01
+XOne,2014.0,Shooter,DTP Entertainment,0.11
+PC,2011.0,Action,Alchemist,0.13
+PS4,2013.0,Action,Blast! Entertainment Ltd,0.12
+PS4,2016.0,Shooter,Idea Factory,0.22
+XOne,2013.0,Shooter,Alchemist,0.01
+PS4,2009.0,Shooter,Sega,0.21
+XOne,2010.0,Role-Playing,KID,0.04
+PC,2015.0,Action,Rising Star Games,0.14
+XOne,2010.0,Action,Sega,0.01
+PC,2012.0,Shooter,Atari,0.08
+XOne,2017.0,Shooter,Disney Interactive Studios,0.1
+PC,2018.0,Role-Playing,fonfun,0.19
+PS4,2011.0,Action,505 Games,0.01
+PC,2011.0,Shooter,Takara Tomy,0.08
+PC,2021.0,Shooter,D3Publisher,0.01
+PS4,2010.0,Action,Sega,0.13
+XOne,2015.0,Shooter,Slitherine Software,0.15
+PS3,2017.0,Shooter,Princess Soft,0.21
+PS4,2012.0,Action,Sega,0.02
+PC,2023.0,Action,Codemasters,0.16
+WiiU,2012.0,Action,Activision,0.21
+PS3,1997.0,Sports,Sony Computer Entertainment,0.01
+XOne,2014.0,Action,Marvelous Interactive,0.13
+XOne,2017.0,Action,Majesco Entertainment,0.17
+WiiU,2015.0,Action,Focus Home Interactive,0.04
+XOne,2016.0,Action,Starfish,0.01
+PS4,2009.0,Action,Electronic Arts,0.17
+PS4,2016.0,Shooter,Nippon Ichi Software,0.01
+PC,2018.0,Action,Idea Factory,0.05
+XOne,2020.0,Action,Focus Home Interactive,0.07
+PS4,2012.0,Action,Blast! Entertainment Ltd,0.15
+PS4,2019.0,Action,Activision,0.01
+PC,2019.0,Action,Idea Factory,0.01
+XOne,2012.0,Shooter,Dorart,0.1
+PS3,2007.0,Shooter,Konami Digital Entertainment,0.18
+PC,2015.0,Shooter,FuRyu,0.31
+WiiU,2002.0,Action,Virgin Interactive,0.01
+PS3,2017.0,Role-Playing,Sega,0.1
+PS4,2017.0,Shooter,Broccoli,0.01
+XOne,2023.0,Action,Avanquest,0.17
+PS4,2010.0,Action,Konami Digital Entertainment,0.01
+WiiU,2016.0,Role-Playing,Destineer,0.01
+PS4,2014.0,Action,Iceberg Interactive,0.02
+XOne,2022.0,Action,Kadokawa Shoten,0.06
+PC,2018.0,Shooter,Tecmo Koei,0.11
+PS4,2019.0,Action,7G//AMES,0.13
+PC,2010.0,Adventure,Namco Bandai Games,0.07
+PS4,2023.0,Action,Namco Bandai Games,0.01
+XOne,2018.0,Action,5pb,0.14
+XOne,2018.0,Action,Namco Bandai Games,0.06
+PS4,2017.0,Action,Namco Bandai Games,0.19
+XOne,2002.0,Role-Playing,Imageworks,0.01
+X360,2018.0,Role-Playing,Ubisoft,0.01
+PS4,2020.0,Sports,Atlus,0.07
+XOne,2013.0,Shooter,Hudson Soft,0.21
+PS3,2010.0,Action,Eidos Interactive,0.09
+PC,2020.0,Action,Focus Multimedia,0.05
+PS4,2009.0,Action,Marvelous Interactive,0.01
+X360,2006.0,Sports,Ubisoft,0.25
+PS4,2008.0,Shooter,Ubisoft,0.01
+XOne,2017.0,Shooter,Kadokawa Shoten,0.01
+XOne,2014.0,Shooter,Konami Digital Entertainment,0.14
+PC,2015.0,Role-Playing,5pb,0.01
+PS4,2012.0,Action,Electronic Arts,0.21
+PS4,2018.0,Shooter,Ubisoft,0.16
+PC,2011.0,Shooter,Konami Digital Entertainment,0.17
+PS4,2015.0,Role-Playing,5pb,0.14
+XOne,2018.0,Action,dramatic create,0.05
+PC,2007.0,Action,Vivendi Games,0.01
+XOne,2016.0,Shooter,Focus Home Interactive,0.07
+PS4,2013.0,Role-Playing,Koch Media,0.01
+PS4,2022.0,Adventure,Namco Bandai Games,0.13
+WiiU,2021.0,Shooter,Tecmo Koei,0.16
+XOne,2014.0,Action,Blast! Entertainment Ltd,0.22
+PS4,2011.0,Action,Ignition Entertainment,0.11
+PS4,2015.0,Shooter,Square Enix,0.18
+PS4,2012.0,Action,Tecmo Koei,0.05
+WiiU,2014.0,Shooter,5pb,0.04
+PS4,2012.0,Role-Playing,Ignition Entertainment,0.12
+PS4,2008.0,Action,Victor Interactive,0.04
+XOne,2013.0,Action,Neko Entertainment,0.1
+PS4,2016.0,Action,Black Bean Games,0.01
+PS4,2011.0,Action,Kadokawa Shoten,0.01
+WiiU,2014.0,Shooter,UFO Interactive,0.15
+PC,2009.0,Action,505 Games,0.16
+PS4,2022.0,Action,Prototype,0.01
+XOne,2007.0,Action,Interplay,0.14
+PS4,2008.0,Action,Konami Digital Entertainment,0.02
+PS4,2011.0,Shooter,Konami Digital Entertainment,0.1
+XOne,2007.0,Shooter,Zoo Digital Publishing,0.22
+XOne,2015.0,Shooter,Atari,0.16
+PC,2017.0,Shooter,Avanquest Software,0.16
+PS3,2012.0,Action,Take-Two Interactive,0.26
+PS4,2010.0,Shooter,ChunSoft,0.02
+X360,2017.0,Action,D3Publisher,0.01
+XOne,2017.0,Sports,Majesco Entertainment,0.01
+PS4,2013.0,Action,Arika,0.05
+PC,2018.0,Action,Prototype,0.01
+PS4,2012.0,Action,Nippon Ichi Software,0.06
+XOne,2012.0,Role-Playing,Game Factory,0.02
+PC,2019.0,Action,Koch Media,0.15
+PS4,2018.0,Sports,Idea Factory,0.11
+PS3,2010.0,Action,Wanadoo,0.01
+PS4,2014.0,Role-Playing,5pb,0.13
+PC,2009.0,Shooter,Unknown,0.15
+PS4,2016.0,Action,Activision,0.01
+PS4,2019.0,Action,Asgard,0.03
+PS4,2012.0,Action,Konami Digital Entertainment,0.01
+PS3,2012.0,Role-Playing,Culture Brain,0.01
+PS4,2019.0,Role-Playing,Focus Home Interactive,0.01
+PS3,2015.0,Action,Rondomedia,0.08
+PS4,2016.0,Action,Idea Factory,0.01
+XOne,2012.0,Action,Global Star,0.02
+PS4,2009.0,Action,Namco Bandai Games,0.01
+PS4,2016.0,Shooter,Capcom,0.11
+X360,2005.0,Action,Konami Digital Entertainment,0.11
+XOne,2019.0,Action,HuneX,0.11
+XOne,2011.0,Role-Playing,THQ,0.07
+XOne,2012.0,Shooter,Electronic Arts,0.01
+XOne,2013.0,Role-Playing,Namco Bandai Games,0.01
+XOne,2010.0,Action,Sega,0.03
+PS3,2020.0,Sports,Tecmo Koei,0.03
+XOne,2011.0,Shooter,Funsta,0.09
+XOne,2015.0,Shooter,Mumbo Jumbo,0.23
+XOne,2012.0,Action,Visco,0.15
+XOne,2018.0,Role-Playing,Paradox Interactive,0.01
+XOne,2012.0,Shooter,Electronic Arts,0.15
+XOne,2016.0,Role-Playing,Namco Bandai Games,0.13
+XOne,2019.0,Shooter,D3Publisher,0.01
+PC,2013.0,Role-Playing,Tecmo Koei,0.15
+WiiU,2011.0,Shooter,Paradox Interactive,0.07
+WiiU,2007.0,Sports,Atari,0.01
+PC,2012.0,Action,Capcom,0.12
+XOne,2013.0,Action,Unknown,0.09
+PC,2018.0,Shooter,5pb,0.06
+PS4,2009.0,Shooter,Takara Tomy,0.09
+XOne,2012.0,Shooter,Idea Factory,0.01
+PS4,2013.0,Shooter,Nordic Games,0.17
+PS4,2017.0,Shooter,Electronic Arts,0.08
+WiiU,2008.0,Role-Playing,THQ,0.09
+PS3,2013.0,Action,Foreign Media Games,0.11
+XOne,2010.0,Role-Playing,Ubisoft,0.01
+PS4,2005.0,Action,Infogrames,0.01
+XOne,2012.0,Shooter,Codemasters,0.01
+XOne,2016.0,Role-Playing,Sony Computer Entertainment,0.13
+PC,2008.0,Action,Midway Games,0.01
+WiiU,2018.0,Action,D3Publisher,0.08
+PS4,2023.0,Action,D3Publisher,0.11
+PS4,2013.0,Shooter,Alvion,0.15
+PS4,2014.0,Action,Kadokawa Shoten,0.01
+PS4,2017.0,Action,Compile Heart,0.07
+PS4,2019.0,Role-Playing,Take-Two Interactive,0.24
+PS4,2017.0,Action,RED Entertainment,0.25
+PS4,2016.0,Shooter,D3Publisher,0.18
+PS4,2012.0,Shooter,Touchstone,0.11
+PS4,2013.0,Action,Electronic Arts,0.01
+PC,2020.0,Action,Tru Blu Entertainment,0.13
+PS4,2021.0,Adventure,Experience Inc.,0.05
+PS3,2012.0,Shooter,SNK Playmore,0.12
+PS4,2015.0,Action,Idea Factory,0.01
+PS4,2013.0,Role-Playing,CDV Software Entertainment,0.04
+PS4,2019.0,Shooter,D3Publisher,0.09
+PC,2008.0,Action,Activision,0.08
+PS4,2022.0,Shooter,Happinet,0.12
+XOne,2014.0,Shooter,Destineer,0.01
+PS4,2013.0,Action,Quinrose,0.01
+WiiU,2016.0,Role-Playing,Idea Factory,0.22
+PS4,2017.0,Action,D3Publisher,0.31
+XOne,2016.0,Action,Konami Digital Entertainment,0.1
+PS3,2018.0,Action,Zoo Games,0.01
+PS4,2007.0,Role-Playing,Tecmo Koei,0.01
+PS4,2013.0,Shooter,Alchemist,0.12
+PC,2007.0,Sports,KID,0.19
+PS4,2022.0,Action,Idea Factory,0.01
+PS4,2012.0,Role-Playing,Rocket Company,0.05
+XOne,2009.0,Shooter,"Destination Software, Inc",0.08
+PS4,2015.0,Action,Taito,0.15
+X360,2019.0,Action,Boost On,0.03
+XOne,2012.0,Role-Playing,Storm City Games,0.01
+XOne,2008.0,Action,Evolved Games,0.12
+PS4,2019.0,Shooter,Funbox Media,0.19
+XOne,2012.0,Shooter,Slitherine Software,0.06
+XOne,2016.0,Action,D3Publisher,0.1
+PS4,2012.0,Adventure,MTO,0.01
+PS3,2019.0,Role-Playing,System 3,0.01
+XOne,2018.0,Shooter,Sony Computer Entertainment,0.17
+PC,2019.0,Shooter,Kadokawa Games,0.11
+PS4,2017.0,Shooter,Destineer,0.12
+PS4,2010.0,Shooter,D3Publisher,0.22
+PC,2022.0,Action,Unknown,0.01
+PC,2016.0,Action,Moss,0.01
+PS4,2014.0,Action,Ubisoft,0.08
+PS4,2015.0,Shooter,Mindscape,0.02
+PC,2020.0,Shooter,Namco Bandai Games,0.15
+PS4,2012.0,Action,Hudson Soft,0.04
+PS4,2019.0,Adventure,Stainless Games,0.01
+XOne,2018.0,Action,Unknown,0.07
+PS4,2023.0,Action,Telltale Games,0.08
+PS4,2011.0,Action,Tecmo Koei,0.16
+PS4,2021.0,Shooter,Capcom,0.11
+X360,2012.0,Action,Capcom,0.11
+PS4,2010.0,Shooter,Eidos Interactive,0.1
+XOne,2015.0,Shooter,D3Publisher,0.05
+WiiU,2019.0,Action,Minato Station,0.01
+XOne,2013.0,Adventure,Nintendo,0.09
+XOne,2006.0,Action,Rebellion,0.03
+XOne,2017.0,Shooter,Deep Silver,0.24
+PS4,2019.0,Action,505 Games,0.2
+XOne,2010.0,Shooter,Ignition Entertainment,0.13
+WiiU,2014.0,Role-Playing,Vivendi Games,0.1
+PC,2017.0,Action,Ubisoft,0.05
+XOne,2008.0,Action,Ubisoft,0.01
+PS4,2011.0,Action,SCi,0.04
+PS3,2012.0,Action,Namco Bandai Games,0.07
+PS4,2019.0,Adventure,Quinrose,0.09
+PC,2009.0,Shooter,Namco Bandai Games,0.11
+PS4,2011.0,Shooter,Activision,0.16
+PC,2012.0,Adventure,Creative Core,0.01
+PC,2018.0,Role-Playing,Nintendo,0.01
+XOne,2022.0,Role-Playing,Focus Home Interactive,0.21
+PS4,2019.0,Action,Bethesda Softworks,0.14
+PC,2017.0,Action,Quinrose,0.02
+PS4,2013.0,Action,Compile Heart,0.05
+PS4,2005.0,Action,Codemasters,0.05
+XOne,2012.0,Action,Deep Silver,0.06
+XOne,2015.0,Action,Atari,0.11
+XOne,2010.0,Action,Prototype,0.31
+PS4,2019.0,Action,Focus Home Interactive,0.08
+XOne,2013.0,Action,Konami Digital Entertainment,0.13
+PS3,2016.0,Action,5pb,0.01
+PS4,2019.0,Action,Sony Computer Entertainment,0.02
+XOne,2011.0,Shooter,D3Publisher,0.19
+XOne,2022.0,Shooter,Activision,0.11
+PS3,2013.0,Shooter,Prototype,0.01
+XOne,2014.0,Action,Ignition Entertainment,0.13
+PC,2008.0,Action,Ongakukan,0.25
+PS4,2021.0,Action,imageepoch Inc.,0.01
+PS4,2017.0,Action,Arc System Works,0.21
+X360,2008.0,Action,Tecmo Koei,0.01
+PS3,2012.0,Adventure,Tecmo Koei,0.15
+XOne,2014.0,Action,Activision,0.06
+XOne,2012.0,Action,Marvelous Interactive,0.01
+XOne,2020.0,Shooter,Namco Bandai Games,0.11
+PS4,2019.0,Shooter,Nintendo,0.18
+PS3,2014.0,Action,Marvelous Interactive,0.1
+PC,2015.0,Action,5pb,0.12
+XOne,2018.0,Sports,FuRyu,0.02
+PS4,2012.0,Action,Nintendo,0.01
+PS4,2012.0,Shooter,Unknown,0.14
+PS4,2012.0,Role-Playing,Game Factory,0.24
+PC,2024.0,Action,HuneX,0.17
+XOne,2015.0,Shooter,Nippon Ichi Software,0.01
+PS4,2020.0,Action,Alchemist,0.01
+XOne,2019.0,Action,D3Publisher,0.01
+WiiU,2022.0,Action,Milestone S.r.l,0.01
+PS4,2018.0,Adventure,Activision,0.07
+XOne,2018.0,Action,Quinrose,0.1
+XOne,2004.0,Action,NewKidCo,0.01
+PS4,2018.0,Sports,Unknown,0.14
+XOne,1999.0,Action,Electronic Arts,0.12
+XOne,2008.0,Role-Playing,Banpresto,0.01
+PS4,2013.0,Shooter,5pb,0.06
+PS4,2017.0,Shooter,Trion Worlds,0.01
+PS3,2023.0,Role-Playing,UIG Entertainment,0.03
+PS4,2015.0,Shooter,Takara Tomy,0.07
+XOne,2013.0,Action,Tecmo Koei,0.08
+XOne,2013.0,Adventure,Hudson Soft,0.1
+PC,2017.0,Sports,7G//AMES,0.08
+PC,2010.0,Role-Playing,Wanadoo,0.03

@@ -1,0 +1,10 @@
+[
+  {
+    "version": "v01",
+    "archive_file": "data\\raw\\archive\\vgsales_v01.csv",
+    "rows": 16598,
+    "sha256": "6616b096078e09752cf097d20c124f5a0221907f7225f9e90e948d6a5f75e68f",
+    "timestamp": "2026-11-07T08:34:56.504327+00:00",
+    "batch_type": "baseline"
+  }
+]

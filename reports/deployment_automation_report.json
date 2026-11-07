@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "model_name": "Video_Game_Sales_Production_Model",
+    "model_version": "3",
+    "run_id": "fc3393e891f64a6fa81de6de44376704",
+    "docker_image": "videogamesales-api:model-v3",
+    "kubernetes_context": "docker-desktop",
+    "kubernetes_deployment": "vgsales-api",
+    "kubernetes_container": "vgsales-api",
+    "app_label": "vgsales-api",
+    "deployment_bundle": {
+        "model": "deployment\\model.pkl",
+        "preprocessor": "deployment\\preprocessor.pkl",
+        "metadata": "deployment\\model_metadata.json"
+    }
+}

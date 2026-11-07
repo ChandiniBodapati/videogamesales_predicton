@@ -1,0 +1,8 @@
+{
+    "status": "success",
+    "model_name": "Video_Game_Sales_Production_Model",
+    "v2_version": "3",
+    "stage": "Production",
+    "run_id": "fc3393e891f64a6fa81de6de44376704",
+    "recommendation": "PROMOTE_V2"
+}

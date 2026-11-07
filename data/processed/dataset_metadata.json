@@ -1,0 +1,13 @@
+{
+    "raw_rows": 16598,
+    "train_rows": 13278,
+    "test_rows": 3320,
+    "features_in": [
+        "Platform",
+        "Year",
+        "Genre",
+        "Publisher"
+    ],
+    "features_out_count": 579,
+    "target": "Global_Sales"
+}

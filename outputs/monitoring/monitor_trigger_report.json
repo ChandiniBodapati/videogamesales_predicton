@@ -1,0 +1,7 @@
+{
+    "timestamp": "2026-11-07T08:41:34.645250+00:00",
+    "drift_detected": true,
+    "new_data_present": false,
+    "pipeline_triggered": false,
+    "status": "drift_waiting_for_data"
+}

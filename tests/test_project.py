@@ -1,9 +1,16 @@
 import os
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+
 def test_dataset_exists():
-    assert os.path.exists("C:\\Users\\HP 640 G5\\Desktop\\videogamesales_predicton\\data\\raw\\vgsales.csv")
+    assert (BASE_DIR / "data" / "raw" / "vgsales.csv").exists()
+
 def test_processed_dataset_exists():
-    assert os.path.exists("C:\\Users\\HP 640 G5\\Desktop\\videogamesales_predicton\\data\\processed\\vgsales_cleaned.csv")
+    assert (BASE_DIR / "data" / "processed" / "vgsales_cleaned.csv").exists()
+
 def test_final_model_exists():
-    assert os.path.exists("C:\\Users\\HP 640 G5\\Desktop\\videogamesales_predicton\\models\\final_model.pkl")
+    assert (BASE_DIR / "models" / "final_model.pkl").exists()
+
 def test_prediction_output_exists():
-    assert os.path.exists("C:\\Users\\HP 640 G5\\Desktop\\videogamesales_predicton\\outputs\\new_game_prediction.csv")    
+    assert (BASE_DIR / "outputs" / "new_game_prediction.csv").exists()

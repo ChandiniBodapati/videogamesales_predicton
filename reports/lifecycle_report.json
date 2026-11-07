@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "model_name": "Video_Game_Sales_Production_Model",
+    "decision_metric": "r2",
+    "candidate_version": 4,
+    "candidate_run_id": "e9b1b9b348e24e619fe56572defb682c",
+    "candidate_metric": 0.09862434138241372,
+    "production_version_before": 3,
+    "production_metric_before": 0.10620956146228466,
+    "promoted": false,
+    "decision": "REJECTED",
+    "production_version_after": 3
+}

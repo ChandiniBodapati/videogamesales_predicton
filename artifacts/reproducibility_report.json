@@ -1,0 +1,13 @@
+{
+    "test_name": "Pipeline Reproducibility Validation",
+    "parameters": {
+        "n_estimators": 50,
+        "learning_rate": 0.1,
+        "max_depth": 3,
+        "random_state": 42
+    },
+    "execution_1_r2": 0.08866938317571149,
+    "execution_2_r2": 0.08866938317571149,
+    "is_strictly_reproducible": true,
+    "status": "PASSED"
+}

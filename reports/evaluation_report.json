@@ -1,0 +1,10 @@
+{
+    "model_name": "Video_Game_Sales_Production_Model",
+    "metrics": {
+        "r2": 0.10589087762850591,
+        "mse": 3.756477857745096,
+        "mae": 0.5360310915925379,
+        "rmse": 1.9381635270908117
+    },
+    "test_samples": 3320
+}

@@ -1,0 +1,5 @@
+feature,type,test,statistic,p_value,threshold,status
+Year,numerical,Kolmogorov-Smirnov,0.3916,0.0,0.1,DRIFT
+Platform,categorical,Jensen-Shannon,0.6763,,0.1,DRIFT
+Genre,categorical,Jensen-Shannon,0.3166,,0.1,DRIFT
+Publisher,categorical,Jensen-Shannon,0.0,,0.1,OK

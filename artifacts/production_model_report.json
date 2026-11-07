@@ -1,0 +1,22 @@
+{
+    "model_name": "Video_Game_Sales_Production_Model",
+    "version": 1,
+    "stage": "Production",
+    "run_id": "e51780b9ec874922b2fbea4a35a5b1cb",
+    "source": "models:/m-dc39bea8301e489bb8f6d3023c13c80f",
+    "parameters": {
+        "n_estimators": "100",
+        "learning_rate": "0.1",
+        "max_depth": "3",
+        "random_state": "42",
+        "model_family": "GradientBoostingRegressor"
+    },
+    "metrics": {
+        "R2": 0.0986243413824136,
+        "r2": 0.0986243413824136,
+        "MSE": 3.7870072213629813,
+        "MAE": 0.5349166741816522,
+        "RMSE": 1.9460234380302261
+    },
+    "creation_timestamp": 1794040462436
+}

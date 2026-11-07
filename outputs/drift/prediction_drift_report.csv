@@ -1,0 +1,2 @@
+prediction_distribution_ks,prediction_distribution_p_value,prediction_distribution_status,baseline_mean_prediction,evolved_mean_prediction,baseline_median_prediction,evolved_median_prediction,threshold
+0.1991,0.0,DRIFT,0.5272,0.6491,0.4085,0.495,0.1

@@ -1,0 +1,2 @@
+column,failure_case,index,schema_context,check,check_number
+,Genre,,DataFrameSchema,column_in_dataframe,

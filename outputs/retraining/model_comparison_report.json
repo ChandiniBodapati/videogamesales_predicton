@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "champion_r2": 0.09862434138241372,
+    "challenger_r2": 0.10620956146228466,
+    "recommendation": "PROMOTE_V2",
+    "comparison": [
+        {
+            "metric": "r2",
+            "v1_champion": 0.0986,
+            "v2_challenger": 0.1062,
+            "delta": 0.0076,
+            "improved": true
+        },
+        {
+            "metric": "rmse",
+            "v1_champion": 1.946,
+            "v2_challenger": 1.9378,
+            "delta": -0.0082,
+            "improved": true
+        },
+        {
+            "metric": "mae",
+            "v1_champion": 0.5349,
+            "v2_challenger": 0.534,
+            "delta": -0.0009,
+            "improved": true
+        },
+        {
+            "metric": "mse",
+            "v1_champion": 3.787,
+            "v2_challenger": 3.7551,
+            "delta": -0.0319,
+            "improved": true
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vgsales-api
+  labels:
+    app: vgsales-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vgsales-api
+  template:
+    metadata:
+      labels:
+        app: vgsales-api
+    spec:
+      containers:
+        - name: vgsales-api
+          image: videogamesales-api:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8000

@@ -1,0 +1,46 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Master MLOps Pipeline (--force)",
+            "type": "shell",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe src/mlops_pipeline/vgsales_pipeline.py --force",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Run Lab 9 Failure Injection",
+            "type": "shell",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe src/mlops_pipeline/10_failure_injection.py",
+            "problemMatcher": []
+        },
+        {
+            "label": "Run Pytest Suite",
+            "type": "shell",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe -m pytest tests/ -v",
+            "problemMatcher": [],
+            "group": "test"
+        },
+        {
+            "label": "Run FastAPI Server",
+            "type": "shell",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe -m uvicorn api.main:app --host 127.0.0.1 --port 8000 --reload",
+            "problemMatcher": []
+        },
+        {
+            "label": "Run Monitoring Trigger",
+            "type": "shell",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe src/mlops_pipeline/12_monitor_trigger.py",
+            "problemMatcher": []
+        },
+        {
+            "label": "Launch MLflow UI",
+            "type": "shell",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe -m mlflow ui --backend-store-uri sqlite:///mlflow.db --port 5000",
+            "problemMatcher": []
+        }
+    ]
+}

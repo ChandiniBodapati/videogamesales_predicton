@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/chandini/Documents/videogamesales_predicton/src/mlruns/1/models/m-dc39bea8301e489bb8f6d3023c13c80f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.10
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.15.2
+model_id: m-dc39bea8301e489bb8f6d3023c13c80f
+model_size_bytes: 2597825
+model_uuid: m-dc39bea8301e489bb8f6d3023c13c80f
+prompts: null
+run_id: e51780b9ec874922b2fbea4a35a5b1cb
+utc_time_created: '2026-11-07 08:34:08.986908'
